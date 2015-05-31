@@ -257,7 +257,7 @@ Advanced
 * [Metaprogramming custom control structures in C][343]
 * [Some dark corners of C][210]
 * [Writing efficient C and C code optimization][33]
- 
+
 Self-study courses
 ----------
 
@@ -407,7 +407,7 @@ This contains standard C libraries.
 
 * [Bionic][4] - Google's C standard library, developed for Android. [3-clause BSD][6]
 * [dietlibc][9] - A C standard library designed for the smallest possible binaries. [GNU GPL2.1][8].
-* [glibc][57] - The GNU C Library; an implementation of the C standard library. [GNU LGPL3][5]. 
+* [glibc][57] - The GNU C Library; an implementation of the C standard library. [GNU LGPL3][5].
 * [musl][10] - A standard C library, compatible with POSIX 2008 and C11. Designed for static linking. [Expat][11].
 
 String Manipulation
