@@ -216,11 +216,11 @@ This is a list of resources for learning C programming in general, or something 
 Reference
 ---------
 
-* [CERT C Coding Standard][266]
 * [C FAQ - comp.lang.c Frequently Asked Questions][262]
 * [Draft C11 standard][247]
 * [GNU C Reference Manual][329]
 * [Robert Pike's notes on programming in C][273]
+* [SEI CERT C Coding Standard][266]
 
 Beginner
 --------
@@ -813,7 +813,7 @@ XML
 [263]: https://computing.llnl.gov/tutorials/pthreads/
 [264]: https://computing.llnl.gov/tutorials/openMP/
 [265]: https://computing.llnl.gov/tutorials/mpi/
-[266]: https://www.securecoding.cert.org/confluence/display/seccode/CERT+C+Coding+Standard
+[266]: https://www.securecoding.cert.org/confluence/display/c/SEI+CERT+C+Coding+Standard
 [267]: http://blog.pkh.me/p/20-templating-in-c.html
 [268]: http://lipforge.ens-lyon.fr/www/crlibm/index.html
 [269]: https://github.com/AbsInt/CompCert
