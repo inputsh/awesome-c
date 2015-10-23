@@ -41,6 +41,7 @@ Contents
       - [Advanced](#advanced-1)
 - [Multimedia](#multimedia)
 - [Networking and Internet](#networking-and-internet)
+      - [Web Frameworks](#web-frameworks)
 - [Numerical](#numerical)
 - [Parallel Programming](#parallel-programming)
 - [Regex](#regex)
@@ -333,6 +334,10 @@ Networking and Internet
 * [Tox][145] - A communication platform, designed to be a Skype-killer. [GNU GPL3][41].
 * [twitc][237] - A mini C library for interacting with the Twitter OAuth API. [GNU GPL3][41].
 * [ZeroMQ][52] - High-performance message passing networking library. Implemented in C++, but has a C interface. [GNU LGPL3][5].
+
+Web Frameworks
+--------------
+ * [balde][354] - A microframework based on GLib and bad intentions.
 
 Numerical
 =========
@@ -901,3 +906,4 @@ XML
 [351]: https://www.gnu.org/software/gperf/
 [352]: http://libmill.org/
 [353]: https://directory.fsf.org/wiki/License:X11
+[354]: http://balde.io/
