@@ -183,6 +183,8 @@ Graphics
 * [libxmi][174] - A function library for rasterizing 2D vector graphics. [GNU GPL3][41].
 * [mozjpeg][200] - An improved JPEG encoder. [3-clause BSD][6].
 * [OpenGL][147] - The industry standard for high-performance graphics, with a native C binding. [Various licenses][148].
+* [libpng][354] - the official PNG reference library. [libpng license][355]
+* [Cairo][356] - 2D graphics library. [GNU LGPL2.1][15] or [Mozilla MPL1.1][357]
 
 
 Graphical User Interface
@@ -901,3 +903,7 @@ XML
 [351]: https://www.gnu.org/software/gperf/
 [352]: http://libmill.org/
 [353]: https://directory.fsf.org/wiki/License:X11
+[354]: https://http://www.libpng.org/
+[355]: http://www.libpng.org/pub/png/src/libpng-LICENSE.txt
+[356]: http://cairographics.org/
+[357]: https://www.mozilla.org/en-US/MPL/1.1/
