@@ -203,6 +203,10 @@ These are specifically [widget toolkits][12].
 * [Tk][19] - A basic widget toolkit. Part of Tcl/Tk. [Tcl/Tk License][20].
 * [XForms Toolkit][21] - A widget toolkit designed for the XWindow system. [GNU LGPL2.1][15] only.
 
+## Image Processing
+
+* [libccv][391] - A Modern Computer Vision Library. [3-clause BSD][6].
+
 ## JSON ##
 
 * [Jansson][53] - A C library for encoding, decoding and manipulating JSON. [Expat][11].
@@ -920,3 +924,4 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [388]: http://www.libpng.org/pub/png/src/libpng-LICENSE.txt
 [389]: http://cairographics.org/
 [390]: https://www.mozilla.org/en-US/MPL/1.1/ 
+[391]: http://libccv.org
