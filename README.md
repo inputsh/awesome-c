@@ -551,8 +551,8 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [14]: http://www.gtk.org/
 [15]: http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
 [16]: http://webserver2.tecgraf.puc-rio.br/iup/
-[17]: http://docs.enlightenment.org/auto/elementary/
-[18]: http://www.enlightenment.org/p.php?p=about/libs
+[17]: https://docs.enlightenment.org/auto/elementary/
+[18]: https://www.enlightenment.org?p=about%252Flibs
 [19]: http://www.tcl.tk/
 [20]: http://www.tcl.tk/software/tcltk/license.html
 [21]: http://xforms-toolkit.org/
@@ -653,7 +653,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [116]: http://bstring.sourceforge.net/
 [117]: http://troydhanson.github.io/uthash/
 [118]: http://troydhanson.github.io/uthash/license.html
-[119]: https://www.enlightenment.org/p.php?p=about/efl
+[119]: https://www.enlightenment.org?p=about%252Fefl
 [120]: http://zserge.com/jsmn.html
 [121]: http://www.postgresql.org/
 [122]: http://opensource.org/licenses/postgresql
@@ -743,7 +743,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [206]: https://blogs.oracle.com/ksplice/entry/8_gdb_tricks_you_should
 [207]: https://www.youtube.com/playlist?list=PLLX-Q6B8xqZ8n8bwjGdzBJ25X2utwnoEG
 [208]: http://nethack4.org/blog/building-c.html
-[209]: https://github.com/riolet/nope.c
+[209]: https://github.com/riolet/WAFer
 [210]: https://docs.google.com/presentation/d/1h49gY3TSiayLMXYmRMaAEMl05FaJ-Z6jDOWOz3EsqqQ/edit?pli=1#slide=id.gaf50702c_0153
 [211]: http://www.cppinstitute.org/?page_id=1487
 [212]: http://www.crasseux.com/books/ctut.pdf
@@ -768,7 +768,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [231]: https://github.com/libretro/RetroArch
 [232]: http://www.libretro.com/
 [233]: https://github.com/mongodb/mongo-c-driver
-[234]: http://www.mongodb.org/
+[234]: https://www.mongodb.org/
 [235]: https://github.com/mongodb/libbson
 [236]: https://github.com/cloudwu/pbc
 [237]: https://github.com/sinemetu1/twitc
@@ -814,7 +814,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [277]: https://github.com/wolkykim/qlibc
 [278]: https://github.com/wolkykim/qlibc/blob/master/LICENSE
 [279]: https://gist.github.com/eatonphil/21b3d6569f24ad164365
-[280]: http://www.flourish.org/cinclude2dot/
+[280]: https://www.flourish.org/cinclude2dot/
 [281]: http://www.dyncall.org/
 [282]: http://www.mcs.anl.gov/petsc/
 [283]: http://slepc.upv.es/
@@ -833,7 +833,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [297]: https://github.com/ThrowTheSwitch/CMock
 [298]: https://github.com/ThrowTheSwitch/CException
 [299]: https://github.com/libtom/libtomcrypt
-[300]: http://pngquant.org/lib/
+[300]: https://pngquant.org/lib/
 [301]: https://www.libsdl.org/
 [302]: https://notabug.org/koz.ross/libudp
 [303]: https://github.com/slembcke/Chipmunk2D
