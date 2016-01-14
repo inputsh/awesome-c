@@ -550,7 +550,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [14]: http://www.gtk.org/
 [15]: http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
 [16]: http://webserver2.tecgraf.puc-rio.br/iup/
-[17]: 
+
 [18]: https://www.enlightenment.org?p=about%252Flibs
 [19]: http://www.tcl.tk/
 [20]: http://www.tcl.tk/software/tcltk/license.html
@@ -723,7 +723,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [187]: https://github.com/scrooloose/syntastic/blob/master/LICENCE
 [188]: https://github.com/b-k/apophenia
 [189]: https://github.com/b-k/apophenia/blob/master/install/COPYING
-[190]: 
+
 [191]: http://steve-yegge.blogspot.co.nz/2008/10/universal-design-pattern.html
 [192]: http://libjpeg.sourceforge.net/
 [193]: http://libjpeg-turbo.virtualgl.org/
@@ -833,8 +833,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [298]: https://github.com/ThrowTheSwitch/CException
 [299]: https://github.com/libtom/libtomcrypt
 [300]: https://pngquant.org/lib/
-[301]: 
-[302]: 
+
 [303]: https://github.com/slembcke/Chipmunk2D
 [304]: https://biicode.github.io/biicode/
 [305]: https://www.gnu.org/software/autoconf/
@@ -921,6 +920,6 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [386]: https://github.com/balde/balde
 [387]: https://github.com/sindresorhus/awesome
 [388]: http://www.libpng.org/pub/png/src/libpng-LICENSE.txt
-[389]: 
+
 [390]: https://www.mozilla.org/en-US/MPL/1.1/ 
 [391]: http://libccv.org
