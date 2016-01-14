@@ -915,7 +915,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [379]: http://msgpack.org/
 [380]: http://www.oracle.com/us/products/database/berkeley-db/overview/index.html
 [381]: https://gnu.org/licenses/agpl.html
-[382]: https://http://www.libpng.org/
+[382]: http://www.libpng.org
 [383]: http://www.libpng.org/pub/png/src/libpng-LICENSE.txt
 [384]: http://cairographics.org/
 [385]: https://directory.fsf.org/wiki/License:MPLv1.1
