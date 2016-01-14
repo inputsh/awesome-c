@@ -1,4 +1,4 @@
-# awesome-c [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# awesome-c [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)][387]
 
 A curated list of C good stuff. This list contains *only* [free software][13] for code, and sellers who aren't evil for physical resources.
 
@@ -8,7 +8,7 @@ This list was previously maintained by [@kozross](https://github.com/kozross). H
 
 Your contributions are highly welcome.
 
-For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome).
+For more awesome lists, see [awesome][387].
 
 Contents
 ========
@@ -920,6 +920,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [384]: http://cairographics.org/
 [385]: https://directory.fsf.org/wiki/License:MPLv1.1
 [386]: https://github.com/balde/balde
+[387]: https://github.com/sindresorhus/awesome
 [388]: http://www.libpng.org/pub/png/src/libpng-LICENSE.txt
 [389]: http://cairographics.org/
 [390]: https://www.mozilla.org/en-US/MPL/1.1/ 
