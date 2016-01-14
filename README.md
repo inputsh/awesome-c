@@ -551,7 +551,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [14]: http://www.gtk.org/
 [15]: http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
 [16]: http://webserver2.tecgraf.puc-rio.br/iup/
-[17]: https://docs.enlightenment.org/auto/elementary/
+[17]: 
 [18]: https://www.enlightenment.org?p=about%252Flibs
 [19]: http://www.tcl.tk/
 [20]: http://www.tcl.tk/software/tcltk/license.html
