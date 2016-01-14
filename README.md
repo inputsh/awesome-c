@@ -723,7 +723,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [186]: https://github.com/scrooloose/syntastic
 [187]: https://github.com/scrooloose/syntastic/blob/master/LICENCE
 [188]: https://github.com/b-k/apophenia
-[189]: https://github.com/b-k/apophenia/blob/master/install/COPYING2
+[189]: https://github.com/b-k/apophenia/blob/master/install/COPYING
 [190]: https://github.com/kozross/udpc
 [191]: http://steve-yegge.blogspot.co.nz/2008/10/universal-design-pattern.html
 [192]: http://libjpeg.sourceforge.net/
