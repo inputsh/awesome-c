@@ -512,7 +512,6 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 * [libPhenom][31] - An eventing framework for building high-scalability and high-performance systems. [Apache2.0][32].
 * [libsoundio][372] - A library for cross-platform, real-time audio input and output. Has a range of back-ends. [Expat][11].
 * [libucl][239] - A universal configuration library parser. [FreeBSD][24].
-* [libudp][302] - An implementation of the Universal Design Pattern in C. [GNU GPL3][41] or later.
 * [libuv][56] - Cross-platform asynchronous I/O. [Expat][11].
 * [libYAML][341] - A YAML 1.1 parser and emitter. [Expat][11].
 * [lzo][338] - A very fast data compression library. [GNU GPL2.1][8].
@@ -724,7 +723,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [187]: https://github.com/scrooloose/syntastic/blob/master/LICENCE
 [188]: https://github.com/b-k/apophenia
 [189]: https://github.com/b-k/apophenia/blob/master/install/COPYING
-[190]: https://github.com/kozross/udpc
+[190]: 
 [191]: http://steve-yegge.blogspot.co.nz/2008/10/universal-design-pattern.html
 [192]: http://libjpeg.sourceforge.net/
 [193]: http://libjpeg-turbo.virtualgl.org/
@@ -835,7 +834,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [299]: https://github.com/libtom/libtomcrypt
 [300]: https://pngquant.org/lib/
 [301]: https://www.libsdl.org/
-[302]: https://notabug.org/koz.ross/libudp
+[302]: 
 [303]: https://github.com/slembcke/Chipmunk2D
 [304]: https://biicode.github.io/biicode/
 [305]: https://www.gnu.org/software/autoconf/
