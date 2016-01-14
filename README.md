@@ -172,7 +172,7 @@ These are libraries of all sorts that are useful for game programming.
 * [libao][376] - A cross-platform audio library with a wide variety of outputs. [GNU GPL2.1][8] or later.
 * [RetroArch][231] - The reference frontend for [libretro][232]. [GNU GPL3][41] only.
 * [SDL][50] - A cross-platform library designed to provide low-level access to audio, keyboard, mouse, joystick and graphics hardware via OpenGL. [zlib][49].
-* [SDL2][301]- A a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL. This is the most current version. [zlib][49]
+* [SDL2][50]- A a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL. This is the most current version. [zlib][49]
 
 ## Generic Programming ##
 
@@ -833,7 +833,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [298]: https://github.com/ThrowTheSwitch/CException
 [299]: https://github.com/libtom/libtomcrypt
 [300]: https://pngquant.org/lib/
-[301]: https://www.libsdl.org/
+[301]: 
 [302]: 
 [303]: https://github.com/slembcke/Chipmunk2D
 [304]: https://biicode.github.io/biicode/
