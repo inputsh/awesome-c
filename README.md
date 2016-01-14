@@ -191,7 +191,7 @@ These are libraries of all sorts that are useful for game programming.
 * [libxmi][174] - A function library for rasterizing 2D vector graphics. [GNU GPL3][41] or later.
 * [mozjpeg][200] - An improved JPEG encoder. [3-clause BSD][6].
 * [OpenGL][147] - The industry standard for high-performance graphics, with a native C binding. [Various licenses][148].
-* [libpng][387] - the official PNG reference library. [libpng license][388]
+* [libpng][382] - the official PNG reference library. [libpng license][388]
 * [Cairo][389] - 2D graphics library. [GNU LGPL2.1][15] or [Mozilla MPL1.1][390] 
 
 ## Graphical User Interface ##
@@ -920,7 +920,6 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [384]: http://cairographics.org/
 [385]: https://directory.fsf.org/wiki/License:MPLv1.1
 [386]: https://github.com/balde/balde
-[387]: https://http://www.libpng.org/
 [388]: http://www.libpng.org/pub/png/src/libpng-LICENSE.txt
 [389]: http://cairographics.org/
 [390]: https://www.mozilla.org/en-US/MPL/1.1/ 
