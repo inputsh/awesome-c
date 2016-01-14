@@ -192,7 +192,7 @@ These are libraries of all sorts that are useful for game programming.
 * [mozjpeg][200] - An improved JPEG encoder. [3-clause BSD][6].
 * [OpenGL][147] - The industry standard for high-performance graphics, with a native C binding. [Various licenses][148].
 * [libpng][382] - the official PNG reference library. [libpng license][388]
-* [Cairo][389] - 2D graphics library. [GNU LGPL2.1][15] or [Mozilla MPL1.1][390] 
+* [Cairo][384] - 2D graphics library. [GNU LGPL2.1][15] or [Mozilla MPL1.1][390] 
 
 ## Graphical User Interface ##
 
@@ -921,6 +921,6 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [386]: https://github.com/balde/balde
 [387]: https://github.com/sindresorhus/awesome
 [388]: http://www.libpng.org/pub/png/src/libpng-LICENSE.txt
-[389]: http://cairographics.org/
+[389]: 
 [390]: https://www.mozilla.org/en-US/MPL/1.1/ 
 [391]: http://libccv.org
