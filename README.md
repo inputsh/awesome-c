@@ -446,7 +446,6 @@ While practically any decent programmer's text editor supports C, there are some
 
 This is a list of useful programs to help you write and debug C code which are *not* editors, libraries or compilers.
 
-* [adlint][344] - A static analyzer. Supports all of C89 and part of C99. [GNU GPL3][41] or later.
 * [Artistic Style][314] - A fast and small automatic source code formatter that supports C. [GNU LGPL3][5] only.
 * [address-sanitizer][288] - A fast memory error detector. [Apache2.0][32].
 * [biicode][304] - A modern dependency manager for C. [Expat][11].
@@ -875,7 +874,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [341]: http://www.pyyaml.org/wiki/LibYAML
 [342]: https://www.xiph.org/ao/
 [343]: http://www.chiark.greenend.org.uk/~sgtatham/mp/
-[344]: https://yanoh.github.io/adlint/
+
 [345]: https://github.com/jeremyevans/ape_tag_libs/tree/master/c
 [346]: http://www.mission-base.com/peter/source/
 [347]: http://cdecl.org/
