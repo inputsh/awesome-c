@@ -1,4 +1,4 @@
-# awesome-c [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# awesome-c [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)][387]
 
 A curated list of C good stuff. This list contains *only* [free software][13] for code, and sellers who aren't evil for physical resources.
 
@@ -8,7 +8,7 @@ This list was previously maintained by [@kozross](https://github.com/kozross). H
 
 Your contributions are highly welcome.
 
-For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome).
+For more awesome lists, see [awesome][387].
 
 Contents
 ========
@@ -172,7 +172,7 @@ These are libraries of all sorts that are useful for game programming.
 * [libao][376] - A cross-platform audio library with a wide variety of outputs. [GNU GPL2.1][8] or later.
 * [RetroArch][231] - The reference frontend for [libretro][232]. [GNU GPL3][41] only.
 * [SDL][50] - A cross-platform library designed to provide low-level access to audio, keyboard, mouse, joystick and graphics hardware via OpenGL. [zlib][49].
-* [SDL2][301]- A a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL. This is the most current version. [zlib][49]
+* [SDL2][50]- A a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL. This is the most current version. [zlib][49]
 
 ## Generic Programming ##
 
@@ -191,8 +191,8 @@ These are libraries of all sorts that are useful for game programming.
 * [libxmi][174] - A function library for rasterizing 2D vector graphics. [GNU GPL3][41] or later.
 * [mozjpeg][200] - An improved JPEG encoder. [3-clause BSD][6].
 * [OpenGL][147] - The industry standard for high-performance graphics, with a native C binding. [Various licenses][148].
-* [libpng][387] - the official PNG reference library. [libpng license][388]
-* [Cairo][389] - 2D graphics library. [GNU LGPL2.1][15] or [Mozilla MPL1.1][390] 
+* [libpng][382] - the official PNG reference library. [libpng license][388]
+* [Cairo][384] - 2D graphics library. [GNU LGPL2.1][15] or [Mozilla MPL1.1][390] 
 
 ## Graphical User Interface ##
 
@@ -512,7 +512,6 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 * [libPhenom][31] - An eventing framework for building high-scalability and high-performance systems. [Apache2.0][32].
 * [libsoundio][372] - A library for cross-platform, real-time audio input and output. Has a range of back-ends. [Expat][11].
 * [libucl][239] - A universal configuration library parser. [FreeBSD][24].
-* [libudp][302] - An implementation of the Universal Design Pattern in C. [GNU GPL3][41] or later.
 * [libuv][56] - Cross-platform asynchronous I/O. [Expat][11].
 * [libYAML][341] - A YAML 1.1 parser and emitter. [Expat][11].
 * [lzo][338] - A very fast data compression library. [GNU GPL2.1][8].
@@ -551,8 +550,8 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [14]: http://www.gtk.org/
 [15]: http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
 [16]: http://webserver2.tecgraf.puc-rio.br/iup/
-[17]: http://docs.enlightenment.org/auto/elementary/
-[18]: http://www.enlightenment.org/p.php?p=about/libs
+
+[18]: https://www.enlightenment.org?p=about%252Flibs
 [19]: http://www.tcl.tk/
 [20]: http://www.tcl.tk/software/tcltk/license.html
 [21]: http://xforms-toolkit.org/
@@ -653,7 +652,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [116]: http://bstring.sourceforge.net/
 [117]: http://troydhanson.github.io/uthash/
 [118]: http://troydhanson.github.io/uthash/license.html
-[119]: https://www.enlightenment.org/p.php?p=about/efl
+[119]: https://www.enlightenment.org?p=about%252Fefl
 [120]: http://zserge.com/jsmn.html
 [121]: http://www.postgresql.org/
 [122]: http://opensource.org/licenses/postgresql
@@ -723,8 +722,8 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [186]: https://github.com/scrooloose/syntastic
 [187]: https://github.com/scrooloose/syntastic/blob/master/LICENCE
 [188]: https://github.com/b-k/apophenia
-[189]: https://github.com/b-k/apophenia/blob/master/install/COPYING2
-[190]: https://github.com/kozross/udpc
+[189]: https://github.com/b-k/apophenia/blob/master/install/COPYING
+
 [191]: http://steve-yegge.blogspot.co.nz/2008/10/universal-design-pattern.html
 [192]: http://libjpeg.sourceforge.net/
 [193]: http://libjpeg-turbo.virtualgl.org/
@@ -743,7 +742,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [206]: https://blogs.oracle.com/ksplice/entry/8_gdb_tricks_you_should
 [207]: https://www.youtube.com/playlist?list=PLLX-Q6B8xqZ8n8bwjGdzBJ25X2utwnoEG
 [208]: http://nethack4.org/blog/building-c.html
-[209]: https://github.com/riolet/nope.c
+[209]: https://github.com/riolet/WAFer
 [210]: https://docs.google.com/presentation/d/1h49gY3TSiayLMXYmRMaAEMl05FaJ-Z6jDOWOz3EsqqQ/edit?pli=1#slide=id.gaf50702c_0153
 [211]: http://www.cppinstitute.org/?page_id=1487
 [212]: http://www.crasseux.com/books/ctut.pdf
@@ -768,7 +767,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [231]: https://github.com/libretro/RetroArch
 [232]: http://www.libretro.com/
 [233]: https://github.com/mongodb/mongo-c-driver
-[234]: http://www.mongodb.org/
+[234]: https://www.mongodb.org/
 [235]: https://github.com/mongodb/libbson
 [236]: https://github.com/cloudwu/pbc
 [237]: https://github.com/sinemetu1/twitc
@@ -814,7 +813,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [277]: https://github.com/wolkykim/qlibc
 [278]: https://github.com/wolkykim/qlibc/blob/master/LICENSE
 [279]: https://gist.github.com/eatonphil/21b3d6569f24ad164365
-[280]: http://www.flourish.org/cinclude2dot/
+[280]: https://www.flourish.org/cinclude2dot/
 [281]: http://www.dyncall.org/
 [282]: http://www.mcs.anl.gov/petsc/
 [283]: http://slepc.upv.es/
@@ -833,9 +832,8 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [297]: https://github.com/ThrowTheSwitch/CMock
 [298]: https://github.com/ThrowTheSwitch/CException
 [299]: https://github.com/libtom/libtomcrypt
-[300]: http://pngquant.org/lib/
-[301]: https://www.libsdl.org/
-[302]: https://notabug.org/koz.ross/libudp
+[300]: https://pngquant.org/lib/
+
 [303]: https://github.com/slembcke/Chipmunk2D
 [304]: https://biicode.github.io/biicode/
 [305]: https://www.gnu.org/software/autoconf/
@@ -915,13 +913,13 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [379]: http://msgpack.org/
 [380]: http://www.oracle.com/us/products/database/berkeley-db/overview/index.html
 [381]: https://gnu.org/licenses/agpl.html
-[382]: https://http://www.libpng.org/
+[382]: http://www.libpng.org
 [383]: http://www.libpng.org/pub/png/src/libpng-LICENSE.txt
 [384]: http://cairographics.org/
 [385]: https://directory.fsf.org/wiki/License:MPLv1.1
 [386]: https://github.com/balde/balde
-[387]: https://http://www.libpng.org/
+[387]: https://github.com/sindresorhus/awesome
 [388]: http://www.libpng.org/pub/png/src/libpng-LICENSE.txt
-[389]: http://cairographics.org/
+
 [390]: https://www.mozilla.org/en-US/MPL/1.1/ 
 [391]: http://libccv.org
