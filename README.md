@@ -663,7 +663,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [129]: https://github.com/protobuf-c/protobuf-c
 [130]: https://github.com/jmckaskill/c-capnproto
 [131]: https://en.wikipedia.org/wiki/External_Data_Representation
-[132]: https://code.google.com/p/msgpackalt/
+[132]: https://bitbucket.org/martijnj/msgpackalt
 [133]: http://www.netlib.org/lapack/lapacke.html
 [134]: http://www.netlib.org/lapack/
 [135]: http://www.netlib.org/blas/
