@@ -743,7 +743,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [208]: http://nethack4.org/blog/building-c.html
 [209]: https://github.com/riolet/WAFer
 [210]: https://docs.google.com/presentation/d/1h49gY3TSiayLMXYmRMaAEMl05FaJ-Z6jDOWOz3EsqqQ/edit?pli=1#slide=id.gaf50702c_0153
-[211]: http://www.cppinstitute.org/?page_id=1487
+[211]: http://cppinstitute.com/study-resources
 [212]: http://www.crasseux.com/books/ctut.pdf
 [213]: http://home.netcom.com/~tjensen/ptr/pointers.htm
 [214]: https://github.com/adamierymenko/huffandpuff
