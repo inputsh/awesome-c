@@ -456,7 +456,6 @@ This is a list of useful programs to help you write and debug C code which are *
 * [cinclude2dot][280] - Graphs include dependencies in a C project using Graphviz. Any GNU GPL version (due to underspecification in the file).
 * [Complexity][307] - A tool for measuring the complexity of C source code. [GNU GPL3][41] or later.
 * [DDD][320] - A graphical front-end for a range of command-line debuggers. [GNU GPL3][41] or later.
-* [fab][323] - A build system that helps build optimally every time. [GNU GPL3][41] only.
 * [GDB][87] - The GNU Project debugger; a debugger for C. [GNU GPL3][41] or later.
 * [Glade][328] - A RAD tool to enable quick development of GTK+ GUIs. [GNU GPL2.1][8] only.
 * [GMSL][331] - GNU Make Standard Library; a collection of additional functionality for GNU Make. [3-clause BSD][6].
@@ -853,7 +852,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [320]: https://www.gnu.org/software/ddd/ddd.html
 [321]: http://docutils.sourceforge.net/
 [322]: https://hplgit.github.io/doconce/doc/web/index.html
-[323]: http://fabutil.org/
+
 [324]: https://www.gnu.org/software/make/
 [325]: http://leenissen.dk/fann/wp/
 [326]: http://gittup.org/tup/index.html
