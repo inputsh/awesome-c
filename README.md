@@ -598,13 +598,13 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [62]: http://xmlsoft.org/
 [63]: https://www.ffmpeg.org/
 [64]: http://knking.com/books/c2/index.html
-[65]: http://curl.haxx.se/libcurl/
-[66]: http://curl.haxx.se/docs/copyright.html
+[65]: https://curl.haxx.se/libcurl/
+[66]: https://curl.haxx.se/docs/copyright.html
 [67]: http://site.icu-project.org/
 [68]: http://source.icu-project.org/repos/icu/icu/trunk/license.html
 [69]: http://lodev.org/lodepng/
 [70]: http://www.fftw.org/
-[71]: http://sourceforge.net/projects/kissfft/
+[71]: https://sourceforge.net/projects/kissfft/
 [72]: http://www.yeppp.info/
 [73]: https://graphics.stanford.edu/~seander/bithacks.html
 [74]: http://pcc.ludd.ltu.se/
@@ -655,7 +655,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [119]: https://www.enlightenment.org?p=about%252Fefl
 [120]: http://zserge.com/jsmn.html
 [121]: http://www.postgresql.org/
-[122]: http://opensource.org/licenses/postgresql
+[122]: https://opensource.org/licenses/postgresql
 [123]: http://gstreamer.freedesktop.org/
 [124]: http://libevent.org/
 [125]: http://www.hboehm.info/gc/
@@ -687,7 +687,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [151]: http://valloric.github.io/YouCompleteMe/
 [152]: https://sites.google.com/site/lccretargetablecompiler/
 [153]: https://github.com/drh/lcc/blob/master/CPYRIGHT
-[154]: https://code.google.com/p/ulib/
+[154]: https://code.google.com/archive/p/ulib
 [155]: https://gnu.org/software/adns/
 [156]: http://adtinfo.org/libavl.html/index.html
 [157]: http://sourceware.org/binutils/docs/bfd/
@@ -748,7 +748,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [212]: http://www.crasseux.com/books/ctut.pdf
 [213]: http://home.netcom.com/~tjensen/ptr/pointers.htm
 [214]: https://github.com/adamierymenko/huffandpuff
-[215]: http://sourceforge.net/projects/vtd-xml/
+[215]: https://sourceforge.net/projects/vtd-xml/
 [216]: http://www.msweet.org/projects.php?Z3
 [217]: http://svn.msweet.org/mxml/trunk/COPYING
 [218]: http://ezxml.sourceforge.net/
@@ -858,7 +858,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [324]: https://www.gnu.org/software/make/
 [325]: http://leenissen.dk/fann/wp/
 [326]: http://gittup.org/tup/index.html
-[327]: http://sourceforge.net/projects/gjrand/
+[327]: https://sourceforge.net/projects/gjrand/
 [328]: https://glade.gnome.org/
 [329]: https://www.gnu.org/software/gnu-c-manual/
 [330]: https://www.gnu.org/software/global/
