@@ -654,7 +654,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [120]: http://zserge.com/jsmn.html
 [121]: http://www.postgresql.org/
 [122]: https://opensource.org/licenses/postgresql
-[123]: http://gstreamer.freedesktop.org/
+[123]: https://gstreamer.freedesktop.org/
 [124]: http://libevent.org/
 [125]: http://www.hboehm.info/gc/
 [126]: https://blogs.gnome.org/clutter/get-it/
