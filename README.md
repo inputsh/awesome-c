@@ -424,6 +424,7 @@ This contains standard C libraries.
 * [cmocka][141] - A unit testing framework with support for mock objects. [Apache2.0][32].
 * [Criterion][246] - A KISS, non-intrusive C test framework. [Expat][11].
 * [CUnit][94] - Another unit testing framework for C. [GNU LGPL2.0][15] only.
+* [Cutest][392] - Library for unit testing with memory leak detection (Linux, freeBSD and Windows). [GPL2].
 * [minunit][92] - Minimal unit testing framework for C. [Expat][11].
 * [Unity][296] - A simple unit testing framework for C. [Expat][11].
 
@@ -921,3 +922,4 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 
 [390]: https://www.mozilla.org/en-US/MPL/1.1/ 
 [391]: http://libccv.org
+[392]: http://github.com/rafael-santiago/cutest
