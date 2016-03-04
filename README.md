@@ -327,6 +327,7 @@ This is a list of resources for learning C programming in general, or something 
 * [onion][170] - HTTP server library, designed to be easy to use. [Apache2.0][32].
 * [OpenSSL][110] - Implementation of the SSL and TLS protocols, and also includes a cryptography library. [Dual Licensed under the OpenSSL License and the SSLeay License][111]
 * [oSip][179] - A SIP implementation in C without additional dependencies. [GNU LGPLv2.1][15] or later.
+* [pig][393] - A Linux packet crafting tool. [GPL2][8].
 * [s2n][359] - A C99 implementation of the TLS/SSL protocols, designed to be simple, fast and with security as a priority. [Apache2.0][32].
 * [socket99][203] - A C99 wrapper for the BSD sockets API. [ISC][61].
 * [Tox][145] - A communication platform, designed to be a Skype-killer. [GNU GPL3][41] only.
@@ -424,7 +425,7 @@ This contains standard C libraries.
 * [cmocka][141] - A unit testing framework with support for mock objects. [Apache2.0][32].
 * [Criterion][246] - A KISS, non-intrusive C test framework. [Expat][11].
 * [CUnit][94] - Another unit testing framework for C. [GNU LGPL2.0][15] only.
-* [Cutest][392] - Library for unit testing with memory leak detection (Linux, freeBSD and Windows). [GPL2].
+* [Cutest][392] - Library for unit testing with memory leak detection (Linux, freeBSD and Windows). [GPL2][8].
 * [minunit][92] - Minimal unit testing framework for C. [Expat][11].
 * [Unity][296] - A simple unit testing framework for C. [Expat][11].
 
@@ -922,4 +923,5 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 
 [390]: https://www.mozilla.org/en-US/MPL/1.1/ 
 [391]: http://libccv.org
-[392]: http://github.com/rafael-santiago/cutest
+[392]: https://github.com/rafael-santiago/cutest
+[393]: https://github.com/rafael-santiago/pig
