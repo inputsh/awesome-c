@@ -414,7 +414,7 @@ This contains standard C libraries.
 * [libgiconv][163] - A text conversion library. [GNU LGPL2.1][15] only (library), [GNU GPL3][41] only (*iconv* program).
 * [SDS][29] - Simple Dynamic Strings; a library for handling C strings in a simpler way, but one that is compatible with normal C string functions. Available via [clib][26]. [FreeBSD][24].
 * [shoco][363] - A compressor for small text strings. [Expat][11].
-* [smaz][363] - An efficient string compression library. [3-clause BSD][6].
+* [smaz][364] - An efficient string compression library. [3-clause BSD][6].
 
 ## Testing ##
 
