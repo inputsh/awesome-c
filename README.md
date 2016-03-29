@@ -715,7 +715,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [181]: http://careferencemanual.com/
 [182]: http://shop.oreilly.com/product/9780596004361.do
 [183]: http://shop.oreilly.com/product/0636920026136.do
-[184]: http://www.pearsonhighered.com/educator/product/C-Primer-Plus-6E/9780321928429.page
+[184]: https://www.pearsonhighered.com/program/Prata-C-Primer-Plus-6th-Edition/PGM4399.html
 [185]: http://www.planetpdf.com/codecuts/pdfs/ooc.pdf
 [186]: https://github.com/scrooloose/syntastic
 [187]: https://github.com/scrooloose/syntastic/blob/master/LICENCE
