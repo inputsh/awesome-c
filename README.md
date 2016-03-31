@@ -121,6 +121,7 @@ These are specifically fancier, IDE-type editors. If you want a programmer's tex
 * [Eclipse][258] - An IDE written in Java. [EPL][259].
 * [Geany][43] - A very small and fast IDE. [GNU GPL2.1][8] or later.
 * [KDevelop][44] - The KDE IDE. [GNU GPL2.1][8] only.
+* [Qt Creator][394] - A cross-platform IDE written with C++ and Qt, part of the Qt SDK. Supports Clang Code Model. [GNU GPL3 with Qt exception][395] only.
 
 ## Environments ##
 
@@ -923,3 +924,5 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [391]: http://libccv.org
 [392]: https://github.com/rafael-santiago/cutest
 [393]: https://github.com/rafael-santiago/pig
+[394]: https://www.qt.io/ide/
+[395]: https://github.com/qtproject/qt-creator/blob/master/LICENSE.GPL3-EXCEPT
