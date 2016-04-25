@@ -560,7 +560,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [20]: http://www.tcl.tk/software/tcltk/license.html
 [21]: http://xforms-toolkit.org/
 [22]: http://www.sqlite.org/
-[23]: http://unqlite.org/
+[23]: https://unqlite.org/
 [24]: http://directory.fsf.org/wiki?title=License:FreeBSD
 [25]: https://mariadb.com/
 [26]: https://github.com/clibs/clib
@@ -665,7 +665,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [125]: http://www.hboehm.info/gc/
 [126]: https://blogs.gnome.org/clutter/get-it/
 [127]: https://github.com/rib/cogl-web/wiki
-[128]: https://github.com/atgreen/libffi
+[128]: https://github.com/libffi/libffi
 [129]: https://github.com/protobuf-c/protobuf-c
 [130]: https://github.com/jmckaskill/c-capnproto
 [131]: https://en.wikipedia.org/wiki/External_Data_Representation
