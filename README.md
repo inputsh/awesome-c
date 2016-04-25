@@ -19,6 +19,7 @@ Contents
 - [Compilers](#compilers)
 - [Crypto](#crypto)
 - [Database](#database)
+- [Deep Learning](#deep-learning)
 - [Documentation Generation](#documentation-generation)
 - [Editors](#editors)
 - [Environments](#environments)
@@ -29,6 +30,7 @@ Contents
 - [Generic Programming](#generic-programming)
 - [Graphics](#graphics)
 - [Graphical User Interface](#graphical-user-interface)
+- [Image Processing](#image-processing)
 - [JSON](#json)
 - [Learning, Reference and Tutorials](#learning-reference-and-tutorials)
   - [Online](#online)
@@ -103,6 +105,9 @@ This lists databases and data stores with C APIs.
 * [sophia][244] - A modern, embeddable key-value database. [FreeBSD][24].
 * [SQLite][22] - A self-contained, serverless, zero-configuration, transactional SQL database engine with a C interface. Public domain.
 * [UnQLite][23] - A self-contained, serverless, zero-configuration, transactional NoSQL engine with a C interface. [FreeBSD][24].
+
+## Deep Learning ##
+* [Darknet][396] - An open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
 
 ## Documentation Generation ##
 
@@ -202,7 +207,7 @@ These are specifically [widget toolkits][12].
 * [Tk][19] - A basic widget toolkit. Part of Tcl/Tk. [Tcl/Tk License][20].
 * [XForms Toolkit][21] - A widget toolkit designed for the XWindow system. [GNU LGPL2.1][15] only.
 
-## Image Processing
+## Image Processing ##
 
 * [libccv][391] - A Modern Computer Vision Library. [3-clause BSD][6].
 
@@ -266,7 +271,7 @@ This is a list of resources for learning C programming in general, or something 
 * [Solving the temporary storage problem of C macros][358]
 * [Some dark corners of C][210]
 * [Writing efficient C and C code optimization][33]
- 
+
 #### Self-study courses ####
 
 * [C Programming Language Certified Associate preparation course][211]
@@ -384,7 +389,7 @@ This is a list of resources for learning C programming in general, or something 
 * [c-capnproto][130] - An implementation of the Cap'n Proto serialization protocol. [Expat][11].
 * [cmp][377] - An implementation of the [MessagePack][379] serialization protocol. [Expat][11].
 * [libavro][140] - A C implementation of the Avro data serialization system. [Apache2.0][32].
-* [mpack][378] - Another implementation of the [MessagePack][379] serialization protocol. [Expat][11]. 
+* [mpack][378] - Another implementation of the [MessagePack][379] serialization protocol. [Expat][11].
 * [protobuf-c][129] - An implementation of Google Protocol Buffer in C. [FreeBSD][24].
 * [xdr][131] - External Data Representation; a standard for data serialization. Standard (no license applicable).
 
@@ -403,7 +408,7 @@ This contains standard C libraries.
 
 * [Bionic][4] - Google's C standard library, developed for Android. [3-clause BSD][6].
 * [dietlibc][9] - A C standard library designed for the smallest possible binaries. [GNU GPL2.1][8] only.
-* [glibc][57] - The GNU C Library; an implementation of the C standard library. [GNU LGPL2.1][15] only. 
+* [glibc][57] - The GNU C Library; an implementation of the C standard library. [GNU LGPL2.1][15] only.
 * [musl][10] - A standard C library, compatible with POSIX 2008 and C11. Designed for static linking. [Expat][11].
 
 ## String Manipulation ##
@@ -920,9 +925,10 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [387]: https://github.com/sindresorhus/awesome
 [388]: http://www.libpng.org/pub/png/src/libpng-LICENSE.txt
 
-[390]: https://www.mozilla.org/en-US/MPL/1.1/ 
+[390]: https://www.mozilla.org/en-US/MPL/1.1/
 [391]: http://libccv.org
 [392]: https://github.com/rafael-santiago/cutest
 [393]: https://github.com/rafael-santiago/pig
 [394]: https://www.qt.io/ide/
 [395]: https://github.com/qtproject/qt-creator/blob/master/LICENSE.GPL3-EXCEPT
+[396]: http://pjreddie.com/darknet/
