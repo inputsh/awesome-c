@@ -461,6 +461,7 @@ This is a list of useful programs to help you write and debug C code which are *
 * [cdecl][348] - An online service to translate C declarations into English and vice versa. Public domain.
 * [cinclude2dot][280] - Graphs include dependencies in a C project using Graphviz. Any GNU GPL version (due to underspecification in the file).
 * [Complexity][307] - A tool for measuring the complexity of C source code. [GNU GPL3][41] or later.
+* [CScout][397] - a source code analyzer and refactoring browser for collections of C programs. [GNU GPL3][41] only.
 * [DDD][320] - A graphical front-end for a range of command-line debuggers. [GNU GPL3][41] or later.
 * [GDB][87] - The GNU Project debugger; a debugger for C. [GNU GPL3][41] or later.
 * [Glade][328] - A RAD tool to enable quick development of GTK+ GUIs. [GNU GPL2.1][8] only.
@@ -932,3 +933,4 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [394]: https://www.qt.io/ide/
 [395]: https://github.com/qtproject/qt-creator/blob/master/LICENSE.GPL3-EXCEPT
 [396]: http://pjreddie.com/darknet/
+[397]: http://www.spinellis.gr/cscout/
