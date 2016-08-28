@@ -477,6 +477,7 @@ This is a list of useful programs to help you write and debug C code which are *
 * [tup][326] - A very fast, file-based, cross-platform build system. [GNU GPL2.1][8] only.
 * [unifdef][290] - Removes #ifdef and #if directives with their delimited text without touching any other part of the file. [3-clause BSD][6] and [FreeBSD][24].
 * [Valgrind][85] - A range of dynamic analysis tools, including a leak checker. [GNU GPL2.1][8] only.
+* [file2var][398] - Convert text files as c string or c array
 
 ## Utilities ##
 
@@ -934,3 +935,4 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [395]: https://github.com/qtproject/qt-creator/blob/master/LICENSE.GPL3-EXCEPT
 [396]: http://pjreddie.com/darknet/
 [397]: http://www.spinellis.gr/cscout/
+[398]: https://github.com/aminbros/file2var
