@@ -328,7 +328,6 @@ This is a list of resources for learning C programming in general, or something 
 * [lwan][199] - An experimental, scalable, high-performance HTTP server. [GNU GPL2.1][8] only.
 * [mongoose][171] - Embedded web server for C. [GNU GPL2.1][8] only.
 * [nanomsg][139] - A C-based implementation of ZeroMQ. [Expat][11].
-* [onion][170] - HTTP server library, designed to be easy to use. [Apache2.0][32].
 * [OpenSSL][110] - Implementation of the SSL and TLS protocols, and also includes a cryptography library. [Dual Licensed under the OpenSSL License and the SSLeay License][111]
 * [oSip][179] - A SIP implementation in C without additional dependencies. [GNU LGPLv2.1][15] or later.
 * [pig][393] - A Linux packet crafting tool. [GPL2][8].
@@ -340,6 +339,9 @@ This is a list of resources for learning C programming in general, or something 
 ### Web Frameworks ###
 
 * [balde][386] - A microframework for C based on GLib. [GNU LGPLv2.1][15] only.
+* [onion][170] - C library to create simple HTTP servers and Web Applications.. [Apache2.0][32].
+* [kore][398] - An easy to use, scalable and secure web application framework for writing web APIs in C.
+* [klone][399] - KLone is a fully-featured, multiplatform, web application development framework.
 
 ## Numerical ##
 
@@ -934,3 +936,5 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [395]: https://github.com/qtproject/qt-creator/blob/master/LICENSE.GPL3-EXCEPT
 [396]: http://pjreddie.com/darknet/
 [397]: http://www.spinellis.gr/cscout/
+[398]: https://github.com/jorisvink/kore
+[399]: https://github.com/koanlogic/klone
