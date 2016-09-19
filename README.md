@@ -493,7 +493,6 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 * [docopt.c][270] - A C implementation of a command-line option parser. [Expat][11].
 * [dyncall][281] - Another foreign function interface library. [Expat][11].
 * [FANN][325] - Fast Artifical Neural Network library; an implementation of neural networks. [GNU GPL2.1][8] only.
-* [Firm][361] - A C library that provides a graph-based intermediate representation, optimizations and assembly code generation suitable for use in compilers. Comes with an example C front-end under the same license. [GNU LGPLv2.1][15] only.
 * [gjrand][327] - A library of random-number generation routines. [GNU GPL2.1][8] or [GNU GPLv3][41] (user's choice).
 * [GNU FreeIPMI][158] - An in-band and out-of-band IPMI implementation. [GNU GPL3][41] only.
 * [GNU gperf][351] - A perfect hash function generator, given a list of strings. Outputs C code. [GNU GPL3][41] or later.
@@ -510,7 +509,6 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 * [libavl][156] - A library containing a range of self-balancing binary trees. [GNU GPL3][41] or later.
 * [libbson][235] - A BSON utility library. [Apache2.0][32].
 * [libCello][96] - A library introducing higher-level programming to C. [3-clause BSD][6].
-* [libcox][373] - A library which permits cross-platform system calls and standard utilities across different operating systems. [FreeBSD][24].
 * [libffi][128] - A portable foreign-function interface library. [Expat][11].
 * [libgit2][108] - Pure C implementation of Git. [GNU GPL2 only, with a linking exception][109].
 * [libimobiledevice][354] - A cross-platform protocol library to communicate with iThings. [GNU LGPLv2.1][15] or later (library), [GNU GPL2.1][8] or later (tools).
@@ -899,7 +897,6 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [358]: http://www.samnip.ps/thought/macro-storage-for-inverse-comma
 [359]: https://github.com/awslabs/s2n
 [360]: https://www.gnu.org/software/recutils/
-[361]: http://pp.ipd.kit.edu/firm/Index
 [362]: http://www.etalabs.net/compare_libcs.html
 [363]: https://github.com/Ed-von-Schleck/shoco
 [364]: https://github.com/antirez/smaz
@@ -911,7 +908,6 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [370]: https://bitbucket.org/orx/orx
 [371]: https://github.com/zturtleman/spearmint
 [372]: https://github.com/andrewrk/libsoundio
-[373]: http://libcox.net/
 [374]: http://proprogramming.org/some-unknown-features-or-tricks-in-c-language/
 [375]: https://www.gnu.org/licenses/old-licenses/fdl-1.1.html
 [376]: https://github.com/timonwong/libao
