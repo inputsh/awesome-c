@@ -499,7 +499,6 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 * [GNU Libffcall][162] - A collection of libraries for building foreign function interfaces. [GNU GPL3][41] or later.
 * [gperftools][295] - A collection of utilities for measuring and improving performance. [3-clause BSD][6].
 * [hammer][356] - Parser combinators for binary formats. [GNU GPL2.1][8] only.
-* [Hans Boehm GC][125] - Garbage collection for C? Don't mind if I do! Various licenses, all free.
 * [huffandpuff][214] - A minimal Huffman encoder and decoder. Public domain.
 * [iniparser][336] - A parser for .ini files. [Expat][11].
 * [jemalloc][293] - A malloc implementation that emphasizes avoidance of fragmentation and scalable concurrency support. [FreeBSD][24].
@@ -663,7 +662,6 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [122]: https://opensource.org/licenses/postgresql
 [123]: https://gstreamer.freedesktop.org/
 [124]: http://libevent.org/
-[125]: http://www.hboehm.info/gc/
 [126]: https://blogs.gnome.org/clutter/get-it/
 [127]: https://github.com/rib/cogl-web/wiki
 [128]: https://github.com/libffi/libffi
