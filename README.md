@@ -328,7 +328,6 @@ This is a list of resources for learning C programming in general, or something 
 * [lwan][199] - An experimental, scalable, high-performance HTTP server. [GNU GPL2.1][8] only.
 * [mongoose][171] - Embedded web server for C. [GNU GPL2.1][8] only.
 * [nanomsg][139] - A C-based implementation of ZeroMQ. [Expat][11].
-* [onion][170] - HTTP server library, designed to be easy to use. [Apache2.0][32].
 * [OpenSSL][110] - Implementation of the SSL and TLS protocols, and also includes a cryptography library. [Dual Licensed under the OpenSSL License and the SSLeay License][111]
 * [oSip][179] - A SIP implementation in C without additional dependencies. [GNU LGPLv2.1][15] or later.
 * [pig][393] - A Linux packet crafting tool. [GPL2][8].
@@ -340,6 +339,9 @@ This is a list of resources for learning C programming in general, or something 
 ### Web Frameworks ###
 
 * [balde][386] - A microframework for C based on GLib. [GNU LGPLv2.1][15] only.
+* [onion][170] - C library to create simple HTTP servers and Web Applications.. [Apache2.0][32].
+* [kore][398] - An easy to use, scalable and secure web application framework for writing web APIs in C.
+* [klone][399] - KLone is a fully-featured, multiplatform, web application development framework.
 
 ## Numerical ##
 
@@ -498,7 +500,6 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 * [GNU Libffcall][162] - A collection of libraries for building foreign function interfaces. [GNU GPL3][41] or later.
 * [gperftools][295] - A collection of utilities for measuring and improving performance. [3-clause BSD][6].
 * [hammer][356] - Parser combinators for binary formats. [GNU GPL2.1][8] only.
-* [Hans Boehm GC][125] - Garbage collection for C? Don't mind if I do! Various licenses, all free.
 * [huffandpuff][214] - A minimal Huffman encoder and decoder. Public domain.
 * [iniparser][336] - A parser for .ini files. [Expat][11].
 * [jemalloc][293] - A malloc implementation that emphasizes avoidance of fragmentation and scalable concurrency support. [FreeBSD][24].
@@ -508,7 +509,6 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 * [libavl][156] - A library containing a range of self-balancing binary trees. [GNU GPL3][41] or later.
 * [libbson][235] - A BSON utility library. [Apache2.0][32].
 * [libCello][96] - A library introducing higher-level programming to C. [3-clause BSD][6].
-* [libcox][373] - A library which permits cross-platform system calls and standard utilities across different operating systems. [FreeBSD][24].
 * [libffi][128] - A portable foreign-function interface library. [Expat][11].
 * [libgit2][108] - Pure C implementation of Git. [GNU GPL2 only, with a linking exception][109].
 * [libimobiledevice][354] - A cross-platform protocol library to communicate with iThings. [GNU LGPLv2.1][15] or later (library), [GNU GPL2.1][8] or later (tools).
@@ -643,7 +643,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [102]: http://shop.oreilly.com/product/0636920015482.do
 [103]: http://ccodearchive.net/
 [104]: http://ccodearchive.net/list.html
-[105]: http://symas.com/mdb/
+[105]: https://symas.com/products/lightning-memory-mapped-database/
 [106]: http://directory.fsf.org/wiki/License:OpenLDAPv2.7
 [107]: https://github.com/ioquake/ioq3
 [108]: https://libgit2.github.com/
@@ -659,11 +659,10 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [118]: http://troydhanson.github.io/uthash/license.html
 [119]: https://www.enlightenment.org?p=about%252Fefl
 [120]: http://zserge.com/jsmn.html
-[121]: http://www.postgresql.org/
+[121]: https://www.postgresql.org/
 [122]: https://opensource.org/licenses/postgresql
 [123]: https://gstreamer.freedesktop.org/
 [124]: http://libevent.org/
-[125]: http://www.hboehm.info/gc/
 [126]: https://blogs.gnome.org/clutter/get-it/
 [127]: https://github.com/rib/cogl-web/wiki
 [128]: https://github.com/libffi/libffi
@@ -688,37 +687,37 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [147]: https://www.opengl.org/
 [148]: http://www.sgi.com/tech/opengl/?/license.html
 [149]: https://github.com/flycheck/flycheck
-[150]: https://github.com/capitaomorte/yasnippet
+[150]: https://github.com/joaotavora/yasnippet
 [151]: http://valloric.github.io/YouCompleteMe/
 [152]: https://sites.google.com/site/lccretargetablecompiler/
 [153]: https://github.com/drh/lcc/blob/master/CPYRIGHT
 [154]: https://code.google.com/archive/p/ulib
-[155]: https://gnu.org/software/adns/
+[155]: https://www.gnu.org/software/adns/
 [156]: http://adtinfo.org/libavl.html/index.html
 [157]: http://sourceware.org/binutils/docs/bfd/
-[158]: https://gnu.org/software/freeipmi/index.html
-[159]: https://gnu.org/software/glpk/
-[160]: https://gnu.org/software/gsasl/
-[161]: https://gnu.org/software/gss/
-[162]: https://gnu.org/software/libffcall/
-[163]: https://gnu.org/software/libiconv/
-[164]: https://gnu.org/software/libidn/
-[165]: https://gnu.org/software/libmicrohttpd/
+[158]: https://www.gnu.org/software/freeipmi/index.html
+[159]: https://www.gnu.org/software/glpk/
+[160]: https://www.gnu.org/software/gsasl/
+[161]: https://www.gnu.org/software/gss/
+[162]: https://www.gnu.org/software/libffcall/
+[163]: https://www.gnu.org/software/libiconv/
+[164]: https://www.gnu.org/software/libidn/
+[165]: https://www.gnu.org/software/libmicrohttpd/
 [166]: http://www.hughes.com.au/products/libhttpd/
 [167]: https://wiki.gnome.org/action/show/Projects/libsoup?action=show&redirect=LibSoup
 [168]: http://www.webdav.org/neon/
 [169]: http://mihl.sourceforge.net/
 [170]: https://github.com/davidmoreno/onion
 [171]: https://github.com/cesanta/mongoose
-[172]: https://gnu.org/software/libtool/
-[173]: https://gnu.org/software/libunistring/
-[174]: https://gnu.org/software/libxmi/
+[172]: https://www.gnu.org/software/libtool/
+[173]: https://www.gnu.org/software/libunistring/
+[174]: https://www.gnu.org/software/libxmi/
 [175]: http://www.multiprecision.org/index.php?prog=mpc&page=home
 [176]: http://mpfr.loria.fr/index.html
-[177]: https://gnu.org/software/mpria/
-[178]: https://gnu.org/software/ncurses/
-[179]: https://gnu.org/software/osip/
-[180]: https://gnu.org/software/pth/
+[177]: https://www.gnu.org/software/mpria/
+[178]: https://www.gnu.org/software/ncurses/
+[179]: https://www.gnu.org/software/osip/
+[180]: https://www.gnu.org/software/pth/
 [181]: http://careferencemanual.com/
 [182]: http://shop.oreilly.com/product/9780596004361.do
 [183]: http://shop.oreilly.com/product/0636920026136.do
@@ -772,7 +771,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [231]: https://github.com/libretro/RetroArch
 [232]: http://www.libretro.com/
 [233]: https://github.com/mongodb/mongo-c-driver
-[234]: https://www.mongodb.org/
+[234]: https://www.mongodb.com/
 [235]: https://github.com/mongodb/libbson
 [236]: https://github.com/cloudwu/pbc
 [237]: https://github.com/sinemetu1/twitc
@@ -795,7 +794,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [254]: https://cygwin.com/licensing.html
 [255]: http://flintlib.org/
 [256]: http://pari.math.u-bordeaux.fr/
-[257]: http://blog.noctua-software.com/c-tricks.html
+[257]: https://blog.noctua-software.com/c-tricks.html
 [258]: http://www.eclipse.org/ide/
 [259]: http://directory.fsf.org/wiki/License:EPLv1.0
 [260]: https://netbeans.org/
@@ -875,7 +874,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [336]: https://github.com/ndevilla/iniparser
 [337]: https://github.com/jtsiomb/kdtree
 [338]: http://www.oberhumer.com/opensource/lzo/
-[339]: http://www.nlnetlabs.nl/projects/ldns/index.html
+[339]: https://www.nlnetlabs.nl/projects/ldns/index.html
 [340]: https://wiki.gnome.org/Projects/LibRsvg
 [341]: http://www.pyyaml.org/wiki/LibYAML
 [342]: https://www.xiph.org/ao/
@@ -909,18 +908,17 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [370]: https://bitbucket.org/orx/orx
 [371]: https://github.com/zturtleman/spearmint
 [372]: https://github.com/andrewrk/libsoundio
-[373]: http://libcox.net/
 [374]: http://proprogramming.org/some-unknown-features-or-tricks-in-c-language/
 [375]: https://www.gnu.org/licenses/old-licenses/fdl-1.1.html
 [376]: https://github.com/timonwong/libao
 [377]: https://github.com/camgunz/cmp
 [378]: https://github.com/ludocode/mpack
 [379]: http://msgpack.org/
-[380]: http://www.oracle.com/us/products/database/berkeley-db/overview/index.html
-[381]: https://gnu.org/licenses/agpl.html
+[380]: https://www.oracle.com/database/berkeley-db/index.html
+[381]: https://www.gnu.org/licenses/agpl.html
 [382]: http://www.libpng.org
 [383]: http://www.libpng.org/pub/png/src/libpng-LICENSE.txt
-[384]: http://cairographics.org/
+[384]: https://www.cairographics.org/
 [385]: https://directory.fsf.org/wiki/License:MPLv1.1
 [386]: https://github.com/balde/balde
 [387]: https://github.com/sindresorhus/awesome
@@ -934,3 +932,5 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [395]: https://github.com/qtproject/qt-creator/blob/master/LICENSE.GPL3-EXCEPT
 [396]: http://pjreddie.com/darknet/
 [397]: http://www.spinellis.gr/cscout/
+[398]: https://github.com/jorisvink/kore
+[399]: https://github.com/koanlogic/klone
