@@ -388,6 +388,7 @@ This is a list of resources for learning C programming in general, or something 
 
 ## Serialization ##
 
+* [binn][400] - A binary serialization format meant to be compact, fast and easy-to-use. [Apache2.0][32].
 * [c-capnproto][130] - An implementation of the Cap'n Proto serialization protocol. [Expat][11].
 * [cmp][377] - An implementation of the [MessagePack][379] serialization protocol. [Expat][11].
 * [libavro][140] - A C implementation of the Avro data serialization system. [Apache2.0][32].
@@ -934,3 +935,4 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [397]: http://www.spinellis.gr/cscout/
 [398]: https://github.com/jorisvink/kore
 [399]: https://github.com/koanlogic/klone
+[400]: https://github.com/liteserver/binn
