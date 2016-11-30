@@ -461,7 +461,7 @@ This is a list of useful programs to help you write and debug C code which are *
 * [c][276] - Compile and execute C "scripts" in one go on the command line. Also has shebang support. [Expat][11].
 * [c99sh][113] - Run C files using hash-bang. [FreeBSD][24].
 * [CBMC][309] - C Bounded Model Checker; a tool for verification of array bounds, pointer safety and user-specified assertions. [Original BSD][310].
-* [cdecl][348] - An online service to translate C declarations into English and vice versa. Public domain.
+* [cdecl][347] - An online service to translate C declarations into English and vice versa. Public domain.
 * [cinclude2dot][280] - Graphs include dependencies in a C project using Graphviz. Any GNU GPL version (due to underspecification in the file).
 * [Complexity][307] - A tool for measuring the complexity of C source code. [GNU GPL3][41] or later.
 * [CScout][397] - a source code analyzer and refactoring browser for collections of C programs. [GNU GPL3][41] only.
