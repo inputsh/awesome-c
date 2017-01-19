@@ -576,7 +576,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [34]: http://www.catb.org/esr/structure-packing/
 [35]: http://shop.oreilly.com/product/0636920033677.do
 [36]: http://shop.oreilly.com/product/0636920028000.do
-[37]: http://www.openmp.org/wp/about-openmp/
+[37]: http://www.openmp.org/
 [38]: http://clang.llvm.org/
 [39]: http://directory.fsf.org/wiki/License:IllinoisNCSA
 [40]: https://gcc.gnu.org/
@@ -584,7 +584,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [42]: http://anjuta.org/
 [43]: http://www.geany.org/
 [44]: https://www.kdevelop.org/
-[45]: http://codelite.org/
+[45]: https://codelite.org/
 [46]: https://www.gnu.org/software/gnulib/
 [47]: http://www.gnu.org/software/gsl/
 [48]: http://liballeg.org
@@ -770,7 +770,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [229]: http://www.rabbitmq.com/
 [230]: https://github.com/madler/zlib
 [231]: https://github.com/libretro/RetroArch
-[232]: https://libretro.com/
+[232]: https://www.libretro.com/
 [233]: https://github.com/mongodb/mongo-c-driver
 [234]: https://www.mongodb.com/
 [235]: https://github.com/mongodb/libbson
