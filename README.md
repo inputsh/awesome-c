@@ -607,7 +607,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [65]: https://curl.haxx.se/libcurl/
 [66]: https://curl.haxx.se/docs/copyright.html
 [67]: http://site.icu-project.org/
-[68]: http://source.icu-project.org/repos/icu/icu/trunk/license.html
+[68]: http://source.icu-project.org/repos/icu/icu/tags/latest/LICENSE
 [69]: http://lodev.org/lodepng/
 [70]: http://www.fftw.org/
 [71]: https://sourceforge.net/projects/kissfft/
