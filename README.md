@@ -553,7 +553,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [11]: http://directory.fsf.org/wiki/License:Expat
 [12]: https://en.wikipedia.org/wiki/Widget_toolkit
 [13]: https://en.wikipedia.org/wiki/Free_software
-[14]: http://www.gtk.org/
+[14]: https://www.gtk.org/
 [15]: http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
 [16]: http://webserver2.tecgraf.puc-rio.br/iup/
 
@@ -572,11 +572,11 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [30]: https://github.com/stefanct/sglib
 [31]: http://facebook.github.io/libphenom/index.html
 [32]: http://directory.fsf.org/wiki/License:Apache2.0
-[33]: http://www.codeproject.com/Articles/6154/Writing-Efficient-C-and-C-Code-Optimization
+[33]: https://www.codeproject.com/articles/6154/writing-efficient-c-and-c-code-optimization
 [34]: http://www.catb.org/esr/structure-packing/
 [35]: http://shop.oreilly.com/product/0636920033677.do
 [36]: http://shop.oreilly.com/product/0636920028000.do
-[37]: http://openmp.org/wp/about-openmp/
+[37]: http://www.openmp.org/
 [38]: http://clang.llvm.org/
 [39]: http://directory.fsf.org/wiki/License:IllinoisNCSA
 [40]: https://gcc.gnu.org/
@@ -584,13 +584,13 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [42]: http://anjuta.org/
 [43]: http://www.geany.org/
 [44]: https://www.kdevelop.org/
-[45]: http://www.codelite.org/
+[45]: https://codelite.org/
 [46]: https://www.gnu.org/software/gnulib/
 [47]: http://www.gnu.org/software/gsl/
 [48]: http://liballeg.org
 [49]: http://directory.fsf.org/wiki/License:Zlib
 [50]: https://www.libsdl.org/
-[51]: http://redis.io/
+[51]: https://redis.io/
 [52]: http://zeromq.org/
 [53]: http://www.digip.org/jansson/
 [54]: http://www.colm.net/open-source/ragel/
@@ -607,7 +607,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [65]: https://curl.haxx.se/libcurl/
 [66]: https://curl.haxx.se/docs/copyright.html
 [67]: http://site.icu-project.org/
-[68]: http://source.icu-project.org/repos/icu/icu/trunk/license.html
+[68]: http://source.icu-project.org/repos/icu/icu/tags/latest/LICENSE
 [69]: http://lodev.org/lodepng/
 [70]: http://www.fftw.org/
 [71]: https://sourceforge.net/projects/kissfft/
@@ -644,7 +644,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [102]: http://shop.oreilly.com/product/0636920015482.do
 [103]: http://ccodearchive.net/
 [104]: http://ccodearchive.net/list.html
-[105]: https://symas.com/products/lightning-memory-mapped-database/
+[105]: https://symas.com/offerings/lightning-memory-mapped-database/
 [106]: http://directory.fsf.org/wiki/License:OpenLDAPv2.7
 [107]: https://github.com/ioquake/ioq3
 [108]: https://libgit2.github.com/
@@ -724,8 +724,8 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [183]: http://shop.oreilly.com/product/0636920026136.do
 [184]: https://www.pearsonhighered.com/program/Prata-C-Primer-Plus-6th-Edition/PGM4399.html
 [185]: http://www.planetpdf.com/codecuts/pdfs/ooc.pdf
-[186]: https://github.com/scrooloose/syntastic
-[187]: https://github.com/scrooloose/syntastic/blob/master/LICENCE
+[186]: https://github.com/vim-syntastic/syntastic
+[187]: https://github.com/vim-syntastic/syntastic/blob/master/LICENCE
 [188]: https://github.com/b-k/apophenia
 [189]: https://github.com/b-k/apophenia/blob/master/install/COPYING
 
@@ -770,7 +770,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [229]: http://www.rabbitmq.com/
 [230]: https://github.com/madler/zlib
 [231]: https://github.com/libretro/RetroArch
-[232]: http://www.libretro.com/
+[232]: https://www.libretro.com/
 [233]: https://github.com/mongodb/mongo-c-driver
 [234]: https://www.mongodb.com/
 [235]: https://github.com/mongodb/libbson
@@ -855,7 +855,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [316]: http://www.feynarts.de/cuba/
 [317]: http://www.gedanken.org.uk/software/cxref/
 [318]: http://www.stack.nl/~dimitri/doxygen/index.html
-[319]: http://www.gtk.org/gtk-doc/
+[319]: https://www.gtk.org/gtk-doc/
 [320]: https://www.gnu.org/software/ddd/ddd.html
 [321]: http://docutils.sourceforge.net/
 [322]: https://hplgit.github.io/doconce/doc/web/index.html
@@ -897,7 +897,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [358]: http://www.samnip.ps/thought/macro-storage-for-inverse-comma
 [359]: https://github.com/awslabs/s2n
 [360]: https://www.gnu.org/software/recutils/
-[361]: http://pp.ipd.kit.edu/firm/Index
+[361]: http://pp.ipd.kit.edu/firm/
 [362]: http://www.etalabs.net/compare_libcs.html
 [363]: https://github.com/Ed-von-Schleck/shoco
 [364]: https://github.com/antirez/smaz
