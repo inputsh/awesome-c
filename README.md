@@ -127,6 +127,7 @@ These are specifically fancier, IDE-type editors. If you want a programmer's tex
 * [Geany][43] - A very small and fast IDE. [GNU GPL2.1][8] or later.
 * [KDevelop][44] - The KDE IDE. [GNU GPL2.1][8] only.
 * [Qt Creator][394] - A cross-platform IDE written with C++ and Qt, part of the Qt SDK. Supports Clang Code Model. [GNU GPL3 with Qt exception][395] only.
+* [VsCode][401] - Code editing, redefined. Visual Studio Code.
 
 ## Environments ##
 
@@ -936,3 +937,4 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [398]: https://github.com/jorisvink/kore
 [399]: https://github.com/koanlogic/klone
 [400]: https://github.com/liteserver/binn
+[401]: https://code.visualstudio.com/
