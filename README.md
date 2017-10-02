@@ -321,6 +321,7 @@ This is a list of resources for learning C programming in general, or something 
 * [libidn][164] - An implementation of the Stringprep, Punycode and IDNA specifications. [GNU GPL3][41] or later.
 * [libmicrohttpd][165] - A small C library that makes it easy to run an HTTP server as part of another application. [GNU LGPL2.1][15] or later.
 * [libsoup][167] - A GNOME HTTP client/server library. Uses GObject. [GNU LGPL2.1][15] only.
+* [libuv][56] - Cross-platform asynchronous I/O. [Expat][11].
 * [lwan][199] - An experimental, scalable, high-performance HTTP server. [GNU GPL2.1][8] only.
 * [mongoose][171] - Embedded web server for C. [GNU GPL2.1][8] only.
 * [nanomsg][139] - A C-based implementation of ZeroMQ. [Expat][11].
@@ -514,7 +515,6 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 * [libPhenom][31] - An eventing framework for building high-scalability and high-performance systems. [Apache2.0][32].
 * [libsoundio][372] - A library for cross-platform, real-time audio input and output. Has a range of back-ends. [Expat][11].
 * [libucl][239] - A universal configuration library parser. [FreeBSD][24].
-* [libuv][56] - Cross-platform asynchronous I/O. [Expat][11].
 * [libYAML][341] - A YAML 1.1 parser and emitter. [Expat][11].
 * [lzo][338] - A very fast data compression library. [GNU GPL2.1][8].
 * [mpc][238] - A parser combinator library. [FreeBSD][24].
