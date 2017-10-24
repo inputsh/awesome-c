@@ -68,6 +68,7 @@ These are tools to automate the building and testing of projects in C.
 * [Jam][334] - A build system, designed to be easier than make. Understands C build rules implicitly. [Jam License][335].
 * [Libtool][172] - A generic library support script. Part of the Autotools. [GNU GPL3][41] or later.
 * [Meson][368] - An extremely fast, user-friendly build system. Based on Ninja. [Apache2.0][32].
+* [SCons][401] - SCons is an easier, more reliable and faster way to build software. [MIT License][402].
 
 ## Compilers ##
 
@@ -932,3 +933,5 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [398]: https://github.com/jorisvink/kore
 [399]: https://github.com/koanlogic/klone
 [400]: https://github.com/liteserver/binn
+[401]: http://www.scons.org/
+[402]: https://opensource.org/licenses/MIT
