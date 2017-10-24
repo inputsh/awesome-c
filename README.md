@@ -174,7 +174,8 @@ These are libraries of all sorts that are useful for game programming.
 * [libao][376] - A cross-platform audio library with a wide variety of outputs. [GNU GPL2.1][8] or later.
 * [RetroArch][231] - The reference frontend for [libretro][232]. [GNU GPL3][41] only.
 * [SDL][50] - A cross-platform library designed to provide low-level access to audio, keyboard, mouse, joystick and graphics hardware via OpenGL. [zlib][49].
-* [SDL2][50]- A a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL. This is the most current version. [zlib][49]
+* [SDL2][50] - A a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL. This is the most current version. [zlib][49].
+* [raylib][401] - A simple and easy-to-use library to learn videogames programming. [zlib][49].
 
 ## Generic Programming ##
 
@@ -202,6 +203,7 @@ These are specifically [widget toolkits][12].
 * [IUP][16] - Another cross-platform widget toolkit. [Expat][11].
 * [Tk][19] - A basic widget toolkit. Part of Tcl/Tk. [Tcl/Tk License][20].
 * [XForms Toolkit][21] - A widget toolkit designed for the XWindow system. [GNU LGPL2.1][15] only.
+* [nuklear][402] - A single-header ANSI C gui library. public domain.
 
 ## Image Processing ##
 
@@ -932,3 +934,5 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [398]: https://github.com/jorisvink/kore
 [399]: https://github.com/koanlogic/klone
 [400]: https://github.com/liteserver/binn
+[401]: https://github.com/raysan5/raylib
+[402]: https://github.com/vurtun/nuklear
