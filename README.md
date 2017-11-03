@@ -18,6 +18,7 @@ Contents
 - [Deep Learning](#deep-learning)
 - [Documentation Generation](#documentation-generation)
 - [Editors](#editors)
+- [Embedded Systems](#embedded-systems)
 - [Environments](#environments)
 - [Frameworks](#frameworks)
 - [Game Programming](#game-programming)
@@ -124,6 +125,12 @@ These are specifically fancier, IDE-type editors. If you want a programmer's tex
 * [Geany][43] - Very small and fast IDE. [[GNU GPL2.1][8] or later]
 * [KDevelop][44] - The KDE IDE. [[GNU GPL2.1][8] only]
 * [Qt Creator][394] - Cross-platform IDE written with C++ and Qt, part of the Qt SDK. Supports Clang Code Model. [[GNU GPL3 with Qt exception][395] only]
+
+## Embedded Systems ##
+
+These are projects that allow one to work with microcontrollers and other resource constrained architectures.
+
+* [Zephyr Project][404] - The Zephyr Project is a scalable real-time operating system (RTOS) supporting multiple hardware architectures, optimized for resource constrained devices. [[Apache2.0][32]]
 
 ## Environments ##
 
@@ -938,3 +945,4 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [401]: https://github.com/raysan5/raylib
 [402]: https://github.com/vurtun/nuklear
 [403]: https://github.com/premake/premake-core
+[404]: https://github.com/zephyrproject-rtos/zephyr
