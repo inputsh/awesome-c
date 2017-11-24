@@ -810,7 +810,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [263]: https://computing.llnl.gov/tutorials/pthreads/
 [264]: https://computing.llnl.gov/tutorials/openMP/
 [265]: https://computing.llnl.gov/tutorials/mpi/
-[266]: https://www.securecoding.cert.org/confluence/display/c/SEI+CERT+C+Coding+Standard
+[266]: https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard
 [267]: http://blog.pkh.me/p/20-templating-in-c.html
 [268]: http://lipforge.ens-lyon.fr/www/crlibm/index.html
 [269]: https://github.com/AbsInt/CompCert
