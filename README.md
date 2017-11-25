@@ -374,7 +374,7 @@ This is a list of resources for learning C programming in general, or something 
 
 * [cchan][243] - Small library for channel constructs for inter-thread communication. [Public domain]
 * [ck][242] - Concurrency primitives, safe memory reclamation mechanisms and non-blocking data structures. [[FreeBSD][24]]
-* [mill][352] - Go-style concurrency in C. [[X11][353]]
+* [mill][352] - Go-style concurrency in C. [[X11][100]]
 * [MPICH][285] - Another implementation of MPI. [[MPICH licence][286]]
 * [OpenMP][37] - Set of C pragmas designed to allow for easy parallelization of code. [Standard (licensing not applicable)]
 * [OpenMPI][284] - Message passing interface implementation. [[3-clause BSD][6]]
@@ -894,7 +894,6 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [350]: https://github.com/watmough/jwHash
 [351]: https://www.gnu.org/software/gperf/
 [352]: http://libmill.org/
-[353]: https://directory.fsf.org/wiki/License:X11
 [354]: https://github.com/libimobiledevice/libimobiledevice
 [355]: http://kitsune-dsu.com/
 [356]: https://github.com/abiggerhammer/hammer
