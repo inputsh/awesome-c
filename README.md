@@ -429,6 +429,7 @@ This contains standard C libraries.
 * [SDS][29] - Simple Dynamic Strings; a library for handling C strings in a simpler way, but one that is compatible with normal C string functions. Available via [clib][26]. [[FreeBSD][24]]
 * [shoco][363] - Compressor for small text strings. [[Expat][11]]
 * [smaz][364] - Efficient string compression library. [[3-clause BSD][6]]
+* [utf8.h][405] - Single header utf8 string functions. [[Unlicense][406]]
 
 ## Testing ##
 
@@ -946,3 +947,5 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [402]: https://github.com/vurtun/nuklear
 [403]: https://github.com/premake/premake-core
 [404]: https://github.com/zephyrproject-rtos/zephyr
+[405]: https://github.com/sheredom/utf8.h
+[406]: http://unlicense.org/
