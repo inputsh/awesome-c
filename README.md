@@ -936,7 +936,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [391]: http://libccv.org
 [392]: https://github.com/rafael-santiago/cutest
 [393]: https://github.com/rafael-santiago/pig
-[394]: https://www.qt.io/qt-features-libraries-apis-tools-and-ide
+[394]: https://www.qt.io/qt-features-libraries-apis-tools-and-ide/
 [395]: https://github.com/qtproject/qt-creator/blob/master/LICENSE.GPL3-EXCEPT
 [396]: https://pjreddie.com/darknet/
 [397]: https://www.spinellis.gr/cscout/
