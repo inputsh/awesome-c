@@ -618,7 +618,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [69]: http://lodev.org/lodepng/
 [70]: http://www.fftw.org/
 [71]: https://sourceforge.net/projects/kissfft/
-[72]: http://www.yeppp.info/
+[72]: https://bitbucket.org/MDukhan/yeppp
 [73]: https://graphics.stanford.edu/~seander/bithacks.html
 [74]: http://pcc.ludd.ltu.se/
 [75]: http://pcc.ludd.ltu.se/licenses/
