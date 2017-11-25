@@ -535,7 +535,6 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 * [rabbitmq-c][228] - Client library for [RabbitMQ][229]. [[Expat][11]]
 * [Ragel][54] - DSL for state machines that compiles to C. [[GNU GPL2.1][8] only]
 * [uthash][117] - Hash table implementation, allowing existing structures to be stored in a hash table easily. [[1-clause BSD][118]]
-* [Viola][241] - Simplification of libCello. [[Expat][11]]
 * [zlib][230] - Massively-spiffy yet delicately-unobtrusive compression library. [[3-clause BSD][6]]
 
 ## XML ##
@@ -786,7 +785,6 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [238]: https://github.com/orangeduck/mpc
 [239]: https://github.com/vstakhov/libucl
 [240]: https://snai.pe/c/c-smart-pointers/
-[241]: https://github.com/eatonphil/Viola
 [242]: https://github.com/concurrencykit/ck
 [243]: http://repo.hu/projects/cchan/
 [244]: https://github.com/pmwkaa/sophia
