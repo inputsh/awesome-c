@@ -650,14 +650,14 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [102]: http://shop.oreilly.com/product/0636920015482.do
 [103]: http://ccodearchive.net/
 [104]: http://ccodearchive.net/list.html
-[105]: https://symas.com/offerings/lightning-memory-mapped-database/
+[105]: https://github.com/LMDB/lmdb
 [106]: https://directory.fsf.org/wiki/License:OpenLDAPv2.7
 [107]: https://github.com/ioquake/ioq3
 [108]: https://libgit2.github.com/
 [109]: https://github.com/libgit2/libgit2/blob/master/COPYING
 [110]: https://www.openssl.org/
 [111]: https://www.openssl.org/source/license.html
-[112]: http://www.gnutls.org/
+[112]: https://www.gnutls.org/
 [113]: https://github.com/RhysU/c99sh
 [114]: https://github.com/nothings/stb
 [115]: https://tinycthread.github.io/
@@ -712,7 +712,6 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [165]: https://www.gnu.org/software/libmicrohttpd/
 [166]: http://www.hughes.com.au/products/libhttpd/
 [167]: https://wiki.gnome.org/action/show/Projects/libsoup?action=show&redirect=LibSoup
-[168]: http://www.webdav.org/neon/
 [169]: http://mihl.sourceforge.net/
 [170]: https://github.com/davidmoreno/onion
 [171]: https://github.com/cesanta/mongoose
@@ -760,8 +759,8 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [213]: http://home.netcom.com/~tjensen/ptr/pointers.htm
 [214]: https://github.com/adamierymenko/huffandpuff
 [215]: https://sourceforge.net/projects/vtd-xml/
-[216]: https://michaelrsweet.github.io?Z3
-[217]: http://svn.msweet.org/mxml/trunk/COPYING
+[216]: https://github.com/michaelrsweet/mxml
+[217]: https://github.com/michaelrsweet/mxml/blob/master/COPYING
 [218]: http://ezxml.sourceforge.net/
 [219]: https://github.com/blunderer/libroxml
 [220]: https://github.com/json-c/json-c/wiki
@@ -811,11 +810,10 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [265]: https://computing.llnl.gov/tutorials/mpi/
 [266]: https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard
 [267]: http://blog.pkh.me/p/20-templating-in-c.html
-[268]: http://lipforge.ens-lyon.fr/www/crlibm/index.html
 [269]: https://github.com/AbsInt/CompCert
 [270]: https://github.com/docopt/docopt.c
 [271]: http://marek.vavrusa.com/c/memory/2015/02/20/memory/
-[272]: https://kukuruku.co/hub/programming/i-do-not-know-c
+[272]: https://kukuruku.co/post/i-do-not-know-c/
 [273]: http://kamalatta.ddnss.de/otherdocs/pikestyle.html
 [274]: https://github.com/andlabs/qo
 [275]: http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html
@@ -836,7 +834,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [290]: http://dotat.at/prog/unifdef/
 [291]: https://tls.mbed.org/
 [292]: http://www.fefe.de/djb/
-[293]: http://www.canonware.com/jemalloc/
+[293]: http://jemalloc.net/
 [295]: https://github.com/gperftools/gperftools
 [296]: https://github.com/ThrowTheSwitch/Unity
 [297]: https://github.com/ThrowTheSwitch/CMock
@@ -898,7 +896,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [355]: http://kitsune-dsu.com/
 [356]: https://github.com/abiggerhammer/hammer
 [357]: http://250bpm.com/blog:56
-[358]: http://www.samnip.ps/thought/macro-storage-for-inverse-comma
+[358]: https://github.com/Fedjmike/Fedjmike.github.io/blob/master/_thought/macro-storage-for-inverse-comma.md
 [359]: https://github.com/awslabs/s2n
 [360]: https://www.gnu.org/software/recutils/
 [361]: https://pp.ipd.kit.edu/firm/
