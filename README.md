@@ -341,6 +341,7 @@ This is a list of resources for learning C programming in general, or something 
 * [socket99][203] - C99 wrapper for the BSD sockets API. [[ISC][61]]
 * [Tox][145] - Communication platform, designed to be a Skype-killer. [[GNU GPL3][41] only]
 * [twitc][237] - Mini C library for interacting with the Twitter OAuth API. [[Expat][11]]
+* [librg][407] - Library for building simple and elegant cross-platform mmo client-server solutions. [[Apache2.0][32]]
 
 ### Web Frameworks ###
 
@@ -944,3 +945,4 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [404]: https://github.com/zephyrproject-rtos/zephyr
 [405]: https://github.com/sheredom/utf8.h
 [406]: http://unlicense.org/
+[407]: https://github.com/librg/librg
