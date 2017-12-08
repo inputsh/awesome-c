@@ -400,8 +400,11 @@ This is a list of resources for learning C programming in general, or something 
 * [cmp][377] - Implementation of the [MessagePack][379] serialization protocol. [[Expat][11]]
 * [libavro][140] - C implementation of the Avro data serialization system. [[Apache2.0][32]]
 * [mpack][378] - Another implementation of the [MessagePack][379] serialization protocol. [[Expat][11]]
+* [netstring-c][408] - Netstring encoder and decoder. [Public Domain]
 * [protobuf-c][129] - Implementation of Google Protocol Buffer in C. [[FreeBSD][24]]
 * [xdr][131] - External Data Representation; a standard for data serialization. [Standard (no license applicable)]
+
+Check also: [JSON](#json), [XML](#xml)
 
 ## Source Code Collections ##
 
@@ -946,3 +949,4 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [405]: https://github.com/sheredom/utf8.h
 [406]: http://unlicense.org/
 [407]: https://github.com/librg/librg
+[408]: https://github.com/liteserver/netstring-c
