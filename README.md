@@ -13,6 +13,7 @@ Contents
 
 - [Build Systems](#build-systems)
 - [Compilers](#compilers)
+- [Compression](#compression)
 - [Crypto](#crypto)
 - [Database](#database)
 - [Deep Learning](#deep-learning)
@@ -78,6 +79,10 @@ These are tools to automate the building and testing of projects in C.
 * [GCC][40] - Provides a C compiler as part of its compiler set. Supports C11 and OpenMP. [[GNU GPL3][41] or later]
 * [PCC][74] - Venerable C compiler. Supports C99. [[Various free licenses][75]]
 * [TCC][58] - Tiny C Compiler; a small, fast C compiler. Supports C99 (except complex types). [[GNU LGPL2.1][15] only]
+
+## Compression ##
+
+* [libzip][408] - A C library for reading, creating, and modifying zip archives. [[3-clause BSD][6]]
 
 ## Crypto ##
 
@@ -946,3 +951,4 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [405]: https://github.com/sheredom/utf8.h
 [406]: http://unlicense.org/
 [407]: https://github.com/librg/librg
+[408]: https://github.com/nih-at/libzip
