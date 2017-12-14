@@ -67,6 +67,7 @@ These are tools to automate the building and testing of projects in C.
 * [aimake][97] - Build tool designed to avoid complex configurations. [[GNU GPL3][41] or later]
 * [Autoconf][305] - Extensible package of M4 macros that produce shell scripts to automatically configure software source code packages. Part of the Autotools. [[GNU GPL3][41] or later]
 * [Automake][306] - Tool for automatically generating ``Makefile.in`` files compliant with the GNU Coding Standards. Requires the use of Autoconf. Part of the Autotools. [[GNU GPL3][41] or later]
+* [CMake][410] - Tools for cross-platform building, testing, and packaging. [[3-clause BSD][411]]
 * [Jam][334] - Build system, designed to be easier than make. Understands C build rules implicitly. [[Jam License][335]]
 * [Libtool][172] - Generic library support script. Part of the Autotools. [[GNU GPL3][41] or later]
 * [Meson][368] - Extremely fast, user-friendly build system. Based on Ninja. [[Apache2.0][32]]
@@ -956,3 +957,5 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [407]: https://github.com/librg/librg
 [408]: https://github.com/nih-at/libzip
 [409]: https://github.com/liteserver/netstring-c
+[410]: https://cmake.org/
+[411]: https://gitlab.kitware.com/cmake/cmake/raw/master/Copyright.txt
