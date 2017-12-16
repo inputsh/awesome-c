@@ -146,6 +146,7 @@ A real-time operating system (RTOS) is intended to serve real-time applications 
 
 * [Amazon FreeRTOS][414] - RTOS for microcontrollers that makes small, low-power edge devices easy to program. [[MIT][415]]
 * [ChibiOS][416] - RTOS with complete development environment (HAL, drivers, support files, and tools). [[Various][417]]
+* [Contiki][418] - Connect low-cost, low power microcontrollers to the Internet. [[3-clause BSD][419]]
 * [Zephyr Project][404] - Scalable real-time RTOS supporting multiple hardware architectures, optimized for resource constrained devices. [[Apache2.0][32]]
 
 ## Environments ##
@@ -972,4 +973,6 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [414]: https://github.com/aws/amazon-freertos
 [415]: https://github.com/aws/amazon-freertos/blob/master/LICENSE
 [416]: http://www.chibios.org/dokuwiki/doku.php
-[417]: http://www.chibios.org/dokuwiki/doku.php?id=chibios:licensing:start
+[417]: http://www.chibios.org/dokuwiki/doku.php?id=chibios:licensing:start\
+[418]: https://github.com/contiki-os/contiki
+[419]: https://github.com/contiki-os/contiki/blob/master/LICENSE
