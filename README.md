@@ -20,6 +20,7 @@ Contents
 - [Documentation Generation](#documentation-generation)
 - [Editors](#editors)
 - [Embedded Systems](#embedded-systems)
+  - [RTOS](#rtos)
 - [Environments](#environments)
 - [Frameworks](#frameworks)
 - [Game Programming](#game-programming)
@@ -138,6 +139,10 @@ These are specifically fancier, IDE-type editors. If you want a programmer's tex
 ## Embedded Systems ##
 
 These are projects that allow one to work with microcontrollers and other resource constrained architectures.
+
+### RTOS ###
+
+A real-time operating system (RTOS) is intended to serve real-time applications that process data with low latency delay.
 
 * [Zephyr Project][404] - The Zephyr Project is a scalable real-time operating system (RTOS) supporting multiple hardware architectures, optimized for resource constrained devices. [[Apache2.0][32]]
 
