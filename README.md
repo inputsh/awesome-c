@@ -146,7 +146,7 @@ A real-time operating system (RTOS) is intended to serve real-time applications 
 
 * [Amazon FreeRTOS][414] - RTOS for microcontrollers that makes small, low-power edge devices easy to program. [[MIT][415]]
 * [ChibiOS][416] - RTOS with complete development environment (HAL, drivers, support files, and tools). [[Various][417]]
-* [Zephyr Project][404] - The Zephyr Project is a scalable real-time operating system (RTOS) supporting multiple hardware architectures, optimized for resource constrained devices. [[Apache2.0][32]]
+* [Zephyr Project][404] - Scalable real-time RTOS supporting multiple hardware architectures, optimized for resource constrained devices. [[Apache2.0][32]]
 
 ## Environments ##
 
