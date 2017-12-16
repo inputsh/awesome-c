@@ -144,6 +144,7 @@ These are projects that allow one to work with microcontrollers and other resour
 
 A real-time operating system (RTOS) is intended to serve real-time applications that process data with low latency delay.
 
+* [Amazon FreeRTOS][414] - RTOS for microcontrollers that makes small, low-power edge devices easy to program. [[MIT][415]]
 * [Zephyr Project][404] - The Zephyr Project is a scalable real-time operating system (RTOS) supporting multiple hardware architectures, optimized for resource constrained devices. [[Apache2.0][32]]
 
 ## Environments ##
@@ -967,3 +968,5 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [411]: https://gitlab.kitware.com/cmake/cmake/raw/master/Copyright.txt
 [412]: https://atom.io/
 [413]: https://raw.githubusercontent.com/atom/atom/master/LICENSE.md
+[414]: https://github.com/aws/amazon-freertos
+[415]: https://github.com/aws/amazon-freertos/blob/master/LICENSE
