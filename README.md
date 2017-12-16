@@ -127,6 +127,7 @@ This lists databases and data stores with C APIs.
 These are specifically fancier, IDE-type editors. If you want a programmer's text editor, look elsewhere. Besides, whatever choice you make most likely supports C anyway.
 
 * [Anjuta DevStudio][42] - The GNOME IDE. [[GNU GPL2.1][15] only]
+* [Atom][412] - Hackable text editor for the 21st century. [[MIT][413]]
 * [Code::Blocks][249] - Extensible, configurable IDE supporting C. [[GNU GPL3][41] only]
 * [CodeLite][45] - Cross-platform IDE. [[GNU GPL2.1][8] only]
 * [Eclipse][258] - IDE written in Java. [[EPL][259]]
@@ -959,3 +960,5 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [409]: https://github.com/liteserver/netstring-c
 [410]: https://cmake.org/
 [411]: https://gitlab.kitware.com/cmake/cmake/raw/master/Copyright.txt
+[412]: https://atom.io/
+[413]: https://raw.githubusercontent.com/atom/atom/master/LICENSE.md
