@@ -441,6 +441,7 @@ This contains standard C libraries.
 
 ## Testing ##
 
+* [ciut][17] - A modern minimal hassle unit test framework for C and C++. [[MIT][190]]
 * [CHEAT][84] - Very simple unit testing framework. [[FreeBSD][24]]
 * [Check][59] - Unit testing framework for C. [[GNU LGPL2.1][15] only]
 * [CMock][297] - Mock/stub generator for C. [[Expat][11]]
@@ -567,7 +568,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [14]: https://www.gtk.org/
 [15]: http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
 [16]: http://webserver2.tecgraf.puc-rio.br/iup/
-
+[17]: https://github.com/yhfudev/cpp-ci-unit-test.git
 [18]: https://www.enlightenment.org?p=about%252Flibs
 [19]: http://www.tcl.tk/
 [20]: http://www.tcl.tk/software/tcltk/license.html
@@ -738,7 +739,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [187]: https://github.com/vim-syntastic/syntastic/blob/master/LICENCE
 [188]: https://github.com/b-k/apophenia
 [189]: https://github.com/b-k/apophenia/blob/master/install/COPYING
-
+[190]: https://spdx.org/licenses/MIT.html
 [191]: http://steve-yegge.blogspot.co.nz/2008/10/universal-design-pattern.html
 [192]: http://libjpeg.sourceforge.net/
 [193]: https://libjpeg-turbo.org/
