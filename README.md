@@ -819,7 +819,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [270]: https://github.com/docopt/docopt.c
 [271]: http://marek.vavrusa.com/c/memory/2015/02/20/memory/
 [272]: https://kukuruku.co/post/i-do-not-know-c/
-[273]: http://kamalatta.ddnss.de/otherdocs/pikestyle.html
+[273]: http://www.lysator.liu.se/c/pikestyle.html
 [274]: https://github.com/andlabs/qo
 [275]: http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html
 [276]: https://github.com/ryanmjacobs/c
