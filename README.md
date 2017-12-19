@@ -407,8 +407,11 @@ This is a list of resources for learning C programming in general, or something 
 * [cmp][377] - Implementation of the [MessagePack][379] serialization protocol. [[Expat][11]]
 * [libavro][140] - C implementation of the Avro data serialization system. [[Apache2.0][32]]
 * [mpack][378] - Another implementation of the [MessagePack][379] serialization protocol. [[Expat][11]]
+* [netstring-c][409] - Netstring encoder and decoder. [Public Domain]
 * [protobuf-c][129] - Implementation of Google Protocol Buffer in C. [[FreeBSD][24]]
 * [xdr][131] - External Data Representation; a standard for data serialization. [Standard (no license applicable)]
+
+Check also: [JSON](#json), [XML](#xml)
 
 ## Source Code Collections ##
 
@@ -542,6 +545,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 * [rabbitmq-c][228] - Client library for [RabbitMQ][229]. [[Expat][11]]
 * [Ragel][54] - DSL for state machines that compiles to C. [[GNU GPL2.1][8] only]
 * [uthash][117] - Hash table implementation, allowing existing structures to be stored in a hash table easily. [[1-clause BSD][118]]
+
 ## XML ##
 
 > "XML is crap. Really. There are no excuses. XML is nasty to parse for humans, and it's a disaster to parse even for computers. There's just no reason for that horrible crap to exist." - Linus Torvalds
@@ -951,3 +955,4 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [406]: http://unlicense.org/
 [407]: https://github.com/librg/librg
 [408]: https://github.com/nih-at/libzip
+[409]: https://github.com/liteserver/netstring-c
