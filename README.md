@@ -20,6 +20,7 @@ Contents
 - [Documentation Generation](#documentation-generation)
 - [Editors](#editors)
 - [Embedded Systems](#embedded-systems)
+  - [RTOS](#rtos)
 - [Environments](#environments)
 - [Frameworks](#frameworks)
 - [Game Programming](#game-programming)
@@ -67,6 +68,7 @@ These are tools to automate the building and testing of projects in C.
 * [aimake][97] - Build tool designed to avoid complex configurations. [[GNU GPL3][41] or later]
 * [Autoconf][305] - Extensible package of M4 macros that produce shell scripts to automatically configure software source code packages. Part of the Autotools. [[GNU GPL3][41] or later]
 * [Automake][306] - Tool for automatically generating ``Makefile.in`` files compliant with the GNU Coding Standards. Requires the use of Autoconf. Part of the Autotools. [[GNU GPL3][41] or later]
+* [CMake][410] - Tools for cross-platform building, testing, and packaging. [[3-clause BSD][411]]
 * [Jam][334] - Build system, designed to be easier than make. Understands C build rules implicitly. [[Jam License][335]]
 * [Libtool][172] - Generic library support script. Part of the Autotools. [[GNU GPL3][41] or later]
 * [Meson][368] - Extremely fast, user-friendly build system. Based on Ninja. [[Apache2.0][32]]
@@ -126,6 +128,7 @@ This lists databases and data stores with C APIs.
 These are specifically fancier, IDE-type editors. If you want a programmer's text editor, look elsewhere. Besides, whatever choice you make most likely supports C anyway.
 
 * [Anjuta DevStudio][42] - The GNOME IDE. [[GNU GPL2.1][15] only]
+* [Atom][412] - Hackable text editor for the 21st century. [[MIT][413]]
 * [Code::Blocks][249] - Extensible, configurable IDE supporting C. [[GNU GPL3][41] only]
 * [CodeLite][45] - Cross-platform IDE. [[GNU GPL2.1][8] only]
 * [Eclipse][258] - IDE written in Java. [[EPL][259]]
@@ -137,7 +140,14 @@ These are specifically fancier, IDE-type editors. If you want a programmer's tex
 
 These are projects that allow one to work with microcontrollers and other resource constrained architectures.
 
-* [Zephyr Project][404] - The Zephyr Project is a scalable real-time operating system (RTOS) supporting multiple hardware architectures, optimized for resource constrained devices. [[Apache2.0][32]]
+### RTOS ###
+
+A real-time operating system (RTOS) is intended to serve real-time applications that process data with low latency delay.
+
+* [Amazon FreeRTOS][414] - RTOS for microcontrollers that makes small, low-power edge devices easy to program. [[MIT][415]]
+* [ChibiOS][416] - RTOS with complete development environment (HAL, drivers, support files, and tools). [[Various][417]]
+* [Contiki][418] - Connect low-cost, low power microcontrollers to the Internet. [[3-clause BSD][419]]
+* [Zephyr Project][404] - Scalable real-time RTOS supporting multiple hardware architectures, optimized for resource constrained devices. [[Apache2.0][32]]
 
 ## Environments ##
 
@@ -956,3 +966,13 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [407]: https://github.com/librg/librg
 [408]: https://github.com/nih-at/libzip
 [409]: https://github.com/liteserver/netstring-c
+[410]: https://cmake.org/
+[411]: https://gitlab.kitware.com/cmake/cmake/raw/master/Copyright.txt
+[412]: https://atom.io/
+[413]: https://raw.githubusercontent.com/atom/atom/master/LICENSE.md
+[414]: https://github.com/aws/amazon-freertos
+[415]: https://github.com/aws/amazon-freertos/blob/master/LICENSE
+[416]: http://www.chibios.org/dokuwiki/doku.php
+[417]: http://www.chibios.org/dokuwiki/doku.php?id=chibios:licensing:start\
+[418]: https://github.com/contiki-os/contiki
+[419]: https://github.com/contiki-os/contiki/blob/master/LICENSE
