@@ -13,6 +13,7 @@ Contents
 
 - [Build Systems](#build-systems)
 - [Compilers](#compilers)
+- [Compression](#compression)
 - [Crypto](#crypto)
 - [Database](#database)
 - [Deep Learning](#deep-learning)
@@ -78,6 +79,12 @@ These are tools to automate the building and testing of projects in C.
 * [GCC][40] - Provides a C compiler as part of its compiler set. Supports C11 and OpenMP. [[GNU GPL3][41] or later]
 * [PCC][74] - Venerable C compiler. Supports C99. [[Various free licenses][75]]
 * [TCC][58] - Tiny C Compiler; a small, fast C compiler. Supports C99 (except complex types). [[GNU LGPL2.1][15] only]
+
+## Compression ##
+
+* [libzip][408] - A C library for reading, creating, and modifying zip archives. [[3-clause BSD][6]]
+* [lzo][338] - Very fast data compression library. [[GNU GPL2.1][8]]
+* [zlib][230] - Massively-spiffy yet delicately-unobtrusive compression library. [[3-clause BSD][6]]
 
 ## Crypto ##
 
@@ -400,7 +407,7 @@ This is a list of resources for learning C programming in general, or something 
 * [cmp][377] - Implementation of the [MessagePack][379] serialization protocol. [[Expat][11]]
 * [libavro][140] - C implementation of the Avro data serialization system. [[Apache2.0][32]]
 * [mpack][378] - Another implementation of the [MessagePack][379] serialization protocol. [[Expat][11]]
-* [netstring-c][408] - Netstring encoder and decoder. [Public Domain]
+* [netstring-c][409] - Netstring encoder and decoder. [Public Domain]
 * [protobuf-c][129] - Implementation of Google Protocol Buffer in C. [[FreeBSD][24]]
 * [xdr][131] - External Data Representation; a standard for data serialization. [Standard (no license applicable)]
 
@@ -531,7 +538,6 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 * [libucl][239] - Universal configuration library parser. [[FreeBSD][24]]
 * [libuv][56] - Cross-platform asynchronous I/O. [[Expat][11]]
 * [libYAML][341] - YAML 1.1 parser and emitter. [[Expat][11]]
-* [lzo][338] - Very fast data compression library. [[GNU GPL2.1][8]]
 * [mpc][238] - Parser combinator library. [[FreeBSD][24]]
 * [ncurses][178] - Coloured terminal UI library. [[GNU GPL3][41] or later]
 * [nope.c][209] - C-language-based, ultra-light software platform for scalable server-side and networking applications (think node.js for C programmers). [[GNU GPL2.1][8] only]
@@ -539,7 +545,6 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 * [rabbitmq-c][228] - Client library for [RabbitMQ][229]. [[Expat][11]]
 * [Ragel][54] - DSL for state machines that compiles to C. [[GNU GPL2.1][8] only]
 * [uthash][117] - Hash table implementation, allowing existing structures to be stored in a hash table easily. [[1-clause BSD][118]]
-* [zlib][230] - Massively-spiffy yet delicately-unobtrusive compression library. [[3-clause BSD][6]]
 
 ## XML ##
 
@@ -818,7 +823,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [270]: https://github.com/docopt/docopt.c
 [271]: http://marek.vavrusa.com/c/memory/2015/02/20/memory/
 [272]: https://kukuruku.co/post/i-do-not-know-c/
-[273]: http://kamalatta.ddnss.de/otherdocs/pikestyle.html
+[273]: http://www.lysator.liu.se/c/pikestyle.html
 [274]: https://github.com/andlabs/qo
 [275]: http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html
 [276]: https://github.com/ryanmjacobs/c
@@ -949,4 +954,5 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [405]: https://github.com/sheredom/utf8.h
 [406]: http://unlicense.org/
 [407]: https://github.com/librg/librg
-[408]: https://github.com/liteserver/netstring-c
+[408]: https://github.com/nih-at/libzip
+[409]: https://github.com/liteserver/netstring-c
