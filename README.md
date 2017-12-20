@@ -246,13 +246,13 @@ This is a list of resources for learning C programming in general, or something 
 * [Comparison of C/POSIX standard library implementations for GNU/Linux][362]
 * [GNU C Reference Manual][329]
 * [Robert Pike's notes on programming in C][273]
-* [Draft ANSI C Rationale][411]
+* [Draft ANSI C Rationale (C89)][411]
 * [Draft C99 Rationale][412]
 
 ##### Language Standards #####
 * [Draft ANSI C (C89) Standard][409]
-* [Draft C99 standard][410]
-* [Draft C11 standard][247]
+* [Draft C99 Standard][410]
+* [Draft C11 Standard][247]
 
 #### Beginner ####
 
@@ -805,7 +805,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [244]: https://github.com/pmwkaa/sophia
 [245]: http://www.greenend.org.uk/rjk/tech/inline.html
 [246]: https://github.com/Snaipe/Criterion
-[247]: http://www.open-std.org/JTC1/SC22/WG14/
+[247]: http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1570.pdf
 [248]: https://en.wikibooks.org/wiki/C_Programming
 [249]: http://www.codeblocks.org/
 [250]: http://cedet.sourceforge.net/
@@ -962,9 +962,9 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [406]: http://unlicense.org/
 [407]: https://github.com/librg/librg
 [408]: https://github.com/nih-at/libzip
-[409]: http://web.archive.org/web/20030222051144/http://home.earthlink.net/~bobbitts/c89.txt
+[409]: http://port70.net/~nsz/c/c89/c89-draft.html
 [410]: http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1256.pdf
-[411]: https://drive.google.com/file/d/0BxVCLS4f8Sg5NWZmM2NjZWEtYmExMS00Y2EzLWE3ZTMtNzFmYjYwYzBiOTIw/view
+[411]: http://port70.net/~nsz/c/c89/rationale/title.html
 [412]: http://port70.net/~nsz/c/c99/C99RationaleV5.10.pdf
 [413]: http://p99.gforge.inria.fr/
 [414]: https://tldrlegal.com/license/q-public-license-1.0-(qpl-1.0)#summary
