@@ -135,6 +135,7 @@ These are specifically fancier, IDE-type editors. If you want a programmer's tex
 * [Geany][43] - Very small and fast IDE. [[GNU GPL2.1][8] or later]
 * [KDevelop][44] - The KDE IDE. [[GNU GPL2.1][8] only]
 * [Qt Creator][394] - Cross-platform IDE written with C++ and Qt, part of the Qt SDK. Supports Clang Code Model. [[GNU GPL3 with Qt exception][395] only]
+* [Visual Studio Code][420] - Code editing, redefined. Visual Studio Code.
 
 ## Embedded Systems ##
 
@@ -976,3 +977,4 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [417]: http://www.chibios.org/dokuwiki/doku.php?id=chibios:licensing:start\
 [418]: https://github.com/contiki-os/contiki
 [419]: https://github.com/contiki-os/contiki/blob/master/LICENSE
+[420]: https://code.visualstudio.com/
