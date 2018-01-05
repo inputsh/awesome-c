@@ -73,6 +73,7 @@ These are tools to automate the building and testing of projects in C.
 * [Libtool][172] - Generic library support script. Part of the Autotools. [[GNU GPL3][LIC1] or later]
 * [Meson][368] - Extremely fast, user-friendly build system. Based on Ninja. [[Apache2.0][LIC4]]
 * [Premake][403] - Build script generator for toolsets like Visual Studio, Xcode, or GNU Make. [[3-clause BSD][LIC5]]
+* [SCons][420] - An easier, more reliable and faster way to build software. [MIT License][LIC18].
 
 ## Compilers ##
 
@@ -925,6 +926,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [416]: http://www.chibios.org/dokuwiki/doku.php
 [418]: https://github.com/contiki-os/contiki
 [419]: https://code.visualstudio.com/
+[420]: http://www.scons.org/
 
 [LIC1]: http://www.gnu.org/licenses/gpl.html
 [LIC2]: https://gitlab.kitware.com/cmake/cmake/raw/master/Copyright.txt
