@@ -312,7 +312,7 @@ This is a list of resources for learning C programming in general, or something 
 #### Beginner ####
 
 * [C Primer Plus 6E][184] - Complete tutorial on programming in C11.
-* [C Programming: A Modern Approach][64] - Excellent book to learn the basics from C from.
+* [C Programming: A Modern Approach][64] - Excellent book to learn the basics of C.
 * [Head First C][102] - 'Head-first' style book for learning C.
 
 #### Intermediate ####
