@@ -28,6 +28,7 @@ Contents
   - [Resources](#resources)
 - [Generic Programming](#generic-programming)
 - [Graphics](#graphics)
+  - [Graphic APIs](#graphic-apis)
 - [Graphical User Interface](#graphical-user-interface)
 - [Image Processing](#image-processing)
 - [JSON](#json)
@@ -220,7 +221,13 @@ These are libraries of all sorts that are useful for game programming.
 * [libpng][382] - The official PNG reference library. [[libpng license][LIC33]]
 * [libxmi][174] - Function library for rasterizing 2D vector graphics. [[GNU GPL3][LIC1] or later]
 * [mozjpeg][200] - Improved JPEG encoder. [[3-clause BSD][LIC5]]
-* [OpenGL][147] - The industry standard for high-performance graphics, with a native C binding. [[Various free licenses][LIC34]]
+
+### Graphic APIs ###
+
+* [OpenGL][147] - Industry adopted 2D and 3D graphics API. More resources at [awesome-opengl][11].
+* [OpenGL ES][5] - Industry adopted 2D and 3D graphics API for mobile and embedded devices.
+* [OpenGL SC][6] - Graphic and compute standard for industry requiring system safety certification.
+* [Vulkan][8] - Explicit graphic and compute API for modern cross-platform development. More resources at [awesome-vulkan][15].
 
 ## Graphical User Interface ##
 
@@ -571,12 +578,17 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [2]: https://developer.gnome.org/gio/
 [3]: https://developer.gnome.org/gobject/stable/
 [4]: https://github.com/aosp-mirror/platform_bionic
+[5]: https://www.khronos.org/opengles/
+[6]: https://www.khronos.org/openglsc/
 [7]: https://en.wikipedia.org/wiki/The_C_Programming_Language
+[8]: https://www.khronos.org/vulkan/
 [9]: http://www.fefe.de/dietlibc/
 [10]: http://www.musl-libc.org/
+[11]: https://github.com/eug/awesome-opengl
 [12]: https://en.wikipedia.org/wiki/Widget_toolkit
 [13]: https://en.wikipedia.org/wiki/Free_software
 [14]: https://www.gtk.org/
+[15]: https://github.com/vinjn/awesome-vulkan
 [16]: http://webserver2.tecgraf.puc-rio.br/iup/
 [18]: https://www.enlightenment.org?p=about%252Flibs
 [19]: http://www.tcl.tk/
@@ -715,7 +727,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [172]: https://www.gnu.org/software/libtool/
 [173]: https://www.gnu.org/software/libunistring/
 [174]: https://www.gnu.org/software/libxmi/
-[175]: http://www.multiprecision.org/index.php?prog=mpc&page=home
+[175]: http://www.multiprecision.org/mpc/
 [176]: http://mpfr.loria.fr/index.html
 [177]: https://www.gnu.org/software/mpria/
 [178]: https://www.gnu.org/software/ncurses/
@@ -961,7 +973,6 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [LIC31]: http://www.wtfpl.net/txt/copying/
 [LIC32]: https://libjpeg-turbo.org/About/License
 [LIC33]: http://www.libpng.org/pub/png/src/libpng-LICENSE.txt
-[LIC34]: http://www.sgi.com/tech/opengl/?/license.html
 [LIC35]: http://www.tcl.tk/software/tcltk/license.html
 [LIC36]: https://www.gnu.org/licenses/license-list.html#MPL-2.0
 [LIC37]: https://curl.haxx.se/docs/copyright.html
