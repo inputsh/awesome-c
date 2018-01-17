@@ -44,6 +44,7 @@ Contents
       - [Beginner](#beginner-1)
       - [Intermediate](#intermediate-1)
       - [Advanced](#advanced-1)
+- [Macros](#macros)
 - [Multimedia](#multimedia)
 - [Networking and Internet](#networking-and-internet)
   - [Web Frameworks](#web-frameworks)
@@ -262,9 +263,15 @@ This is a list of resources for learning C programming in general, or something 
 * [SEI CERT C Coding Standard][266]
 * [C FAQ - comp.lang.c Frequently Asked Questions][262]
 * [Comparison of C/POSIX standard library implementations for GNU/Linux][362]
-* [Draft C11 standard][247]
 * [GNU C Reference Manual][329]
 * [Robert Pike's notes on programming in C][273]
+* [Draft ANSI C Rationale][423]
+* [Draft C99 Rationale][424]
+
+##### Language Standards #####
+* [Draft ANSI C (C89) standard][421]
+* [Draft C99 standard][422]
+* [Draft C11 standard][247]
 
 #### Beginner ####
 
@@ -331,6 +338,10 @@ This is a list of resources for learning C programming in general, or something 
 #### Advanced ####
 
 * [Expert C Programming: Deep C Secrets][55] - Interesting, in-depth and *entertaining* look at the innards of C.
+
+## Macros ##
+
+* [P99][425] - Suite of macros to implement advanced features like default function arguments, scope-bound resources, etc. [[Q Public License][LIC48]] (Requires C99)
 
 ## Multimedia ##
 
@@ -939,6 +950,12 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [418]: https://github.com/contiki-os/contiki
 [419]: https://code.visualstudio.com/
 [420]: http://www.scons.org/
+[421]: http://port70.net/~nsz/c/c89/c89-draft.txt
+[422]: http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1256.pdf
+[423]: http://port70.net/~nsz/c/c89/rationale/
+[424]: http://port70.net/~nsz/c/c99/C99RationaleV5.10.pdf
+[425]: http://p99.gforge.inria.fr/
+
 
 [LIC1]: http://www.gnu.org/licenses/gpl.html
 [LIC2]: https://gitlab.kitware.com/cmake/cmake/raw/master/Copyright.txt
@@ -986,3 +1003,4 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [LIC45]: https://github.com/jgm/CommonMark/blob/master/LICENSE
 [LIC46]: https://github.com/libgit2/libgit2/blob/master/COPYING
 [LIC47]: http://troydhanson.github.io/uthash/license.html
+[LIC48]: https://tldrlegal.com/license/q-public-license-1.0-(qpl-1.0)#summary
