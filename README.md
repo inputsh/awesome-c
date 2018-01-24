@@ -248,6 +248,7 @@ These are specifically [widget toolkits][12].
 * [Jansson][53] - C library for encoding, decoding and manipulating JSON. [[Expat][LIC11]]
 * [jsmn][120] - Minimalistic JSON parser. [[Expat][LIC11]]
 * [json-c][220] - Library for working with JSON. [[Expat][LIC11]]
+* [parson][421] - Lightweight JSON library written in C. [[MIT License]][LIC18]
 * [WJElement][77] - Advanced JSON manipulation library, with support for JSON Schema. [LGPL, any version]
 * [YAJL][60] - Fast C JSON streaming parser library. [[ISC][LIC26]]
 
@@ -939,6 +940,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [418]: https://github.com/contiki-os/contiki
 [419]: https://code.visualstudio.com/
 [420]: http://www.scons.org/
+[421]: https://github.com/kgabis/parson
 
 [LIC1]: http://www.gnu.org/licenses/gpl.html
 [LIC2]: https://gitlab.kitware.com/cmake/cmake/raw/master/Copyright.txt
