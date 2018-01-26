@@ -249,6 +249,7 @@ These are specifically [widget toolkits][12].
 * [Jansson][53] - C library for encoding, decoding and manipulating JSON. [[Expat][LIC11]]
 * [jsmn][120] - Minimalistic JSON parser. [[Expat][LIC11]]
 * [json-c][220] - Library for working with JSON. [[Expat][LIC11]]
+* [parson][417] - Lightweight JSON library written in C. [[MIT License]][LIC18]
 * [WJElement][77] - Advanced JSON manipulation library, with support for JSON Schema. [LGPL, any version]
 * [YAJL][60] - Fast C JSON streaming parser library. [[ISC][LIC26]]
 
@@ -947,6 +948,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [412]: https://atom.io/
 [414]: https://github.com/aws/amazon-freertos
 [416]: http://www.chibios.org/dokuwiki/doku.php
+[417]: https://github.com/kgabis/parson
 [418]: https://github.com/contiki-os/contiki
 [419]: https://code.visualstudio.com/
 [420]: http://www.scons.org/
@@ -955,7 +957,6 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [423]: http://port70.net/~nsz/c/c89/rationale/
 [424]: http://port70.net/~nsz/c/c99/C99RationaleV5.10.pdf
 [425]: http://p99.gforge.inria.fr/
-
 
 [LIC1]: http://www.gnu.org/licenses/gpl.html
 [LIC2]: https://gitlab.kitware.com/cmake/cmake/raw/master/Copyright.txt
