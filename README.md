@@ -35,6 +35,7 @@ Contents
 - [Learning, Reference and Tutorials](#learning-reference-and-tutorials)
   - [Online](#online)
       - [Reference](#reference)
+        - [Language Standards](#language-standards)
       - [Beginner](#beginner)
       - [Intermediate](#intermediate)
       - [Advanced](#advanced)
