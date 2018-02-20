@@ -13,6 +13,7 @@ Contents
 
 - [Build Systems](#build-systems)
 - [Compilers](#compilers)
+- [Compiler libraries](#compiler-libraries)
 - [Compression](#compression)
 - [Crypto](#crypto)
 - [Database](#database)
@@ -30,6 +31,7 @@ Contents
 - [Graphics](#graphics)
   - [Graphic APIs](#graphic-apis)
 - [Graphical User Interface](#graphical-user-interface)
+- [Hashing](#hashing)
 - [Image Processing](#image-processing)
 - [JSON](#json)
 - [Learning, Reference and Tutorials](#learning-reference-and-tutorials)
@@ -46,11 +48,13 @@ Contents
       - [Intermediate](#intermediate-1)
       - [Advanced](#advanced-1)
 - [Macros](#macros)
+- [Memory Allocators](#memory-allocators)
 - [Multimedia](#multimedia)
 - [Networking and Internet](#networking-and-internet)
   - [Web Frameworks](#web-frameworks)
 - [Numerical](#numerical)
 - [Parallel Programming](#parallel-programming)
+- [Parsers](#parsers)
 - [Regex](#regex)
 - [Serialization](#serialization)
 - [Source Code Collections](#source-code-collections)
@@ -77,6 +81,9 @@ These are tools to automate the building and testing of projects in C.
 * [Meson][368] - Extremely fast, user-friendly build system. Based on Ninja. [[Apache2.0][LIC4]]
 * [Premake][403] - Build script generator for toolsets like Visual Studio, Xcode, or GNU Make. [[3-clause BSD][LIC5]]
 * [SCons][420] - An easier, more reliable and faster way to build software. [MIT License][LIC18].
+* [Ninja][448] - Small, simple build system with a focus on speed. [[Apache2.0][LIC4]]
+* [Bazel][449] - Build system for various operating systems and targets. [[Apache2.0][LIC4]]
+* [Buck][450] - Build system created and used by Facebook. [[Apache2.0][LIC4]]
 
 ## Compilers ##
 
@@ -85,12 +92,25 @@ These are tools to automate the building and testing of projects in C.
 * [GCC][40] - Provides a C compiler as part of its compiler set. Supports C11 and OpenMP. [[GNU GPL3][LIC1] or later]
 * [PCC][74] - Venerable C compiler. Supports C99. [[Various free licenses][LIC8]]
 * [TCC][58] - Tiny C Compiler; a small, fast C compiler. Supports C99 (except complex types). [[GNU LGPL2.1][LIC9] only]
+* [Intel SPMD][452] - Compiler for a variant of the C language, for single program, multiple data programming 
+
+## Compiler libraries ##
+
+Libraries for use in compilers, interpreters, and low-level based projects.
+
+* [yasm][440] - Yasm Modular Assembler Project. [[2-clause BSD][LIC49]]
 
 ## Compression ##
 
 * [libzip][408] - A C library for reading, creating, and modifying zip archives. [[3-clause BSD][LIC5]]
 * [lzo][338] - Very fast data compression library. [[GNU GPL2.1][LIC7]]
 * [zlib][230] - Massively-spiffy yet delicately-unobtrusive compression library. [[3-clause BSD][LIC5]]
+* [bzip2][441] - Patent free, high quality data compressor. [[3-clause BSD][LIC5]]
+* [lz4][442] - Fast Compression algorithm. 
+* [snappy][443] - Fast compression library (implementation in C++, native bindings to C)
+* [zstd][445] - Fast real-time compression algorithm [[3-clause BSD][LIC5]]
+* [brotli][446] - Generic lossless compression algorithm based on LZ77, Huffman coding and 2nd order context modelling [[MIT][LIC18]]
+* [quicklz][447] - Fast compression library. [[GNU GPL2.1][LIC7] only]
 
 ## Crypto ##
 
@@ -177,6 +197,8 @@ This section has big libraries that provide data structures and other stuff you 
 * [PBL][346] - Large library of utilities, featuring data structures, among other things. [[GNU LGPL2.1][LIC9] or later (library)] or [[GNU GPL2.1][LIC7] or later (test code)]
 * [qlibc][277] - Simple and powerful C library, designed as a replacement for GLib while focusing on being small and light. [[qLib license][LIC27] (similar to [FreeBSD][LIC16])]
 * [stb][114] - Range of single-file libraries for C. [Public domain]
+* [libsrt][429] - Safe Real-Time library for C. [[3-clause BSD][LIC5]]
+
 
 ## Game Programming ##
 
@@ -240,6 +262,15 @@ These are specifically [widget toolkits][12].
 * [Tk][19] - Basic widget toolkit. Part of Tcl/Tk. [[Tcl/Tk License][LIC35]]
 * [XForms Toolkit][21] - Widget toolkit designed for the XWindow system. [[GNU LGPL2.1][LIC9] only]
 * [nuklear][402] - Single-header ANSI C gui library. [Public domain]
+
+## Hashing ##
+
+All hashing related libraries, cryptographic or not.
+
+* [jwHash][350] - Fast hashtable implementation. [[Apache2.0][LIC4]]
+* [xxHash][428] - Extremely fast non-cryptographic hash algorithm. [[2-clause BSD][LIC49]]
+* [libcrc][451] - Multi platform CRC library. [[MIT License]][LIC18]
+* [murmur][452] - C implementation of MurMur Hashing [Public domain]
 
 ## Image Processing ##
 
@@ -312,6 +343,7 @@ This is a list of resources for learning C programming in general, or something 
 * [Solving the temporary storage problem of C macros][358]
 * [Some dark corners of C][210]
 * [Writing efficient C and C code optimization][33]
+* [What every programmer should know about memory][444]
 
 #### Self-study courses ####
 
@@ -345,11 +377,27 @@ This is a list of resources for learning C programming in general, or something 
 
 * [P99][425] - Suite of macros to implement advanced features like default function arguments, scope-bound resources, etc. [[Q Public License][LIC48]] (Requires C99)
 
+## Memory Allocators ##
+
+Implementations of memory allocators for various systems and platforms.
+
+* [jemalloc][430] - General purpose malloc(3) implementation that emphasizes
+fragmentation avoidance and scalable concurrency support, commonly used in production systems [[FreeBSD][LIC16]]
+* [dlmalloc][431] - Doug Lea's malloc(3) implementation, useful for academic and research purposes [Public Domain]
+* [Hoard][432] - A Fast, Scalable, and Memory-efficient Malloc for Linux, Windows, Mac, and Solaris [[GNU GPL2][LIC1] only]
+* [nedmalloc][433] - An EXTREMELY FAST portable thread caching malloc(3) implementation written in C [[GNU GPL2][LIC1] only]
+* [rpmalloc][434] - Public domain. cross platform, lock-free memory allocator [Public Domain]
+
+
 ## Multimedia ##
 
 * [FFMPEG][63] - Complete, cross-platform solution to record, convert and stream audio and video. [[GNU LGPL2.1][LIC9] or later] or [[GNU GPL2.1][LIC7] or later (some parts)]
 * [GStreamer][123] - Framework for audio and visual media. [[GNU LGPL2.1][LIC9] only]
 * [lodepng][69] - Simple PNG image decoder and encoder, requiring no other dependencies. [[3-clause BSD][LIC5]]
+* [libsoup][167] - GNOME HTTP client/server library. Uses GObject. [[GNU LGPL2.1][LIC9] only]
+* [libmpv][348] - Music-playing library. Compile with ``./waf configure --disable-cplayer --enable-libmpv-shared`` to not have the music player. [[GNU GPL2.1][LIC7] or later]
+* [libsoundio][372] - Library for cross-platform, real-time audio input and output. Has a range of back-ends. [[Expat][LIC11]]
+
 
 ## Networking and Internet ##
 
@@ -364,12 +412,12 @@ This is a list of resources for learning C programming in general, or something 
 * [libcurl][65] - Client-side URL transfer library, supporting a wide range of formats. [[curl license][LIC37]]
 * [LibEtPan][222] - Mail library providing an efficient network for IMAP, SMTP, POP and NNTP. [[3-clause BSD][LIC5]]
 * [libev][144] - Yet another event loop. [[FreeBSD][LIC16]]
+* [libuv][56] - Cross-platform asynchronous I/O. [[Expat][LIC11]]
 * [libevent][124] - Event loop replacement for network servers. [[3-clause BSD][LIC5]]
 * [libgss][161] - Generic Security Service. [[GNU GPL3][LIC1] or later]
 * [libhttpd][166] - Library to add basic web server capabilities to an application or embedded device. [[GNU GPL2][LIC1] only]
 * [libidn][164] - Implementation of the Stringprep, Punycode and IDNA specifications. [[GNU GPL3][LIC1] or later]
 * [libmicrohttpd][165] - Small C library that makes it easy to run an HTTP server as part of another application. [[GNU LGPL2.1][LIC9] or later]
-* [libsoup][167] - GNOME HTTP client/server library. Uses GObject. [[GNU LGPL2.1][LIC9] only]
 * [lwan][199] - Experimental, scalable, high-performance HTTP server. [[GNU GPL2.1][LIC7] only]
 * [mongoose][171] - Embedded web server for C. [[GNU GPL2.1][LIC7] only]
 * [nanomsg][139] - C-based implementation of ZeroMQ. [[Expat][LIC11]]
@@ -381,6 +429,8 @@ This is a list of resources for learning C programming in general, or something 
 * [Tox][145] - Communication platform, designed to be a Skype-killer. [[GNU GPL3][LIC1] only]
 * [twitc][237] - Mini C library for interacting with the Twitter OAuth API. [[Expat][LIC11]]
 * [librg][407] - Library for building simple and elegant cross-platform mmo client-server solutions. [[Apache2.0][LIC4]]
+* [dyad][434] - Asynchronous networking library [[MIT License][LIC18]]
+* [h2o][435] - Optimized HTTP/1, HTTP/2 high performance server/library [[MIT License][LIC18]]
 
 ### Web Frameworks ###
 
@@ -388,6 +438,7 @@ This is a list of resources for learning C programming in general, or something 
 * [onion][170] - C library to create simple HTTP servers and Web Applications. [[Apache2.0][LIC4]]
 * [kore][398] - Easy to use, scalable and secure web application framework for writing web APIs in C.
 * [klone][399] - KLone is a fully-featured, multiplatform, web application development framework.
+* [duda][438] - Duda I/O is an event-driven and high performant web services framework written in C. [[Apache2.0][LIC4]]
 
 ## Numerical ##
 
@@ -415,6 +466,7 @@ This is a list of resources for learning C programming in general, or something 
 * [cchan][243] - Small library for channel constructs for inter-thread communication. [Public domain]
 * [ck][242] - Concurrency primitives, safe memory reclamation mechanisms and non-blocking data structures. [[FreeBSD][LIC16]]
 * [mill][352] - Go-style concurrency in C. [[X11][LIC29]]
+* [libdill][427] - Structured concurrency in C. [[X11][LIC29]]
 * [MPICH][285] - Another implementation of MPI. [[MPICH licence][LIC40]]
 * [OpenMP][37] - Set of C pragmas designed to allow for easy parallelization of code. [Standard (licensing not applicable)]
 * [OpenMPI][284] - Message passing interface implementation. [[3-clause BSD][LIC5]]
@@ -423,6 +475,15 @@ This is a list of resources for learning C programming in general, or something 
 * [pthreads][146] - The POSIX thread library. [Standard (no license applicable)]
 * [SLEPc][283] - Software library for the solution of large, sparse eigenvalue problems on parallel computers. [[GNU LGPL3][LIC38] only]
 * [TinyCThread][115] - Portable, small implementation of the C11 threads API. [[zlib][LIC28]]
+
+## Parsers ##
+
+* [hammer][356] - Parser combinators for binary formats. [[GNU GPL2.1][LIC7] only]
+* [iniparser][336] - Parser for .ini files. [[Expat][LIC11]]
+* [libYAML][341] - YAML 1.1 parser and emitter. [[Expat][LIC11]]
+* [mpc][238] - Parser combinator library. [[FreeBSD][LIC16]]
+* [libucl][239] - Universal configuration library parser. [[FreeBSD][LIC16]]
+
 
 ## Regex ##
 
@@ -484,6 +545,7 @@ This contains standard C libraries.
 * [CUnit][94] - Another unit testing framework for C. [[GNU LGPL2.0][LIC9] only]
 * [Cutest][392] - Library for unit testing with memory leak detection (Linux, freeBSD and Windows). [[GPL2][LIC7]]
 * [minunit][92] - Minimal unit testing framework for C. [[Expat][LIC11]]
+* [munit][426] - Small but full-featured unit testing framework for C with no dependencies. [[MIT License][LIC18]]
 * [Unity][296] - Simple unit testing framework for C. [[Expat][LIC11]]
 
 ## Text Editor Extensions ##
@@ -524,8 +586,6 @@ This is a list of useful programs to help you write and debug C code which are *
 * [Highlight][333] - Converts source code to formatted text with nice highlighting. [[GNU GPL3][LIC1] only]
 * [include-what-you-use][289] - Helps find unecessary inclusions and make suggestions for fixing them. Based on LLVM/Clang (and only works with it). [[NCSA][LIC6]]
 * [indent][315] - Formats C source code automatically to make it easier to read. Also converts from one style of source to another. [[GNU GPLv3][LIC1] or later]
-* [Make][324] - Tool which controls the generation of executables and other non-source files of a program (link to the GNU implementation). [[GNU GPL3][LIC1] or later]
-* [qo][274] - Build system that works without a separate config file. [[Expat][LIC11]]
 * [rr][95] - Debugger that records non-deterministic executions to allow for deterministic debugging. [[FreeBSD][LIC16]]
 * [tup][326] - Very fast, file-based, cross-platform build system. [[GNU GPL2.1][LIC7] only]
 * [unifdef][290] - Removes #ifdef and #if directives with their delimited text without touching any other part of the file. [[3-clause BSD][LIC5]] and [[FreeBSD][LIC16]]
@@ -537,8 +597,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 
 * [ApeTagLibs][345] - C library for working with APEv2 tags. [[Expat][LIC11]]
 * [bfd][157] - Library for manipulating binary object files. Part of GNU binutils. [[GNU GPL3][LIC1] or later]
-* [ccv][195] - C-based/Cached/Core Computer Vision library; modern computer vision. [[3-clause BSD][LIC5]]
-* [cf4ocl][311] - The C Framework for OpenCL; a cross-platform object-oriented framework for developing and benchmarking [OpenCL][312] projects. [[GNU LGPL3][LIC38] (library)] or [[GNU GPL3][LIC1] (project code)]
+* [cf4ocl][311] - The C Framework for OpenCL; a cross-platform object-oriented framework for developing and benchmarking  [OpenCL][312] projects. [[GNU LGPL3][LIC38] (library)] or [[GNU GPL3][LIC1] (project code)]
 * [CommonMark][223] - C implementation of the CommonMark spec. [[Various free licenses][LIC45]]
 * [CException][298] - C implementation of exceptions. [[Expat][LIC11]]
 * [docopt.c][270] - C implementation of a command-line option parser. [[Expat][LIC11]]
@@ -550,11 +609,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 * [GNU gperf][351] - Perfect hash function generator, given a list of strings. Outputs C code. [[GNU GPL3][LIC1] or later]
 * [GNU Libffcall][162] - Collection of libraries for building foreign function interfaces. [[GNU GPL3][LIC1] or later]
 * [gperftools][295] - Collection of utilities for measuring and improving performance. [[3-clause BSD][LIC5]]
-* [hammer][356] - Parser combinators for binary formats. [[GNU GPL2.1][LIC7] only]
 * [huffandpuff][214] - Minimal Huffman encoder and decoder. [Public domain]
-* [iniparser][336] - Parser for .ini files. [[Expat][LIC11]]
-* [jemalloc][293] - Malloc implementation that emphasizes avoidance of fragmentation and scalable concurrency support. [[FreeBSD][LIC16]]
-* [jwHash][350] - Fast hashtable implementation. [[Apache2.0][LIC4]]
 * [kdtree][337] - Simple library for working with KD-trees. [[3-clause BSD][LIC5]]
 * [Kitsune][355] - Efficient, general-purpose framework for dynamic software updating. [[GNU LGPL3][LIC38] or later]
 * [libavl][156] - Library containing a range of self-balancing binary trees. [[GNU GPL3][LIC1] or later]
@@ -563,20 +618,17 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 * [libffi][128] - Portable foreign-function interface library. [[Expat][LIC11]]
 * [libgit2][108] - Pure C implementation of Git. [[GNU GPL2 only, with a linking exception][LIC46]]
 * [libimobiledevice][354] - Cross-platform protocol library to communicate with iThings. [[GNU LGPLv2.1][LIC9] or later (library)] or [[GNU GPL2.1][LIC7] or later (tools)]
-* [libmpv][348] - Music-playing library. Compile with ``./waf configure --disable-cplayer --enable-libmpv-shared`` to not have the music player. [[GNU GPL2.1][LIC7] or later]
 * [libnfc][332] - Platform-independent Near-Field Communication library. [[GNU LGPL3][LIC38] only]
 * [libPhenom][31] - Eventing framework for building high-scalability and high-performance systems. [[Apache2.0][LIC4]]
-* [libsoundio][372] - Library for cross-platform, real-time audio input and output. Has a range of back-ends. [[Expat][LIC11]]
-* [libucl][239] - Universal configuration library parser. [[FreeBSD][LIC16]]
-* [libuv][56] - Cross-platform asynchronous I/O. [[Expat][LIC11]]
-* [libYAML][341] - YAML 1.1 parser and emitter. [[Expat][LIC11]]
-* [mpc][238] - Parser combinator library. [[FreeBSD][LIC16]]
 * [ncurses][178] - Coloured terminal UI library. [[GNU GPL3][LIC1] or later]
 * [nope.c][209] - C-language-based, ultra-light software platform for scalable server-side and networking applications (think node.js for C programmers). [[GNU GPL2.1][LIC7] only]
 * [pbc][236] - Protocol buffers library. [[Expat][LIC11]]
 * [rabbitmq-c][228] - Client library for [RabbitMQ][229]. [[Expat][LIC11]]
 * [Ragel][54] - DSL for state machines that compiles to C. [[GNU GPL2.1][LIC7] only]
 * [uthash][117] - Hash table implementation, allowing existing structures to be stored in a hash table easily. [[1-clause BSD][LIC47]]
+* [cpu_features][436] - A cross platform C99 library to get cpu features at runtime. [[Apache2.0][LIC4]]
+* [pblog][437] - Small, low overhead, structured logging library intended for logging formware events.[[Apache2.0][LIC4]]
+* [libelf][439] - ELF object file access library in C. [[GNU GPL2.1][LIC7] only]
 
 ## XML ##
 
@@ -958,6 +1010,34 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [423]: http://port70.net/~nsz/c/c89/rationale/
 [424]: http://port70.net/~nsz/c/c99/C99RationaleV5.10.pdf
 [425]: http://p99.gforge.inria.fr/
+[426]: https://nemequ.github.io/munit/
+[427]: https://github.com/sustrik/libdill
+[428]: https://github.com/Cyan4973/xxHash
+[429]: https://github.com/faragon/libsrt
+[430]: https://github.com/jemalloc/jemalloc
+[431]: http://g.oswego.edu/pub/misc/malloc.c
+[432]: https://github.com/emeryberger/Hoard
+[433]: https://github.com/ned14/nedmalloc
+[434]: https://github.com/rxi/dyad
+[435]: https://github.com/h2o/h2o
+[436]: https://github.com/google/cpu_features
+[437]: https://github.com/google/pblog
+[438]: https://github.com/monkey/duda
+[439]: https://github.com/WolfgangSt/libelf
+[440]: https://github.com/yasm/yasm
+[441]: http://www.bzip.org/1.0.6/bzip2-1.0.6.tar.gz
+[442]: https://github.com/lz4/lz4
+[443]: https://github.com/google/snappy
+[444]: https://www.akkadia.org/drepper/cpumemory.pdf
+[445]: https://github.com/facebook/zstd
+[446]: https://github.com/google/brotli
+[447]: http://www.quicklz.com/download.html
+[448]: https://github.com/ninja-build/ninja
+[449]: https://github.com/bazelbuild/bazel
+[450]: https://github.com/facebook/buck
+[451]: https://github.com/lammertb/libcrc
+[451]: https://github.com/PeterScott/murmur3
+[452]: https://github.com/ispc/ispc
 
 [LIC1]: http://www.gnu.org/licenses/gpl.html
 [LIC2]: https://gitlab.kitware.com/cmake/cmake/raw/master/Copyright.txt
@@ -1006,3 +1086,5 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [LIC46]: https://github.com/libgit2/libgit2/blob/master/COPYING
 [LIC47]: http://troydhanson.github.io/uthash/license.html
 [LIC48]: https://tldrlegal.com/license/q-public-license-1.0-(qpl-1.0)#summary
+[LIC49]: https://directory.fsf.org/wiki/License:BSD_2Clause
+
