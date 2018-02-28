@@ -92,7 +92,7 @@ These are tools to automate the building and testing of projects in C.
 * [GCC][40] - Provides a C compiler as part of its compiler set. Supports C11 and OpenMP. [[GNU GPL3][LIC1] or later]
 * [PCC][74] - Venerable C compiler. Supports C99. [[Various free licenses][LIC8]]
 * [TCC][58] - Tiny C Compiler; a small, fast C compiler. Supports C99 (except complex types). [[GNU LGPL2.1][LIC9] only]
-* [Intel SPMD][452] - Compiler for a variant of the C language, for single program, multiple data programming 
+* [Intel SPMD][452] - Compiler for a variant of the C language, for single program, multiple data programming
 
 ## Compiler libraries ##
 
@@ -106,7 +106,7 @@ Libraries for use in compilers, interpreters, and low-level based projects.
 * [lzo][338] - Very fast data compression library. [[GNU GPL2.1][LIC7]]
 * [zlib][230] - Massively-spiffy yet delicately-unobtrusive compression library. [[3-clause BSD][LIC5]]
 * [bzip2][441] - Patent free, high quality data compressor. [[3-clause BSD][LIC5]]
-* [lz4][442] - Fast Compression algorithm. 
+* [lz4][442] - Fast Compression algorithm.
 * [snappy][443] - Fast compression library (implementation in C++, native bindings to C)
 * [zstd][445] - Fast real-time compression algorithm [[3-clause BSD][LIC5]]
 * [brotli][446] - Generic lossless compression algorithm based on LZ77, Huffman coding and 2nd order context modelling [[MIT][LIC18]]
@@ -324,9 +324,11 @@ This is a list of resources for learning C programming in general, or something 
 * [Diving into concurrency: trying out mutexes and atomics][202]
 * [Introduction to OpenMP][207] (video)
 * [OpenMP tutorial][264] (for the OpenMP3 standard)
+* [memcpy vs memmove][205]
 * [MPI tutorial][265]
 * [Some unknown features or tricks in C language][374]
 * [The lost art of C structure packing][34]
+* [What a C programmer should know about memory][271]
 * [What every C programmer should know about undefined behaviour][275]
 
 #### Advanced ####
@@ -740,7 +742,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [116]: http://bstring.sourceforge.net/
 [117]: http://troydhanson.github.io/uthash/
 [119]: https://www.enlightenment.org?p=about%252Fefl
-[120]: https://zserge.com
+[120]: https://zserge.com/jsmn.html
 [121]: https://www.postgresql.org/
 [123]: https://gstreamer.freedesktop.org/
 [124]: http://libevent.org/
@@ -817,6 +819,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [202]: https://jvns.ca/blog/2014/12/14/fun-with-threads/
 [203]: https://github.com/silentbicycle/socket99
 [204]: http://danluu.com/malloc-tutorial/
+[205]: https://web.archive.org/web/20170620131430/https://www.tedunangst.com/flak/post/memcpy-vs-memmove
 [206]: https://blogs.oracle.com/ksplice/8-gdb-tricks-you-should-know
 [207]: https://www.youtube.com/playlist?list=PLLX-Q6B8xqZ8n8bwjGdzBJ25X2utwnoEG
 [208]: http://nethack4.org/blog/building-c.html
@@ -874,6 +877,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [267]: http://blog.pkh.me/p/20-templating-in-c.html
 [269]: https://github.com/AbsInt/CompCert
 [270]: https://github.com/docopt/docopt.c
+[271]: http://marek.vavrusa.com/memory/
 [272]: https://kukuruku.co/post/i-do-not-know-c/
 [273]: http://www.lysator.liu.se/c/pikestyle.html
 [274]: https://github.com/andlabs/qo
