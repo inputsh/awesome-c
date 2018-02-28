@@ -1054,7 +1054,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [LIC17]: https://www.gnu.org/licenses/old-licenses/fdl-1.1.html
 [LIC18]: https://raw.githubusercontent.com/atom/atom/master/LICENSE.md
 [LIC19]: https://directory.fsf.org/wiki/License:EPLv1.0
-[LIC20]: https://github.com/qtproject/qt-creator/blob/master/LICENSE.GPL3-EXCEPT
+[LIC20]: https://github.com/qt-creator/qt-creator/blob/master/LICENSE.GPL3-EXCEPT
 [LIC21]: https://github.com/aws/amazon-freertos/blob/master/LICENSE
 [LIC22]: http://www.chibios.org/dokuwiki/doku.php?id=chibios:licensing:start\
 [LIC23]: https://github.com/contiki-os/contiki/blob/master/LICENSE
