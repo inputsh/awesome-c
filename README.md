@@ -324,11 +324,9 @@ This is a list of resources for learning C programming in general, or something 
 * [Diving into concurrency: trying out mutexes and atomics][202]
 * [Introduction to OpenMP][207] (video)
 * [OpenMP tutorial][264] (for the OpenMP3 standard)
-* [memcpy vs memmove][205]
 * [MPI tutorial][265]
 * [Some unknown features or tricks in C language][374]
 * [The lost art of C structure packing][34]
-* [What a C programmer should know about memory][271]
 * [What every C programmer should know about undefined behaviour][275]
 
 #### Advanced ####
@@ -658,7 +656,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [18]: https://www.enlightenment.org?p=about%252Flibs
 [19]: http://www.tcl.tk/
 [21]: http://xforms-toolkit.org/
-[22]: http://www.sqlite.org/
+[22]: http://www.sqlite.org/index.html
 [23]: https://unqlite.org/
 [25]: https://mariadb.com/
 [26]: https://github.com/clibs/clib
@@ -742,7 +740,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [116]: http://bstring.sourceforge.net/
 [117]: http://troydhanson.github.io/uthash/
 [119]: https://www.enlightenment.org?p=about%252Fefl
-[120]: http://zserge.com/jsmn.html
+[120]: https://zserge.com
 [121]: https://www.postgresql.org/
 [123]: https://gstreamer.freedesktop.org/
 [124]: http://libevent.org/
@@ -819,7 +817,6 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [202]: https://jvns.ca/blog/2014/12/14/fun-with-threads/
 [203]: https://github.com/silentbicycle/socket99
 [204]: http://danluu.com/malloc-tutorial/
-[205]: https://www.tedunangst.com/flak/post/memcpy-vs-memmove
 [206]: https://blogs.oracle.com/ksplice/8-gdb-tricks-you-should-know
 [207]: https://www.youtube.com/playlist?list=PLLX-Q6B8xqZ8n8bwjGdzBJ25X2utwnoEG
 [208]: http://nethack4.org/blog/building-c.html
@@ -877,7 +874,6 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [267]: http://blog.pkh.me/p/20-templating-in-c.html
 [269]: https://github.com/AbsInt/CompCert
 [270]: https://github.com/docopt/docopt.c
-[271]: http://marek.vavrusa.com/c/memory/2015/02/20/memory/
 [272]: https://kukuruku.co/post/i-do-not-know-c/
 [273]: http://www.lysator.liu.se/c/pikestyle.html
 [274]: https://github.com/andlabs/qo
@@ -968,7 +964,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [370]: https://bitbucket.org/orx/orx
 [371]: https://github.com/zturtleman/spearmint
 [372]: https://github.com/andrewrk/libsoundio
-[374]: http://proprogramming.org/some-unknown-features-or-tricks-in-c-language/
+[374]: https://proprogramming.org/some-unknown-features-or-tricks-in-c-language/
 [376]: https://github.com/timonwong/libao
 [377]: https://github.com/camgunz/cmp
 [378]: https://github.com/ludocode/mpack
@@ -1082,9 +1078,8 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [LIC42]: http://unlicense.org/
 [LIC43]: https://github.com/vim-syntastic/syntastic/blob/master/LICENCE
 [LIC44]: https://directory.fsf.org/wiki/License:BSD_4Clause
-[LIC45]: https://github.com/jgm/CommonMark/blob/master/LICENSE
+[LIC45]: https://github.com/commonmark/CommonMark/blob/master/LICENSE
 [LIC46]: https://github.com/libgit2/libgit2/blob/master/COPYING
 [LIC47]: http://troydhanson.github.io/uthash/license.html
 [LIC48]: https://tldrlegal.com/license/q-public-license-1.0-(qpl-1.0)#summary
 [LIC49]: https://directory.fsf.org/wiki/License:BSD_2Clause
-
