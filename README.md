@@ -418,6 +418,7 @@ fragmentation avoidance and scalable concurrency support, commonly used in produ
 * [libhttpd][166] - Library to add basic web server capabilities to an application or embedded device. [[GNU GPL2][LIC1] only]
 * [libidn][164] - Implementation of the Stringprep, Punycode and IDNA specifications. [[GNU GPL3][LIC1] or later]
 * [libmicrohttpd][165] - Small C library that makes it easy to run an HTTP server as part of another application. [[GNU LGPL2.1][LIC9] or later]
+* [libvldmail][453] - Your friendly e-mail address validation library. [[WTFPLv2][LIC31]]
 * [lwan][199] - Experimental, scalable, high-performance HTTP server. [[GNU GPL2.1][LIC7] only]
 * [mongoose][171] - Embedded web server for C. [[GNU GPL2.1][LIC7] only]
 * [nanomsg][139] - C-based implementation of ZeroMQ. [[Expat][LIC11]]
@@ -1038,6 +1039,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [451]: https://github.com/lammertb/libcrc
 [451]: https://github.com/PeterScott/murmur3
 [452]: https://github.com/ispc/ispc
+[453]: https://github.com/dertuxmalwieder/libvldmail
 
 [LIC1]: http://www.gnu.org/licenses/gpl.html
 [LIC2]: https://gitlab.kitware.com/cmake/cmake/raw/master/Copyright.txt
