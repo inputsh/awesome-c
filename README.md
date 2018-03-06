@@ -554,8 +554,8 @@ This contains standard C libraries.
 While practically any decent programmer's text editor supports C, there are some extensions that make it more pleasant. This is categorized by editor.
 
 ### Atom ###
-* [linter-clang][453] - Lint C code in Atom, using Clang.
-* [linter-gcc][454] - Lint C code in Atom, using GCC.
+* [linter-clang][453] - Lint C code in Atom, using Clang. [[MIT License][LIC18]]
+* [linter-gcc][454] - Lint C code in Atom, using GCC. [[MIT License][LIC18]]
 
 ### Emacs ###
 
