@@ -552,6 +552,10 @@ This contains standard C libraries.
 
 While practically any decent programmer's text editor supports C, there are some extensions that make it more pleasant. This is categorized by editor.
 
+### Atom ###
+* [linter-clang][453] - Lint C code in Atom, using Clang.
+* [linter-gcc][454] - Lint C code in Atom, using GCC.
+
 ### Emacs ###
 
 * [CEDET][250] - Collection of Emacs Development Environment Tools; designed to provide IDE-like features to Emacs. Built-in. [[GNU GPL3][LIC1] or later]
@@ -1038,6 +1042,8 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [451]: https://github.com/lammertb/libcrc
 [451]: https://github.com/PeterScott/murmur3
 [452]: https://github.com/ispc/ispc
+[453]: https://github.com/AtomLinter/linter-clang
+[454]: https://github.com/hebaishi/linter-gcc
 
 [LIC1]: http://www.gnu.org/licenses/gpl.html
 [LIC2]: https://gitlab.kitware.com/cmake/cmake/raw/master/Copyright.txt
