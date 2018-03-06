@@ -93,7 +93,7 @@ These are tools to automate the building and testing of projects in C.
 * [GCC][40] - Provides a C compiler as part of its compiler set. Supports C11 and OpenMP. [[GNU GPL3][LIC1] or later]
 * [PCC][74] - Venerable C compiler. Supports C99. [[Various free licenses][LIC8]]
 * [TCC][58] - Tiny C Compiler; a small, fast C compiler. Supports C99 (except complex types). [[GNU LGPL2.1][LIC9] only]
-* [Intel SPMD][452] - Compiler for a variant of the C language, for single program, multiple data programming 
+* [Intel SPMD][452] - Compiler for a variant of the C language, for single program, multiple data programming
 
 ## Compiler libraries ##
 
@@ -107,7 +107,7 @@ Libraries for use in compilers, interpreters, and low-level based projects.
 * [lzo][338] - Very fast data compression library. [[GNU GPL2.1][LIC7]]
 * [zlib][230] - Massively-spiffy yet delicately-unobtrusive compression library. [[3-clause BSD][LIC5]]
 * [bzip2][441] - Patent free, high quality data compressor. [[3-clause BSD][LIC5]]
-* [lz4][442] - Fast Compression algorithm. 
+* [lz4][442] - Fast Compression algorithm.
 * [snappy][443] - Fast compression library (implementation in C++, native bindings to C)
 * [zstd][445] - Fast real-time compression algorithm [[3-clause BSD][LIC5]]
 * [brotli][446] - Generic lossless compression algorithm based on LZ77, Huffman coding and 2nd order context modelling [[MIT][LIC18]]
@@ -419,6 +419,7 @@ fragmentation avoidance and scalable concurrency support, commonly used in produ
 * [libhttpd][166] - Library to add basic web server capabilities to an application or embedded device. [[GNU GPL2][LIC1] only]
 * [libidn][164] - Implementation of the Stringprep, Punycode and IDNA specifications. [[GNU GPL3][LIC1] or later]
 * [libmicrohttpd][165] - Small C library that makes it easy to run an HTTP server as part of another application. [[GNU LGPL2.1][LIC9] or later]
+* [libvldmail][453] - Your friendly e-mail address validation library. [[WTFPLv2][LIC31]]
 * [lwan][199] - Experimental, scalable, high-performance HTTP server. [[GNU GPL2.1][LIC7] only]
 * [mongoose][171] - Embedded web server for C. [[GNU GPL2.1][LIC7] only]
 * [nanomsg][139] - C-based implementation of ZeroMQ. [[Expat][LIC11]]
@@ -554,7 +555,7 @@ This contains standard C libraries.
 While practically any decent programmer's text editor supports C, there are some extensions that make it more pleasant. This is categorized by editor.
 
 ### Atom ###
-* [linter-clang][453] - Lint C code in Atom, using Clang. [[MIT License][LIC18]]
+* [linter-clang][455] - Lint C code in Atom, using Clang. [[MIT License][LIC18]]
 * [linter-gcc][454] - Lint C code in Atom, using GCC. [[MIT License][LIC18]]
 
 ### Emacs ###
@@ -663,7 +664,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [18]: https://www.enlightenment.org?p=about%252Flibs
 [19]: http://www.tcl.tk/
 [21]: http://xforms-toolkit.org/
-[22]: http://www.sqlite.org/
+[22]: http://www.sqlite.org/index.html
 [23]: https://unqlite.org/
 [25]: https://mariadb.com/
 [26]: https://github.com/clibs/clib
@@ -747,7 +748,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [116]: http://bstring.sourceforge.net/
 [117]: http://troydhanson.github.io/uthash/
 [119]: https://www.enlightenment.org?p=about%252Fefl
-[120]: http://zserge.com/jsmn.html
+[120]: https://zserge.com/jsmn.html
 [121]: https://www.postgresql.org/
 [123]: https://gstreamer.freedesktop.org/
 [124]: http://libevent.org/
@@ -824,7 +825,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [202]: https://jvns.ca/blog/2014/12/14/fun-with-threads/
 [203]: https://github.com/silentbicycle/socket99
 [204]: http://danluu.com/malloc-tutorial/
-[205]: https://www.tedunangst.com/flak/post/memcpy-vs-memmove
+[205]: https://web.archive.org/web/20170620131430/https://www.tedunangst.com/flak/post/memcpy-vs-memmove
 [206]: https://blogs.oracle.com/ksplice/8-gdb-tricks-you-should-know
 [207]: https://www.youtube.com/playlist?list=PLLX-Q6B8xqZ8n8bwjGdzBJ25X2utwnoEG
 [208]: http://nethack4.org/blog/building-c.html
@@ -882,7 +883,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [267]: http://blog.pkh.me/p/20-templating-in-c.html
 [269]: https://github.com/AbsInt/CompCert
 [270]: https://github.com/docopt/docopt.c
-[271]: http://marek.vavrusa.com/c/memory/2015/02/20/memory/
+[271]: http://marek.vavrusa.com/memory/
 [272]: https://kukuruku.co/post/i-do-not-know-c/
 [273]: http://www.lysator.liu.se/c/pikestyle.html
 [274]: https://github.com/andlabs/qo
@@ -973,7 +974,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [370]: https://bitbucket.org/orx/orx
 [371]: https://github.com/zturtleman/spearmint
 [372]: https://github.com/andrewrk/libsoundio
-[374]: http://proprogramming.org/some-unknown-features-or-tricks-in-c-language/
+[374]: https://proprogramming.org/some-unknown-features-or-tricks-in-c-language/
 [376]: https://github.com/timonwong/libao
 [377]: https://github.com/camgunz/cmp
 [378]: https://github.com/ludocode/mpack
@@ -1043,8 +1044,9 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [451]: https://github.com/lammertb/libcrc
 [451]: https://github.com/PeterScott/murmur3
 [452]: https://github.com/ispc/ispc
-[453]: https://github.com/AtomLinter/linter-clang
+[453]: https://github.com/dertuxmalwieder/libvldmail
 [454]: https://github.com/hebaishi/linter-gcc
+[455]: https://github.com/AtomLinter/linter-clang
 
 [LIC1]: http://www.gnu.org/licenses/gpl.html
 [LIC2]: https://gitlab.kitware.com/cmake/cmake/raw/master/Copyright.txt
@@ -1065,7 +1067,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [LIC17]: https://www.gnu.org/licenses/old-licenses/fdl-1.1.html
 [LIC18]: https://raw.githubusercontent.com/atom/atom/master/LICENSE.md
 [LIC19]: https://directory.fsf.org/wiki/License:EPLv1.0
-[LIC20]: https://github.com/qtproject/qt-creator/blob/master/LICENSE.GPL3-EXCEPT
+[LIC20]: https://github.com/qt-creator/qt-creator/blob/master/LICENSE.GPL3-EXCEPT
 [LIC21]: https://github.com/aws/amazon-freertos/blob/master/LICENSE
 [LIC22]: http://www.chibios.org/dokuwiki/doku.php?id=chibios:licensing:start\
 [LIC23]: https://github.com/contiki-os/contiki/blob/master/LICENSE
@@ -1089,9 +1091,8 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [LIC42]: http://unlicense.org/
 [LIC43]: https://github.com/vim-syntastic/syntastic/blob/master/LICENCE
 [LIC44]: https://directory.fsf.org/wiki/License:BSD_4Clause
-[LIC45]: https://github.com/jgm/CommonMark/blob/master/LICENSE
+[LIC45]: https://github.com/commonmark/CommonMark/blob/master/LICENSE
 [LIC46]: https://github.com/libgit2/libgit2/blob/master/COPYING
 [LIC47]: http://troydhanson.github.io/uthash/license.html
 [LIC48]: https://tldrlegal.com/license/q-public-license-1.0-(qpl-1.0)#summary
 [LIC49]: https://directory.fsf.org/wiki/License:BSD_2Clause
-
