@@ -62,6 +62,7 @@ Contents
 - [String Manipulation](#string-manipulation)
 - [Testing](#testing)
 - [Text Editor Extensions](#text-editor-extensions)
+  - [Atom](#atom)
   - [Emacs](#emacs)
   - [Vim](#vim)
 - [Tools](#tools)
