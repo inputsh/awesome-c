@@ -62,6 +62,7 @@ Contents
 - [String Manipulation](#string-manipulation)
 - [Testing](#testing)
 - [Text Editor Extensions](#text-editor-extensions)
+  - [Atom](#atom)
   - [Emacs](#emacs)
   - [Vim](#vim)
 - [Tools](#tools)
@@ -552,6 +553,10 @@ This contains standard C libraries.
 ## Text Editor Extensions ##
 
 While practically any decent programmer's text editor supports C, there are some extensions that make it more pleasant. This is categorized by editor.
+
+### Atom ###
+* [linter-clang](https://github.com/AtomLinter/linter-clang) - Lint C code in Atom, using Clang. [[MIT License](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)]
+* [linter-gcc](https://github.com/hebaishi/linter-gcc) - Lint C code in Atom, using GCC. [[MIT License](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)]
 
 ### Emacs ###
 
