@@ -85,6 +85,7 @@ These are tools to automate the building and testing of projects in C.
 * [Ninja](https://github.com/ninja-build/ninja) - Small, simple build system with a focus on speed. [[Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0)]
 * [Bazel](https://github.com/bazelbuild/bazel) - Build system for various operating systems and targets. [[Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0)]
 * [Buck](https://github.com/facebook/buck) - Build system created and used by Facebook. [[Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0)]
+* [qmake](https://doc.qt.io/qt-5/qmake-manual.html) - Build system included with the Qt Framework. [[GNU GPL3 with Qt Exception](https://github.com/qt/qtbase/blob/5.11/LICENSE.GPL3-EXCEPT)]
 
 ## Compilers ##
 
