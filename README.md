@@ -96,6 +96,7 @@ These are tools to automate the building and testing of projects in C.
 * [PCC](http://pcc.ludd.ltu.se/) - Venerable C compiler. Supports C99. [[Various free licenses](http://pcc.ludd.ltu.se/licenses/)]
 * [TCC](https://bellard.org/tcc/) - Tiny C Compiler; a small, fast C compiler. Supports C99 (except complex types). [[GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) only]
 * [Intel SPMD](https://github.com/ispc/ispc) - Compiler for a variant of the C language, for single program, multiple data programming
+* [ccache](https://ccache.samba.org/) - Compiler cache designed to speedup recompilation. [[GNU GPL3 or later](https://ccache.samba.org/license.html)]
 
 ## Compiler libraries ##
 
