@@ -635,6 +635,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 * [cpu_features](https://github.com/google/cpu_features) - A cross platform C99 library to get cpu features at runtime. [[Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0)]
 * [pblog](https://github.com/google/pblog) - Small, low overhead, structured logging library intended for logging formware events.[[Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0)]
 * [libelf](https://github.com/WolfgangSt/libelf) - ELF object file access library in C. [[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html) only]
+* [mcpp](http://mcpp.sourceforge.net/) - A portable C preprocessor [[2-clause BSD](https://opensource.org/licenses/BSD-2-Clause)]
 
 ## XML ##
 
