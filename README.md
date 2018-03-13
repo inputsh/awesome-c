@@ -642,6 +642,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 * [mcpp](http://mcpp.sourceforge.net/) - Portable C preprocessor. [[2-clause BSD](https://opensource.org/licenses/BSD-2-Clause)]
 * [libusb](http://libusb.info/) - Generic access to USB devices. [[LGPL2.1](https://github.com/libusb/libusb/blob/master/COPYING)]
 * [alsa-lib](http://www.alsa-project.org/main/index.php/Main_Page) - Userspace library to interact with ALSA. [[LGPL2.1](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html)]
+* [Capstone](https://github.com/aquynh/capstone) - Dissasembly/disassembler framework. [[BSD 3-clause](https://github.com/aquynh/capstone/blob/master/LICENSE.TXT)]
 
 ## XML ##
 
