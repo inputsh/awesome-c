@@ -87,6 +87,7 @@ These are tools to automate the building and testing of projects in C.
 * [Buck](https://github.com/facebook/buck) - Build system created and used by Facebook. [[Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0)]
 * [Qbs](https://wiki.qt.io/Qbs) - Modern build tool for software projects. [[LGPL3](https://code.qt.io/cgit/qbs/qbs.git/tree/LICENSE.LGPLv3)]
 * [qmake](https://doc.qt.io/qt-5/qmake-manual.html) - Build system included with the Qt Framework. [[GNU GPL3 with Qt Exception](https://github.com/qt/qtbase/blob/5.11/LICENSE.GPL3-EXCEPT)]
+* [xmake](https://github.com/tboox/xmake) - Cross-platform build utility based on lua. [[Apache 2.0](https://github.com/tboox/xmake/blob/master/LICENSE.md)]
 
 ## Compilers ##
 
