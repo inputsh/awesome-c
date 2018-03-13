@@ -123,6 +123,7 @@ Libraries for use in compilers, interpreters, and low-level based projects.
 * [libsodium](https://github.com/jedisct1/libsodium) - Modern and easy-to-use crypto library. [[Expat](https://directory.fsf.org/wiki/License:Expat)]
 * [libtomcrypt](https://github.com/libtom/libtomcrypt) - Fairly comprehensive, modular and portable cryptographic toolkit. [Public domain]
 * [mbed TLS](https://tls.mbed.org/) - Another crypto implementation for C. [[Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0)]
+* [libressl](https://www.libressl.org/) - Modernized fork of OpenSSL. [[Various licenses](https://cvsweb.openbsd.org/cgi-bin/cvsweb/~checkout~/src/lib/libssl/LICENSE?rev=1.12)]
 
 ## Database ##
 
