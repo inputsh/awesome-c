@@ -200,7 +200,7 @@ This section has big libraries that provide data structures and other stuff you 
 * [libnih](https://github.com/keybuk/libnih) - Lightweight library of C functions and structures. [[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html) only]
 * [libU](http://www.koanlogic.com/libu/) - Small library of basic utilities, including memory allocation, string manipulation and logging. [[3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause)]
 * [PBL](http://www.mission-base.com/peter/source/) - Large library of utilities, featuring data structures, among other things. [[GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) or later (library)] or [[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html) or later (test code)]
-* [qlibc](https://github.com/wolkykim/qlibc) - Simple and powerful C library, designed as a replacement for GLib while focusing on being small and light. [[qLib license](https://github.com/wolkykim/qlibc/blob/master/LICENSE) (similar to [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD))]
+* [qlibc](https://github.com/wolkykim/qlibc) - Simple and powerful C library, designed as a replacement for GLib while focusing on being small and light. [[qLib license](https://github.com/wolkykim/qlibc/blob/master/LICENSE) (similar to [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD)]
 * [stb](https://github.com/nothings/stb) - Range of single-file libraries for C. [Public domain]
 * [libsrt](https://github.com/faragon/libsrt) - Safe Real-Time library for C. [[3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause)]
 
