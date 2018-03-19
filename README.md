@@ -244,6 +244,7 @@ These are libraries of all sorts that are useful for game programming.
 * [Cairo](https://www.cairographics.org/) -2D graphics library. [[GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) only] or [[MPLv1.1](https://directory.fsf.org/wiki/License:MPLv1.1)]
 * [Cogl](https://github.com/rib/cogl-web/wiki) - GPU graphics and utilities API. [[Expat](https://directory.fsf.org/wiki/License:Expat)]
 * [Clutter](https://blogs.gnome.org/clutter/get-it/) - UI library based on OpenGL. [[GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) only]
+* [giflib](https://sourceforge.net/projects/giflib/) - Library for reading and writing gif images. [[MIT](https://spdx.org/licenses/MIT.html)]
 * [heman](https://github.com/prideout/heman) - Tiny library of image utilities dealing with height maps, normal maps, distance fields and the like. [[Expat](https://directory.fsf.org/wiki/License:Expat)]
 * [libcaca](https://github.com/cacalabs/libcaca) - ASCII renderer for terminal-based interfaces. [[WTFPLv2](http://www.wtfpl.net/txt/copying/)]
 * [libimagequant](https://pngquant.org/lib/) - Small, portable library for high-quality conversion of RGBA images to 8-bit indexed colour images. [[FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD)]
