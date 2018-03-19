@@ -270,6 +270,7 @@ These are specifically [widget toolkits](https://en.wikipedia.org/wiki/Widget_to
 * [XForms Toolkit](http://xforms-toolkit.org/) - Widget toolkit designed for the XWindow system. [[GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) only]
 * [nuklear](https://github.com/vurtun/nuklear) - Single-header ANSI C gui library. [Public domain]
 * [libui](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library. [[MIT](https://github.com/andlabs/libui/blob/master/LICENSE)]
+* [LCUI](http://lcui.org/) - Small C library for building user interfaces with C, XML and CSS. [[MIT](https://github.com/lc-soft/LCUI/blob/develop/LICENSE.TXT)]
 
 ## Hashing ##
 
