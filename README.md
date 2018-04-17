@@ -112,7 +112,7 @@ Libraries for use in compilers, interpreters, and low-level based projects.
 * [zlib](https://github.com/madler/zlib) - Massively-spiffy yet delicately-unobtrusive compression library. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD_3Clause)
 * [bzip2](http://www.bzip.org/1.0.6/bzip2-1.0.6.tar.gz) - Patent free, high quality data compressor. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD_3Clause)
 * [lz4](https://github.com/lz4/lz4) - Fast Compression algorithm.
-* [snappy](https://github.com/google/snappy) - Fast compression library (implementation in C++, native bindings to C)
+* [snappy](https://github.com/google/snappy) - Fast compression library (implementation in C++, native bindings to C).
 * [zstd](https://github.com/facebook/zstd) - Fast real-time compression algorithm [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD_3Clause)
 * [brotli](https://github.com/google/brotli) - Generic lossless compression algorithm based on LZ77, Huffman coding and 2nd order context modelling [`MIT`](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)
 * [quicklz](http://www.quicklz.com/download.html) - Fast compression library. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
@@ -279,7 +279,7 @@ All hashing related libraries, cryptographic or not.
 * [jwHash](https://github.com/watmough/jwHash) - Fast hashtable implementation. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache2.0)
 * [xxHash](https://github.com/Cyan4973/xxHash) - Extremely fast non-cryptographic hash algorithm. [`2-clause BSD`](https://directory.fsf.org/wiki/License:BSD_2Clause)
 * [libcrc](https://github.com/PeterScott/murmur3) - Multi platform CRC library. [`MIT`](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)
-* [murmur](https://github.com/ispc/ispc) - C implementation of MurMur Hashing [`Public Domain`](https://creativecommons.org/share-your-work/public-domain/)
+* [murmur](https://github.com/ispc/ispc) - C implementation of MurMur Hashing. [`Public Domain`](https://creativecommons.org/share-your-work/public-domain/)
 
 ## Image Processing ##
 
@@ -390,12 +390,11 @@ This is a list of resources for learning C programming in general, or something 
 
 Implementations of memory allocators for various systems and platforms.
 
-* [jemalloc](https://github.com/jemalloc/jemalloc) - General purpose malloc(3) implementation that emphasizes.
-fragmentation avoidance and scalable concurrency support, commonly used in production systems [`FreeBSD`](https://directory.fsf.org/wiki?title=License:FreeBSD)
+* [jemalloc](https://github.com/jemalloc/jemalloc) - General purpose malloc(3) implementation that emphasizes fragmentation avoidance and scalable concurrency support, commonly used in production systems. [`FreeBSD`](https://directory.fsf.org/wiki?title=License:FreeBSD)
 * [dlmalloc](http://g.oswego.edu/pub/misc/malloc.c) - Doug Lea's malloc(3) implementation, useful for academic and research purposes. [`Public Domain`](https://creativecommons.org/share-your-work/public-domain/)
 * [Hoard](https://github.com/emeryberger/Hoard) - A Fast, Scalable, and Memory-efficient Malloc for Linux, Windows, Mac, and Solaris. [`GNU GPL2`](http://www.gnu.org/licenses/gpl.html)
 * [nedmalloc](https://github.com/ned14/nedmalloc) - An EXTREMELY FAST portable thread caching malloc(3) implementation written in C. [`GNU GPL2`](http://www.gnu.org/licenses/gpl.html)
-* [rpmalloc](https://github.com/rxi/dyad) - Cross platform, lock-free memory allocator. [Public Domain](https://creativecommons.org/share-your-work/public-domain/)
+* [rpmalloc](https://github.com/rampantpixels/rpmalloc) - Cross platform, lock-free memory allocator. [Public Domain](https://creativecommons.org/share-your-work/public-domain/)
 
 
 ## Multimedia ##
@@ -439,8 +438,8 @@ fragmentation avoidance and scalable concurrency support, commonly used in produ
 * [Tox](https://github.com/irungentoo/toxcore) - Communication platform, designed to be a Skype-killer. [`GNU GPL3`](http://www.gnu.org/licenses/gpl.html)
 * [twitc](https://github.com/sinemetu1/twitc) - Mini C library for interacting with the Twitter OAuth API. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [librg](https://github.com/librg/librg) - Library for building simple and elegant cross-platform mmo client-server solutions. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache2.0)
-* [dyad](https://github.com/rxi/dyad) - Asynchronous networking library [`MIT`](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)
-* [h2o](https://github.com/h2o/h2o) - Optimized HTTP/1, HTTP/2 high performance server/library [`MIT`](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)
+* [dyad](https://github.com/rxi/dyad) - Asynchronous networking library. [`MIT`](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)
+* [h2o](https://github.com/h2o/h2o) - Optimized HTTP/1, HTTP/2 high performance server/library. [`MIT`](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)
 
 ### Web Frameworks ###
 
@@ -489,7 +488,7 @@ fragmentation avoidance and scalable concurrency support, commonly used in produ
 ## Parsers ##
 
 * [hammer](https://github.com/abiggerhammer/hammer) - Parser combinators for binary formats. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
-* [iniparser](https://github.com/ndevilla/iniparser) - Parser for .ini files. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
+* [iniparser](https://github.com/ndevilla/iniparser) - Parser for `.ini` files. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [libYAML](http://www.pyyaml.org/wiki/LibYAML) - YAML 1.1 parser and emitter. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [mpc](https://github.com/orangeduck/mpc) - Parser combinator library. [`FreeBSD`](https://directory.fsf.org/wiki?title=License:FreeBSD)
 * [libucl](https://github.com/vstakhov/libucl) - Universal configuration library parser. [`FreeBSD`](https://directory.fsf.org/wiki?title=License:FreeBSD)
