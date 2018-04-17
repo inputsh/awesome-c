@@ -328,7 +328,7 @@ This is a list of resources for learning C programming in general, or something 
 
 #### Intermediate ####
 
-* [8 gdb tricks you should know](https://blogs.oracle.com/ksplice/8-gdb-tricks-you-should-know)
+* [8 gdb tricks you should know](https://blogs.oracle.com/linux/8-gdb-tricks-you-should-know-v2)
 * [10 C99 tricks](https://blog.noctua-software.com/c-tricks.html)
 * [Diving into concurrency: trying out mutexes and atomics](https://jvns.ca/blog/2014/12/14/fun-with-threads/)
 * [Introduction to OpenMP](https://www.youtube.com/playlist?list=PLLX-Q6B8xqZ8n8bwjGdzBJ25X2utwnoEG) (video)
