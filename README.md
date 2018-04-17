@@ -96,7 +96,7 @@ These are tools to automate the building and testing of projects in C.
 * [GCC](https://gcc.gnu.org/) - Provides a C compiler as part of its compiler set. Supports C11 and OpenMP. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
 * [PCC](http://pcc.ludd.ltu.se/) - Venerable C compiler. Supports C99. [`Various free licenses`](http://pcc.ludd.ltu.se/licenses/)
 * [TCC](https://bellard.org/tcc/) - Tiny C Compiler; a small, fast C compiler. Supports C99 (except complex types). [`GNU LGPL2.1`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
-* [Intel SPMD](https://github.com/ispc/ispc) - Compiler for a variant of the C language, for single program, multiple data programming
+* [Intel SPMD](https://github.com/ispc/ispc) - Compiler for a variant of the C language, for single program, multiple data programming. [`Various licenses`](https://github.com/ispc/ispc/blob/master/LICENSE.txt)
 * [ccache](https://ccache.samba.org/) - Compiler cache designed to speedup recompilation. [`GNU GPL3 or later`](https://ccache.samba.org/license.html)
 
 ## Compiler libraries ##
@@ -194,7 +194,7 @@ This section has big libraries that provide data structures and other stuff you 
 * [APR](http://apr.apache.org/) - Apache Portable Runtime; another library of cross-platform utility functions. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache2.0)
 * [C Algorithms](https://github.com/fragglet/c-algorithms) - Collection of common algorithms and data structures for C. [`ISC`](https://directory.fsf.org/wiki/License:ISC)
 * [CPL](http://www.eso.org/sci/software/cpl/) - The Common Pipeline Library; a set of libraries designed to be a comprehensive, efficient and robust software toolkit. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
-* [EFL](https://www.enlightenment.org?p=about%252Fefl) - Large collection of useful data structures and functions. [Various Licenses]()
+* [EFL](https://www.enlightenment.org?p=about%252Fefl) - Large collection of useful data structures and functions.
 * [GLib](https://wiki.gnome.org/Projects/GLib) - Library of utility functions and structures, designed to be portable, efficient and powerful. [`GNU LGPL2.1`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
 * [GIO](https://developer.gnome.org/gio/) - Modern and easy-to-use VFS API. [`GNU LGPL2.1`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
 * [GObject](https://developer.gnome.org/gobject/stable/) - Object-oriented system and object model for C. [`GNU LGPL2.1`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
@@ -291,7 +291,7 @@ All hashing related libraries, cryptographic or not.
 * [jsmn](https://zserge.com/jsmn.html) - Minimalistic JSON parser. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [json-c](https://github.com/json-c/json-c/wiki) - Library for working with JSON. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [parson](https://github.com/kgabis/parson) - Lightweight JSON library written in C. [`MIT`](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)
-* [WJElement](https://github.com/netmail-open/wjelement/) - Advanced JSON manipulation library, with support for JSON Schema. [`LGPL, any version`]()
+* [WJElement](https://github.com/netmail-open/wjelement/) - Advanced JSON manipulation library, with support for JSON Schema. [`LGPL, any version`](https://github.com/netmail-open/wjelement/)
 * [YAJL](https://lloyd.github.io/yajl/) - Fast C JSON streaming parser library. [`ISC`](https://directory.fsf.org/wiki/License:ISC)
 
 ## Learning, Reference and Tutorials ##
@@ -478,11 +478,11 @@ fragmentation avoidance and scalable concurrency support, commonly used in produ
 * [mill](http://libmill.org/) - Go-style concurrency in C. [`X11`](https://directory.fsf.org/wiki/License:X11)
 * [libdill](https://github.com/sustrik/libdill) - Structured concurrency in C. [`X11`](https://directory.fsf.org/wiki/License:X11)
 * [MPICH](http://www.mpich.org/) - Another implementation of MPI. [`MPICH licence`](http://git.mpich.org/mpich.git/blob_plain/6aab201f58d71fc97f2c044d250389ba86ac1e3c:/COPYRIGHT)
-* [OpenMP](http://www.openmp.org/) - Set of C pragmas designed to allow for easy parallelization of code. [`Standard (licensing not applicable)`]()
+* [OpenMP](http://www.openmp.org/) - Set of C pragmas designed to allow for easy parallelization of code. [`3-clause BSD`](https://opensource.org/licenses/BSD-3-Clause)
 * [OpenMPI](https://github.com/open-mpi/ompi) - Message passing interface implementation. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD_3Clause)
 * [PETSc](http://www.mcs.anl.gov/petsc/) - Suite of data structures and routines for scalable parallel solution of scientific applications modelled by partial differential equations. [`FreeBSD`](https://directory.fsf.org/wiki?title=License:FreeBSD)
 * [pth](https://www.gnu.org/software/pth/) - Portable implementation for non-preemptive priority-based scheduling for multiple threads of execution. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
-* [pthreads](https://en.wikipedia.org/wiki/POSIX_Threads) - The POSIX thread library. [`Standard (no license applicable)`]()
+* [pthreads](https://en.wikipedia.org/wiki/POSIX_Threads) - The POSIX thread library.
 * [SLEPc](http://slepc.upv.es/) - Software library for the solution of large, sparse eigenvalue problems on parallel computers. [`GNU LGPL3`](http://www.gnu.org/licenses/lgpl.html)
 * [TinyCThread](https://tinycthread.github.io/) - Portable, small implementation of the C11 threads API. [`zlib`](https://directory.fsf.org/wiki/License:Zlib)
 
@@ -512,7 +512,7 @@ fragmentation avoidance and scalable concurrency support, commonly used in produ
 * [mpack](https://github.com/ludocode/mpack) - Another implementation of the [MessagePack](https://msgpack.org/) serialization protocol. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [netstring-c](https://github.com/liteserver/netstring-c) - Netstring encoder and decoder. [`Public Domain`](https://creativecommons.org/share-your-work/public-domain/)
 * [protobuf-c](https://github.com/protobuf-c/protobuf-c) - Implementation of Google Protocol Buffer in C. [`FreeBSD`](https://directory.fsf.org/wiki?title=License:FreeBSD)
-* [xdr](https://en.wikipedia.org/wiki/External_Data_Representation) - External Data Representation; a standard for data serialization. [`Standard (no license applicable)`]()
+* [xdr](https://en.wikipedia.org/wiki/External_Data_Representation) - External Data Representation; a standard for data serialization.
 
 Check also: [JSON](#json), [XML](#xml)
 
@@ -520,9 +520,9 @@ Check also: [JSON](#json), [XML](#xml)
 
 This contains collections of small source code. If you want something big and integrated, check the Frameworks section.
 
-* [CCAN](http://ccodearchive.net/) - Modelled after Perl's CPAN, this is a big collection of C code that does stuff. The full list is [here](http://ccodearchive.net/list.html). [`Various Licenses`]()
+* [CCAN](http://ccodearchive.net/) - Modelled after Perl's CPAN, this is a big collection of C code that does stuff. The full list is [here](http://ccodearchive.net/list.html).
 * [clib](https://github.com/clibs/clib) - Something of a package manager for C. Comes with a [bunch of libraries of its own](https://github.com/clibs/clib/wiki/Packages). [`Expat`](https://directory.fsf.org/wiki/License:Expat)
-* [gnulib](https://www.gnu.org/software/gnulib/) - Collection of common GNU code. [`Various Licenses`]()
+* [gnulib](https://www.gnu.org/software/gnulib/) - Collection of common GNU code.
 * [libdjb](http://www.fefe.de/djb/) - Collection of libraries doing various things. [`(Apparently) Public Domain`](https://creativecommons.org/share-your-work/public-domain/)
 
 ## Standard Libraries ##
@@ -588,7 +588,7 @@ This is a list of useful programs to help you write and debug C code which are *
 * [c99sh](https://github.com/RhysU/c99sh) - Run C files using hash-bang. [`FreeBSD`](https://directory.fsf.org/wiki?title=License:FreeBSD)
 * [CBMC](http://www.cprover.org/cbmc/) - C Bounded Model Checker; a tool for verification of array bounds, pointer safety and user-specified assertions. [`Original BSD`](https://directory.fsf.org/wiki/License:BSD_4Clause)
 * [cdecl](https://cdecl.org/) - Online service to translate C declarations into English and vice versa. [`Public Domain`](https://creativecommons.org/share-your-work/public-domain/)
-* [cinclude2dot](https://www.flourish.org/cinclude2dot/) - Graphs include dependencies in a C project using Graphviz. [`Any GNU GPL version (due to underspecification in the file)`]()
+* [cinclude2dot](https://www.flourish.org/cinclude2dot/) - Graphs include dependencies in a C project using Graphviz. [`Any GNU GPL version (due to underspecification in the file)`](https://directory.fsf.org/wiki/Cinclude2dot#tab=Details)
 * [Complexity](https://www.gnu.org/software/complexity/) - Tool for measuring the complexity of C source code. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
 * [CScout](https://www.spinellis.gr/cscout/) - Source code analyzer and refactoring browser for collections of C programs. [`GNU GPL3`](http://www.gnu.org/licenses/gpl.html)
 * [DDD](https://www.gnu.org/software/ddd/ddd.html) - Graphical front-end for a range of command-line debuggers. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
