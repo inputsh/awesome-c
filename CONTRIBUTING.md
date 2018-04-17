@@ -9,12 +9,11 @@ Please ensure your pull request adheres to the following guidelines:
 - Make an individual pull request for each suggestion.
 - You can either add a link or new categories, or improvements... all are welcome.
   - If you have other ideas for discussion please leave an issue.
-- Use the following format: `[Project Name][Project Link] - Description. [License Name][License Link]`
-  - Example: `[Clang][38] - C compiler for LLVM. Supports C11. [[NCSA][LIC6]]`
+- Use the following format: [Project Name][Project Link] - Description. [`License Name`](License Link)
+  - Example: `[Clang][38] - C compiler for LLVM. Supports C11. ['NCSA'](https://en.wikipedia.org/wiki/Software_license)`
   - Keep descriptions simple.
   - Licenses are optional, but encouraged.
   - License should be link to the project's license file if applicable.
-  - License links start with `LIC` prefix.
 - Titles should be [capitalized](http://grammar.yourdictionary.com/capitalization/rules-for-capitalization-in-titles.html).
 - Make pull request titles descriptive i.e. not `Updated README`.
 - Additions should be added to the bottom of the relevant category.
