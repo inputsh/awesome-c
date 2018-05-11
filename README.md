@@ -236,7 +236,7 @@ These are libraries of all sorts that are useful for game programming.
 
 ## Generic Programming ##
 
-* [klib](http://attractivechaos.github.io/klib/#About) - Small and lightweight implementations of common algorithms and data structures. [`MIT`](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)
+* [klib](http://attractivechaos.github.io/klib/#About) - Small and lightweight implementations of common algorithms and data structures. [`MIT`](https://en.wikipedia.org/wiki/MIT_License)
 
 ## Graphics ##
 
