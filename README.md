@@ -178,7 +178,7 @@ A real-time operating system (RTOS) is intended to serve real-time applications 
 * [Amazon FreeRTOS](https://aws.amazon.com/freertos/) - RTOS for microcontrollers that makes small, low-power edge devices easy to program. [`MIT`](https://github.com/aws/amazon-freertos/blob/master/LICENSE)
 * [ChibiOS](http://www.chibios.org/dokuwiki/doku.php) - RTOS with complete development environment (HAL, drivers, support files, and tools). [`Various Licenses`](http://www.chibios.org/dokuwiki/doku.php?id=chibios:licensing:start)
 * [Contiki](http://www.contiki-os.org/) - Connect low-cost, low power microcontrollers to the Internet. [`3-clause BSD`](https://github.com/contiki-os/contiki/blob/master/LICENSE)
-* [Zephyr Project](http://zephyrproject.org/) - Scalable real-time RTOS supporting multiple hardware architectures, optimized for resource constrained devices. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache2.0)
+* [Zephyr Project](http://www.zephyrproject.org/) - Scalable real-time RTOS supporting multiple hardware architectures, optimized for resource constrained devices. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache2.0)
 
 ## Environments ##
 
@@ -236,7 +236,7 @@ These are libraries of all sorts that are useful for game programming.
 
 ## Generic Programming ##
 
-* [klib](http://attractivechaos.github.io/klib/#About) - Small and lightweight implementations of common algorithms and data structures. [`MIT`](https://directory.fsf.org/wiki/License:MIT)
+* [klib](http://attractivechaos.github.io/klib/#About) - Small and lightweight implementations of common algorithms and data structures. [`MIT`](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)
 
 ## Graphics ##
 
