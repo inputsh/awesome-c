@@ -638,6 +638,8 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 * [pbc](https://github.com/cloudwu/pbc) - Protocol buffers library. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [rabbitmq-c](https://github.com/alanxz/rabbitmq-c) - Client library for [RabbitMQ](http://www.rabbitmq.com/). [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [Ragel](http://www.colm.net/open-source/ragel/) - DSL for state machines that compiles to C. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+* [tinyexpr](https://github.com/codeplea/tinyexpr) - Tiny recursive-descent parser, compiler and evaluation
+  engine for simple mathematical expressions. [`zlib`](https://directory.fsf.org/wiki/License:Zlib)
 * [uthash](http://troydhanson.github.io/uthash/) - Hash table implementation, allowing existing structures to be stored in a hash table easily. [`1-clause BSD`](http://troydhanson.github.io/uthash/license.html)
 * [cpu_features](https://github.com/google/cpu_features) - A cross platform C99 library to get cpu features at runtime. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache2.0)
 * [pblog](https://github.com/google/pblog) - Small, low overhead, structured logging library intended for logging formware events.[`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache2.0)
