@@ -618,6 +618,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 * [dyncall](http://www.dyncall.org/) - Another foreign function interface library. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [FANN](http://leenissen.dk/fann/wp/) - Fast Artifical Neural Network library; an implementation of neural networks. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [Firm](https://pp.ipd.kit.edu/firm/) - C library that provides a graph-based intermediate representation, optimizations and assembly code generation suitable for use in compilers. Comes with an example C front-end under the same license. [`GNU LGPLv2.1`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+* [Genann](https://github.com/codeplea/genann) - Simple neural network library in C. [`Zlib`](https://directory.fsf.org/wiki/License:Zlib)
 * [gjrand](https://sourceforge.net/projects/gjrand/) - Library of random-number generation routines. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html) or [`GNU GPLv3`](http://www.gnu.org/licenses/gpl.html)
 * [GNU FreeIPMI](https://www.gnu.org/software/freeipmi/index.html) - In-band and out-of-band IPMI implementation. [`GNU GPL3`](http://www.gnu.org/licenses/gpl.html)
 * [GNU gperf](https://www.gnu.org/software/gperf/) - Perfect hash function generator, given a list of strings. Outputs C code. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
