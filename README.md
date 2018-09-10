@@ -179,7 +179,7 @@ A real-time operating system (RTOS) is intended to serve real-time applications 
 * [ChibiOS](http://www.chibios.org/dokuwiki/doku.php) - RTOS with complete development environment (HAL, drivers, support files, and tools). [`Various Licenses`](http://www.chibios.org/dokuwiki/doku.php?id=chibios:licensing:start)
 * [Contiki](http://www.contiki-os.org/) - Connect low-cost, low power microcontrollers to the Internet. [`3-clause BSD`](https://github.com/contiki-os/contiki/blob/master/LICENSE)
 * [Zephyr Project](https://www.zephyrproject.org/) - Scalable real-time RTOS supporting multiple hardware architectures, optimized for resource constrained devices. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
-* [RIOT OS](https://www.riot-os.org/) - RTOS, partially POSIX compatible with CCN- and multi-threading-support. [`LGPL-2.1`](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html)
+* [RIOT OS](https://www.riot-os.org/) - Real-time multi-threading operating system that supports a range of devices that are typically found in the Internet of Things. [`LGPL-2.1`](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html)
 
 ## Environments ##
 
