@@ -395,7 +395,7 @@ Implementations of memory allocators for various systems and platforms.
 * [Hoard](http://hoard.org/) - A Fast, Scalable, and Memory-efficient Malloc for Linux, Windows, Mac, and Solaris. [`GNU GPL2`](http://www.gnu.org/licenses/gpl.html)
 * [nedmalloc](http://www.nedprod.com/programs/portable/nedmalloc/) - An EXTREMELY FAST portable thread caching malloc(3) implementation written in C. [`GNU GPL2`](http://www.gnu.org/licenses/gpl.html)
 * [rpmalloc](https://github.com/rampantpixels/rpmalloc) - Cross platform, lock-free memory allocator. [Public Domain](https://creativecommons.org/share-your-work/public-domain/)
-* [Boehm's Garbage Collector](http://www.hboehm.info/gc/) - A garbage collected malloc/realloc replacement for C [`Minimal MIT variant`](https://fedoraproject.org/wiki/Licensing:MIT#Another_Minimal_variant_.28found_in_libatomic_ops.29)
+* [Boehm's Garbage Collector](http://www.hboehm.info/gc/) - A garbage collected malloc/realloc replacement for C. [`Minimal MIT variant`](https://fedoraproject.org/wiki/Licensing:MIT#Another_Minimal_variant_.28found_in_libatomic_ops.29)
 
 
 ## Multimedia ##
