@@ -4,4 +4,4 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --allow-dupe --white-list LICENSE,opengl.org,ludd,loria,eclipse,proprogramming.org
+  - awesome_bot README.md --allow-dupe --white-list proprogramming.org,web.archive.org,travis-ci.org
