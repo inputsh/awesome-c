@@ -195,6 +195,7 @@ This section has big libraries that provide data structures and other stuff you 
 
 * [APR](http://apr.apache.org/) - Apache Portable Runtime; another library of cross-platform utility functions. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
 * [C Algorithms](https://fragglet.github.io/c-algorithms/) - Collection of common algorithms and data structures for C. [`ISC`](https://directory.fsf.org/wiki/License:ISC)
+* [C Macro Collections](https://github.com/LeoVen/C-Macro-Collections) - Header only, macro generated, generic and type-safe Collections in C. [`MIT`](https://spdx.org/licenses/MIT.html)
 * [CPL](http://www.eso.org/sci/software/cpl/) - The Common Pipeline Library; a set of libraries designed to be a comprehensive, efficient and robust software toolkit. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [EFL](https://www.enlightenment.org/) - Large collection of useful data structures and functions.
 * [GLib](https://wiki.gnome.org/Projects/GLib) - Library of utility functions and structures, designed to be portable, efficient and powerful. [`GNU LGPL2.1`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
