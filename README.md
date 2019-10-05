@@ -79,12 +79,12 @@ These are tools to automate the building and testing of projects in C.
 * [CMake](https://cmake.org/) - Tools for cross-platform building, testing, and packaging. [`3-clause BSD`](https://gitlab.kitware.com/cmake/cmake/raw/master/Copyright.txt)
 * [Jam](https://www.perforce.com/documentation/jam-documentation) - Build system, designed to be easier than make. Understands C build rules implicitly. [`Jam License`](https://en.wikipedia.org/wiki/Perforce_Jam#License)
 * [Libtool](https://www.gnu.org/software/libtool/) - Generic library support script. Part of the Autotools. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
-* [Meson](http://mesonbuild.com/) - Extremely fast, user-friendly build system. Based on Ninja. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
+* [Meson](https://mesonbuild.com/) - Extremely fast, user-friendly build system. Based on Ninja. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
 * [Premake](https://github.com/premake/premake-core) - Build script generator for toolsets like Visual Studio, Xcode, or GNU Make. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
 * [SCons](https://www.scons.org/) - An easier, more reliable and faster way to build software. [`MIT`](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)
 * [Ninja](https://github.com/ninja-build/ninja) - Small, simple build system with a focus on speed. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
 * [Bazel](https://bazel.build/) - Build system for various operating systems and targets. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
-* [Buck](https://buckbuild.com/) - Build system created and used by Facebook. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
+* [Buck](https://buck.build/) - Build system created and used by Facebook. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
 * [Qbs](https://doc.qt.io/qbs/) - Modern build tool for software projects. [`LGPL3`](https://code.qt.io/cgit/qbs/qbs.git/tree/LICENSE.LGPLv3)
 * [qmake](https://doc.qt.io/qt-5/qmake-manual.html) - Build system included with the Qt Framework. [`GNU GPL3 with Qt Exception`](https://github.com/qt/qtbase/blob/5.11/LICENSE.GPL3-EXCEPT)
 * [xmake](https://xmake.io/) - Cross-platform build utility based on lua. [`Apache 2.0`](https://github.com/xmake-io/xmake/blob/master/LICENSE.md )
@@ -97,7 +97,7 @@ These are tools to automate the building and testing of projects in C.
 * [PCC](http://pcc.ludd.ltu.se/) - Venerable C compiler. Supports C99. [`Various free licenses`](http://pcc.ludd.ltu.se/licenses/)
 * [TCC](https://bellard.org/tcc/) - Tiny C Compiler; a small, fast C compiler. Supports C99 (except complex types). [`GNU LGPL2.1`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
 * [Intel SPMD](http://ispc.github.io/) - Compiler for a variant of the C language, for single program, multiple data programming. [`Various licenses`](https://github.com/ispc/ispc/blob/master/LICENSE.txt)
-* [ccache](https://ccache.samba.org/) - Compiler cache designed to speedup recompilation. [`GNU GPL3 or later`](https://ccache.samba.org/license.html)
+* [ccache](https://ccache.dev/) - Compiler cache designed to speedup recompilation. [`GNU GPL3 or later`](https://ccache.dev/license.html)
 
 ## Compiler libraries ##
 
@@ -621,7 +621,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 * [ApeTagLibs](https://github.com/jeremyevans/ape_tag_libs/tree/master/c) - C library for working with APEv2 tags. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [bfd](http://sourceware.org/binutils/docs/bfd/) - Library for manipulating binary object files. Part of GNU binutils. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
 * [cf4ocl](https://fakenmc.github.io/cf4ocl/) - The C Framework for OpenCL; a cross-platform object-oriented framework for developing and benchmarking  [OpenCL](https://www.khronos.org/opencl/) projects. [`GNU LGPL3 (library)`](http://www.gnu.org/licenses/lgpl.html) or [`GNU GPL3 (project code)`](http://www.gnu.org/licenses/gpl.html)
-* [CommonMark](https://github.com/commonmark/CommonMark) - C implementation of the CommonMark spec. [`Various Licenses`](https://github.com/commonmark/CommonMark/blob/master/LICENSE)
+* [CommonMark](https://github.com/commonmark/commonmark-spec) - C implementation of the CommonMark spec. [`Various Licenses`](https://github.com/commonmark/commonmark-spec/blob/master/LICENSE)
 * [CException](https://github.com/ThrowTheSwitch/CException) - C implementation of exceptions. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [docopt.c](https://github.com/docopt/docopt.c) - C implementation of a command-line option parser. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [dyncall](http://www.dyncall.org/) - Another foreign function interface library. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
