@@ -53,6 +53,7 @@ Contents
 - [Networking and Internet](#networking-and-internet)
   - [Web Frameworks](#web-frameworks)
 - [Numerical](#numerical)
+- [Operating Systems] (#operating-systems)
 - [Parallel Programming](#parallel-programming)
 - [Parsers](#parsers)
 - [Regex](#regex)
@@ -476,6 +477,9 @@ Implementations of memory allocators for various systems and platforms.
 * [PETSc](https://www.mcs.anl.gov/petsc/) - Suite of data structures and routines for scalable parallel solution of scientific applications modelled by partial differential equations. [`FreeBSD`](https://directory.fsf.org/wiki?title=License:FreeBSD)
 * [PROB](https://people.sc.fsu.edu/~jburkardt/c_src/prob/prob.html) - Library that handles various discrete and continuous probability density functions.  [`GNU LGPL3`](https://people.sc.fsu.edu/~jburkardt/txt/gnu_lgpl.txt)
 * [Yeppp!](https://bitbucket.org/MDukhan/yeppp) - Very fast, SIMD-optimized mathematical library. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
+
+## Operating Systems ##
+* [MinocaOS] (https://github.com/minoca/os)-General purpose OS written in C
 
 ## Parallel Programming ##
 
