@@ -397,6 +397,7 @@ Implementations of memory allocators for various systems and platforms.
 * [Hoard](http://hoard.org/) - A Fast, Scalable, and Memory-efficient Malloc for Linux, Windows, Mac, and Solaris. [`GNU GPL2`](http://www.gnu.org/licenses/gpl-3.0.html)
 * [nedmalloc](http://www.nedprod.com/programs/portable/nedmalloc/) - An EXTREMELY FAST portable thread caching malloc(3) implementation written in C. [`GNU GPL2`](http://www.gnu.org/licenses/gpl-3.0.html)
 * [rpmalloc](https://github.com/rampantpixels/rpmalloc) - Cross platform, lock-free memory allocator. [`Public Domain`](https://creativecommons.org/share-your-work/public-domain/)
+* [mimalloc](https://github.com/microsoft/mimalloc) - Cross platform, state-of-the-art allocator from Microsoft Research. Beats above allocators in a broad spectrum of synthetic benchmarks. [`MIT License`](https://github.com/microsoft/mimalloc/blob/master/LICENSE)
 
 
 ## Multimedia ##
