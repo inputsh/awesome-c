@@ -553,6 +553,7 @@ This contains standard C libraries.
 * [smaz](https://github.com/antirez/smaz) - Efficient string compression library. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
 * [utf8.h](https://github.com/sheredom/utf8.h) - Single header utf8 string functions. [`Unlicense`](https://unlicense.org/)
 * [utf8proc](https://github.com/JuliaStrings/utf8proc) - Small, clean library for processing UTF-8 Unicode data. [`License`](https://github.com/JuliaStrings/utf8proc/blob/master/LICENSE.md)
+* [strtools](https://github.com/isaqueks/strtools/) - Library containing several string functions, such as split, concatAt, includes, substring and more. It has no license, but is totally free, anyone can do whatever they want with the library.
 
 ## Testing ##
 
