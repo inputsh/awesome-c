@@ -2,8 +2,6 @@
 
 A curated list of C good stuff. This list contains *only* [free software](https://en.wikipedia.org/wiki/Free_software) for code, and sellers who aren't evil for physical resources.
 
-**LOOKING FOR MAINTAINERS:** This list is currently pretty much inactive. I'm looking for maintainers that can make it great again. See [#26](https://github.com/aleksandar-todorovic/awesome-c/issues/26) for more info, but the process is simple: add or fix a couple of things in this list and you'll become a contributor to a 850+ stars list.
-
 This list was previously maintained by [@kozross](https://github.com/kozross). He decided to switch the list to a [new platform](https://notabug.org/koz.ross/awesome-c), so I've decided to fork it so we could keep it on GitHub.
 
 Contents
