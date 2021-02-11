@@ -167,6 +167,7 @@ These are specifically fancier, IDE-type editors. If you want a programmer's tex
 * [KDevelop](https://www.kdevelop.org/) - The KDE IDE. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [Qt Creator](https://www.qt.io/qt-features-libraries-apis-tools-and-ide/#ide) - Cross-platform IDE written with C++ and Qt, part of the Qt SDK. Supports Clang Code Model. [`GNU GPL3 with Qt exception`](https://github.com/qt-creator/qt-creator/blob/master/LICENSE.GPL3-EXCEPT)
 * [Visual Studio Code](https://code.visualstudio.com/) - Code editing, redefined. Visual Studio Code.
+* [Emacs](https://www.gnu.org/software/emacs/) - A customizable, free text editor with thousands of extensions
 
 ## Embedded Systems ##
 
