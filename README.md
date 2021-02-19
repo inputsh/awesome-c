@@ -613,6 +613,7 @@ This is a list of useful programs to help you write and debug C code which are *
 * [tup](http://gittup.org/tup/index.html) - Very fast, file-based, cross-platform build system. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [unifdef](http://dotat.at/prog/unifdef/) - Removes #ifdef and #if directives with their delimited text without touching any other part of the file. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause) and [`FreeBSD`](https://directory.fsf.org/wiki?title=License:FreeBSD)
 * [Valgrind](http://www.valgrind.org/) - Range of dynamic analysis tools, including a leak checker. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+* [Vcpkg](https://github.com/microsoft/vcpkg) - Helps you manage C and C++ libraries on Windows, Linux and MacOS. [`MIT`](https://raw.githubusercontent.com/microsoft/vcpkg/master/LICENSE.txt)
 
 ## Utilities ##
 
