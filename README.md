@@ -566,7 +566,7 @@ This contains standard C libraries.
 * [minunit](https://github.com/siu/minunit) - Minimal unit testing framework for C. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [munit](https://nemequ.github.io/munit/) - Small but full-featured unit testing framework for C with no dependencies. [`MIT`](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)
 * [Unity](http://www.throwtheswitch.org/) - Simple unit testing framework for C. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
-* [zpl.tester](https://github.com/zpl-c/tester) - Another minimalist unit testing framework for C. [License](https://github.com/zpl-c/tester/blob/main/LICENSE)
+* [zpl.tester](https://github.com/zpl-c/tester) - Another minimalist unit testing framework for C. [`License`](https://github.com/zpl-c/tester/blob/main/LICENSE)
 
 ## Text Editor Extensions ##
 
