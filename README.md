@@ -634,6 +634,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 * [GNU Libffcall](https://www.gnu.org/software/libffcall/) - Collection of libraries for building foreign function interfaces. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl-3.0.html)
 * [gperftools](https://github.com/gperftools/gperftools) - Collection of utilities for measuring and improving performance. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
 * [huffandpuff](https://github.com/adamierymenko/huffandpuff) - Minimal Huffman encoder and decoder. [`Public Domain`](https://creativecommons.org/share-your-work/public-domain/)
+* [IP2Trace](https://github.com/ip2location/ip2location-traceroute) - A traceroute tools that displaying geolocation information using IP2Location database. [`MIT`](https://github.com/ip2location/ip2location-traceroute/blob/master/LICENSE)
 * [kdtree](https://github.com/jtsiomb/kdtree) - Simple library for working with KD-trees. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
 * [Kitsune](http://kitsune-dsu.com/) - Efficient, general-purpose framework for dynamic software updating. [`GNU LGPL3 or later`](http://www.gnu.org/licenses/lgpl-3.0.html)
 * [libavl](http://adtinfo.org/libavl.html/index.html) - Library containing a range of self-balancing binary trees. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl-3.0.html)
