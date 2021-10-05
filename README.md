@@ -367,6 +367,7 @@ This is a list of resources for learning C programming in general, or something 
 * [C: A Reference Manual 5E](http://careferencemanual.com/) - Full reference book for C99.
 * [C Pocket Reference](http://shop.oreilly.com/product/9780596004361.do) - Concise reference book for C99.
 * [The C Programming Language 2E](https://en.wikipedia.org/wiki/The_C_Programming_Language) - The original book on C, by its creators.
+* [Tiny C Projects](https://www.manning.com/books/tiny-c-projects) - 21 fun and interesting tiny challenges to master essential C techniques you’ll use in full-size applications.
 
 #### Beginner ####
 
