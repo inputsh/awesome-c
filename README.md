@@ -236,6 +236,7 @@ These are libraries of all sorts that are useful for game programming.
 * [RetroArch](https://www.libretro.com/) - The reference frontend for [libretro](https://www.libretro.com/). [`GNU GPL3`](http://www.gnu.org/licenses/gpl-3.0.html)
 * [SDL and SDL2](https://www.libsdl.org/) - Cross-platform development library designed to provide low-level access to audio, keyboard, mouse, joystick and graphics hardware via OpenGL. SDL2 is the most current version. [`zlib`](https://directory.fsf.org/wiki/License:Zlib)
 * [raylib](https://www.raylib.com/) - Simple and easy-to-use library to learn videogames programming. [`zlib`](https://directory.fsf.org/wiki/License:Zlib)
+* [Muzzle](https://www.pikostudios.dev) - FOSS Game Framework for the C programming language that contains an easy-to-use API but also exposes low-level control to the developer. [`MIT`](
 
 ## Generic Programming ##
 
