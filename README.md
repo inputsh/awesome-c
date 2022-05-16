@@ -633,6 +633,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 * [GNU gperf](https://www.gnu.org/software/gperf/) - Perfect hash function generator, given a list of strings. Outputs C code. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl-3.0.html)
 * [GNU Libffcall](https://www.gnu.org/software/libffcall/) - Collection of libraries for building foreign function interfaces. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl-3.0.html)
 * [gperftools](https://github.com/gperftools/gperftools) - Collection of utilities for measuring and improving performance. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
+* [gv_fsm](https://github.com/pbosetti/gv_fsm) - Code generator that converts a Finite State Machine described in Graphviz to C code. [`Public Domain`](https://creativecommons.org/share-your-work/public-domain/)
 * [huffandpuff](https://github.com/adamierymenko/huffandpuff) - Minimal Huffman encoder and decoder. [`Public Domain`](https://creativecommons.org/share-your-work/public-domain/)
 * [kdtree](https://github.com/jtsiomb/kdtree) - Simple library for working with KD-trees. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
 * [Kitsune](http://kitsune-dsu.com/) - Efficient, general-purpose framework for dynamic software updating. [`GNU LGPL3 or later`](http://www.gnu.org/licenses/lgpl-3.0.html)
