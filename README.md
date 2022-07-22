@@ -328,6 +328,7 @@ This is a list of resources for learning C programming in general, or something 
 * [POSIX Threads Programming tutorial](https://computing.llnl.gov/tutorials/pthreads/) (a little dated, but most of it is still valid and useful)
 * [The GNU C Programming Tutorial](http://www.crasseux.com/books/ctut.pdf) (online PDF)
 * [Templating in C](http://blog.pkh.me/p/20-templating-in-c.html)
+* [C Programming Tutorial for Beginners](https://www.scaler.com/topics/c)
 
 #### Intermediate ####
 
