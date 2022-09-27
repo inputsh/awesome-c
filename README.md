@@ -312,6 +312,7 @@ This is a list of resources for learning C programming in general, or something 
 * [Robert Pike's notes on programming in C](http://www.lysator.liu.se/c/pikestyle.html)
 * [Draft ANSI C Rationale](http://port70.net/~nsz/c/c89/rationale/)
 * [Draft C99 Rationale](http://port70.net/~nsz/c/c99/C99RationaleV5.10.pdf)
+* [Explore C](https://kandi.openweaver.com/explore/c)
 
 ##### Language Standards #####
 * [Draft ANSI C (C89) standard](http://port70.net/~nsz/c/c89/c89-draft.txt)
